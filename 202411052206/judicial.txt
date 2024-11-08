@@ -1,0 +1,24 @@
+MN;;;7001;Chief Justice - Supreme Court;;9001;Natalie E. Hudson;;;NP;694;4103;153494;56.83;270104
+MN;;;7001;Chief Justice - Supreme Court;;9002;Stephen A Emery;;;NP;694;4103;115674;42.83;270104
+MN;;;7001;Chief Justice - Supreme Court;;9901;WRITE-IN;;;WI;694;4103;936;0.35;270104
+MN;;;7006;Associate Justice - Supreme Court 5;;9001;Anne McKeig;;;NP;694;4103;223297;98.97;225620
+MN;;;7006;Associate Justice - Supreme Court 5;;9901;WRITE-IN;;;WI;694;4103;2323;1.03;225620
+MN;;;7007;Associate Justice - Supreme Court 6;;9001;Karl Procaccini;;;NP;694;4103;131508;49.78;264163
+MN;;;7007;Associate Justice - Supreme Court 6;;9002;Matthew R. Hanson;;;NP;694;4103;131742;49.87;264163
+MN;;;7007;Associate Justice - Supreme Court 6;;9901;WRITE-IN;;;WI;694;4103;913;0.35;264163
+MN;;;7011;Judge - Court of Appeals 2;;9001;Jon Schmidt;;;NP;694;4103;221384;99.14;223315
+MN;;;7011;Judge - Court of Appeals 2;;9901;WRITE-IN;;;WI;694;4103;1931;0.86;223315
+MN;;;7012;Judge - Court of Appeals 3;;9001;Sarah Wheelock;;;NP;694;4103;220542;99.12;222504
+MN;;;7012;Judge - Court of Appeals 3;;9901;WRITE-IN;;;WI;694;4103;1962;0.88;222504
+MN;;;7013;Judge - Court of Appeals 4;;9001;Tracy Smith;;;NP;694;4103;219999;99.16;221859
+MN;;;7013;Judge - Court of Appeals 4;;9901;WRITE-IN;;;WI;694;4103;1860;0.84;221859
+MN;;;7015;Judge - Court of Appeals 6;;9001;Renee L. Worke;;;NP;694;4103;219758;99.17;221595
+MN;;;7015;Judge - Court of Appeals 6;;9901;WRITE-IN;;;WI;694;4103;1837;0.83;221595
+MN;;;7017;Judge - Court of Appeals 8;;9001;Keala Christian Ede;;;NP;694;4103;218287;99.12;220220
+MN;;;7017;Judge - Court of Appeals 8;;9901;WRITE-IN;;;WI;694;4103;1933;0.88;220220
+MN;;;7021;Judge - Court of Appeals 12;;9001;Jonathan R. Woolsey;;;NP;694;4103;108080;42.17;256326
+MN;;;7021;Judge - Court of Appeals 12;;9002;Diane B. Bratvold;;;NP;694;4103;147365;57.49;256326
+MN;;;7021;Judge - Court of Appeals 12;;9901;WRITE-IN;;;WI;694;4103;881;0.34;256326
+MN;;;7023;Judge - Court of Appeals 14;;9001;Elise Larson;;;NP;694;4103;218090;99.18;219903
+MN;;;7023;Judge - Court of Appeals 14;;9901;WRITE-IN;;;WI;694;4103;1813;0.82;219903
+

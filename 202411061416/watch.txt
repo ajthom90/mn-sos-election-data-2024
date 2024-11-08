@@ -1,0 +1,548 @@
+STATE HOUSE 1A
+John Burkel (R): 17420
+James Sceville (DFL): 5466
+WRITE-IN (WI): 14
+STATE HOUSE 1B
+Steve Gander (R): 13939
+Mike Christopherson (DFL): 6791
+WRITE-IN (WI): 14
+STATE HOUSE 2A
+Bidal Duran Jr (R): 11518
+Reed Olson (DFL): 10667
+WRITE-IN (WI): 26
+STATE HOUSE 2B
+Matt Bliss (R): 14373
+Michael Reyes (DFL): 8168
+WRITE-IN (WI): 10
+STATE HOUSE 3A
+Roger J. Skraba (R): 14443
+Harley Droba (DFL): 10779
+Rich Tru (FPI): 712
+WRITE-IN (WI): 73
+STATE HOUSE 3B
+Natalie Zeleznikar (R): 13481
+Mark Munger (DFL): 13321
+WRITE-IN (WI): 27
+STATE HOUSE 4A
+Heather M. Keeler (DFL): 11072
+Joshua Zincke (R): 7822
+WRITE-IN (WI): 32
+STATE HOUSE 4B
+Jim Joy (R): 15277
+Thaddeus Laugisch (DFL): 7710
+WRITE-IN (WI): 16
+STATE HOUSE 5A
+Krista Knudsen (R): 18855
+Brian Hobson (DFL): 7551
+WRITE-IN (WI): 22
+STATE HOUSE 5B
+Mike Wiener (R): 17604
+Gregg Hendrickson (DFL): 5729
+WRITE-IN (WI): 21
+STATE HOUSE 6A
+Ben Davis (R): 17765
+Earl Butenhoff (DFL): 9116
+WRITE-IN (WI): 19
+STATE HOUSE 6B
+Josh Heintzeman (R): 15744
+Emily LeClaire (DFL): 8209
+Troy Kenneth Scheffler (AF): 848
+WRITE-IN (WI): 32
+STATE HOUSE 7A
+Spencer Igo (R): 14422
+Aron Schnaser (DFL): 9467
+WRITE-IN (WI): 23
+STATE HOUSE 7B
+Cal Warwas (R): 13781
+Lorrie Janatopoulos (DFL): 10655
+WRITE-IN (WI): 23
+STATE HOUSE 8A
+Peter Johnson (DFL): 15009
+Mark McGrew (R): 6964
+WRITE-IN (WI): 29
+STATE HOUSE 8B
+Alicia (Liish) Kozlowski (DFL): 17443
+Shawn Savela (R): 7956
+WRITE-IN (WI): 55
+STATE HOUSE 9A
+Jeff Backer (R): 15587
+Michael Ziomko (DFL): 7043
+WRITE-IN (WI): 25
+STATE HOUSE 9B
+Tom Murphy (R): 19366
+Jason Satter (DFL): 7661
+WRITE-IN (WI): 18
+STATE HOUSE 10A
+Ron Kresha (R): 17958
+Julia Samsal Hipp (DFL): 7159
+WRITE-IN (WI): 134
+STATE HOUSE 10B
+Isaac Schultz (R): 19961
+JoEllen Burns (DFL): 5079
+WRITE-IN (WI): 24
+STATE HOUSE 11A
+Jeff Dotseth (R): 12252
+Pete Radosevich (DFL): 11588
+WRITE-IN (WI): 96
+STATE HOUSE 11B
+Nathan Nelson (R): 16038
+Eric Olson (DFL): 7314
+WRITE-IN (WI): 20
+STATE HOUSE 12A
+Paul H. Anderson (R): 17110
+Becky K. Parker (DFL): 6058
+WRITE-IN (WI): 15
+STATE HOUSE 12B
+Mary Franson (R): 18571
+Judd Hoff (DFL): 4946
+WRITE-IN (WI): 685
+STATE HOUSE 13A
+Lisa Demuth (R): 19215
+Cindy Aho (DFL): 6282
+WRITE-IN (WI): 20
+STATE HOUSE 13B
+Tim O'Driscoll (R): 16467
+Dusty Bolstad (DFL): 7505
+WRITE-IN (WI): 23
+STATE HOUSE 14A
+Bernie Perryman (R): 10967
+Abdi Daisane (DFL): 8464
+WRITE-IN (WI): 45
+STATE HOUSE 14B
+Dan Wolgamott (DFL): 9757
+Sue Ek (R): 9729
+WRITE-IN (WI): 56
+STATE HOUSE 15A
+Chris Swedzinski (R): 16111
+Anthony M Studemann (DFL): 6347
+WRITE-IN (WI): 18
+STATE HOUSE 15B
+Paul Torkelson (R): 16815
+Tom Kuster (DFL): 6316
+WRITE-IN (WI): 14
+STATE HOUSE 16A
+Scott Van Binsbergen (R): 16040
+Kathy Hegstad (DFL): 6339
+WRITE-IN (WI): 24
+STATE HOUSE 16B
+Dave Baker (R): 16473
+Josiah Ampian (DFL): 5161
+WRITE-IN (WI): 20
+STATE HOUSE 17A
+Dawn Gillman (R): 17052
+Chad Tschimperle (DFL): 6930
+WRITE-IN (WI): 24
+STATE HOUSE 17B
+Bobbie Harder (R): 17425
+Jennifer Nuesse (DFL): 7431
+WRITE-IN (WI): 25
+STATE HOUSE 18A
+Erica Schwartz (R): 12282
+Jeff Brand (DFL): 11482
+WRITE-IN (WI): 42
+STATE HOUSE 18B
+Luke Frederick (DFL): 10892
+Dar Vosburg (R): 8650
+WRITE-IN (WI): 35
+STATE HOUSE 19A
+Keith Allen (R): 13367
+Jessica Navarro (DFL): 7311
+WRITE-IN (WI): 16
+STATE HOUSE 19B
+Thomas J. Sexton (R): 14620
+Edelgard Fernandez Mejia (DFL): 7495
+WRITE-IN (WI): 28
+STATE HOUSE 20A
+Pam Altendorf (R): 14333
+Heather Arndt (DFL): 10535
+WRITE-IN (WI): 15
+STATE HOUSE 20B
+Steven E Jacob (R): 16857
+Michael Hutchinson (DFL): 8332
+WRITE-IN (WI): 24
+STATE HOUSE 21A
+Joe Schomacker (R): 18669
+Creedence Matthew Petroff (IA): 3517
+WRITE-IN (WI): 67
+STATE HOUSE 21B
+Marj J Fogelman (R): 11983
+Jon Wilson (DFL): 6078
+WRITE-IN (WI): 12
+STATE HOUSE 22A
+Bjorn Olson (R): 15700
+Marisa Ulmen (DFL): 6896
+WRITE-IN (WI): 21
+STATE HOUSE 22B
+Terry M. Stier (R): 17053
+Sara Nett-Torgrimson (DFL): 7740
+WRITE-IN (WI): 16
+STATE HOUSE 23A
+Peggy Bennett (R): 15554
+Joe Staloch (DFL): 7379
+WRITE-IN (WI): 26
+STATE HOUSE 23B
+Patricia Mueller (R): 13425
+Joseph Pacovsky (DFL): 10535
+WRITE-IN (WI): 12
+STATE HOUSE 24A
+Duane Quam (R): 15661
+Heather Holmes (DFL): 9019
+WRITE-IN (WI): 23
+STATE HOUSE 24B
+Tina Liebling (DFL): 12863
+Dan Sepeda (R): 9369
+WRITE-IN (WI): 21
+STATE HOUSE 25A
+Kim Hicks (DFL): 13085
+Ken Navitsky (R): 10259
+WRITE-IN (WI): 29
+STATE HOUSE 25B
+Andy Smith (DFL): 12847
+Wes Lund (R): 7184
+WRITE-IN (WI): 40
+STATE HOUSE 26A
+Aaron Repinski (R): 12241
+Sarah Kruger (DFL): 10916
+WRITE-IN (WI): 52
+STATE HOUSE 26B
+Gregory M. Davids (R): 15800
+Allie Wolf (DFL): 9097
+WRITE-IN (WI): 59
+STATE HOUSE 27A
+Shane Mekeland (R): 16485
+Kathryn A. Geary (DFL): 5826
+WRITE-IN (WI): 83
+STATE HOUSE 27B
+Bryan Lawrence (R): 17587
+Andrew Scouten (DFL): 5780
+WRITE-IN (WI): 54
+STATE HOUSE 28A
+James "Jimmy" Gordon (R): 17550
+Tim Dummer (DFL): 8163
+WRITE-IN (WI): 54
+STATE HOUSE 28B
+Max Rymer (R): 16768
+Mary J Murphy (DFL): 8983
+WRITE-IN (WI): 22
+STATE HOUSE 29A
+Joe McDonald (R): 18788
+Chris Brazelton (DFL): 7750
+WRITE-IN (WI): 21
+STATE HOUSE 29B
+Marion (O'Neill) Rarick (R): 15741
+Colton Kratky (DFL): 7909
+WRITE-IN (WI): 35
+STATE HOUSE 30A
+Walter Hudson (R): 16763
+Sonja Buckmeier (DFL): 9936
+WRITE-IN (WI): 18
+STATE HOUSE 30B
+Paul Novotny (R): 16357
+Paul Bolin (DFL): 7790
+WRITE-IN (WI): 37
+STATE HOUSE 31A
+Harry Niska (R): 15462
+Dara Grimmer (DFL): 9802
+WRITE-IN (WI): 39
+STATE HOUSE 31B
+Peggy Scott (R): 18727
+Gadisa Berkessa (DFL): 7800
+WRITE-IN (WI): 40
+STATE HOUSE 32A
+Nolan West (R): 14816
+Ashton Ramsammy (DFL): 10620
+WRITE-IN (WI): 45
+STATE HOUSE 32B
+Matt Norris (DFL): 12030
+Alex Moe (R): 11622
+WRITE-IN (WI): 44
+STATE HOUSE 33A
+Patti Anderson (R): 15260
+Jake Ross (DFL): 11020
+WRITE-IN (WI): 25
+STATE HOUSE 33B
+Josiah Hill (DFL): 13631
+Jessica L. Johnson (R): 12913
+WRITE-IN (WI): 28
+STATE HOUSE 34A
+Danny Nadeau (R): 15261
+Brian Raines (DFL): 13240
+WRITE-IN (WI): 33
+STATE HOUSE 34B
+Melissa Hortman (DFL): 13649
+Scott Simmons (R): 7950
+WRITE-IN (WI): 40
+STATE HOUSE 35A
+Zack Stephenson (DFL): 11822
+Josh Jungling (R): 10951
+WRITE-IN (WI): 37
+STATE HOUSE 35B
+Kari Rehrauer (DFL): 11560
+Steve Pape (R): 11280
+WRITE-IN (WI): 47
+STATE HOUSE 36A
+Elliott Engen (R): 14999
+Janelle Calhoun (DFL): 12714
+WRITE-IN (WI): 29
+STATE HOUSE 36B
+Brion Curran (DFL): 12977
+Patty Bradway (R): 12152
+WRITE-IN (WI): 37
+STATE HOUSE 37A
+Kristin Robbins (R): 15817
+Laurie Wolfe (DFL): 11851
+WRITE-IN (WI): 22
+STATE HOUSE 37B
+Kristin Bahner (DFL): 14726
+John R. Bristol (R): 11841
+WRITE-IN (WI): 18
+STATE HOUSE 38A
+Huldah Hiltsley (DFL): 10030
+Brad Olson (R): 5410
+WRITE-IN (WI): 42
+STATE HOUSE 38B
+Samantha Vang (DFL): 11078
+Robert Marvin (R): 3793
+WRITE-IN (WI): 48
+STATE HOUSE 39A
+Erin Koegel (DFL): 11751
+Rod Sylvester (R): 6749
+WRITE-IN (WI): 55
+STATE HOUSE 39B
+Sandra Feist (DFL): 14427
+Kt Jacobs (R): 5875
+WRITE-IN (WI): 44
+STATE HOUSE 40A
+Kelly Moller (DFL): 16869
+WRITE-IN (WI): 727
+STATE HOUSE 40B
+Curtis Johnson (DFL): 15963
+Paul Wikstrom (R): 8460
+WRITE-IN (WI): 63
+STATE HOUSE 41A
+Wayne A Johnson (R): 15167
+Lucia Wroblewski (DFL): 14840
+WRITE-IN (WI): 32
+STATE HOUSE 41B
+Tom Dippel (R): 12530
+Jen Fox (DFL): 12020
+WRITE-IN (WI): 50
+STATE HOUSE 42A
+Ned Carroll (DFL): 14288
+Kathy Burkett (R): 10617
+WRITE-IN (WI): 31
+STATE HOUSE 42B
+Ginny Klevorn (DFL): 15561
+Perry Nouis (R): 8757
+WRITE-IN (WI): 31
+STATE HOUSE 43A
+Cedrick B. Frazier (DFL): 13845
+Todd Hesemann (R): 6999
+WRITE-IN (WI): 29
+STATE HOUSE 43B
+Mike Freiberg (DFL): 19023
+Steve Merriman (R): 6232
+WRITE-IN (WI): 45
+STATE HOUSE 44A
+Peter M Fischer (DFL): 12085
+Karla J. Nelson (R): 7255
+WRITE-IN (WI): 35
+STATE HOUSE 44B
+Leon M. Lillie (DFL): 12369
+Bill Dahn (R): 8254
+TJ Hawthorne (LIB): 1298
+WRITE-IN (WI): 29
+STATE HOUSE 45A
+Andrew Myers (R): 15897
+Tracey Breazeale (DFL): 12972
+WRITE-IN (WI): 26
+STATE HOUSE 45B
+Patty Acomb (DFL): 19625
+WRITE-IN (WI): 994
+STATE HOUSE 46A
+Larry Kraft (DFL): 18627
+John Nagel (R): 6168
+WRITE-IN (WI): 34
+STATE HOUSE 46B
+Cheryl Youakim (DFL): 16510
+Kim Rich (R): 7863
+WRITE-IN (WI): 42
+STATE HOUSE 47A
+Amanda Hemmingsen-Jaeger (DFL): 14106
+Teresa Whitson (R): 9143
+WRITE-IN (WI): 21
+STATE HOUSE 47B
+Ethan Cha (DFL): 14202
+Dwight Dorau (R): 11867
+WRITE-IN (WI): 35
+STATE HOUSE 48A
+Jim Nash (R): 16818
+Nathan Kells (DFL): 11001
+WRITE-IN (WI): 23
+STATE HOUSE 48B
+Lucille "Lucy" Rehm (DFL): 12953
+Caleb Steffenhagen (R): 12728
+WRITE-IN (WI): 22
+STATE HOUSE 49A
+Alex Falconer (DFL): 16104
+Stacy L. Bettison (R): 10342
+WRITE-IN (WI): 37
+STATE HOUSE 49B
+Carlie Kotyza-Witthuhn (DFL): 13529
+Wendi Russo (R): 10138
+WRITE-IN (WI): 21
+STATE HOUSE 50A
+Julie Greene (DFL): 16766
+Owen Michaelson (R): 9161
+WRITE-IN (WI): 40
+STATE HOUSE 50B
+Steve Elkins (DFL): 16524
+Bob Gust (R): 9596
+WRITE-IN (WI): 33
+STATE HOUSE 51A
+Michael Howard (DFL): 15440
+Jeffrey Thompson (R): 5533
+WRITE-IN (WI): 51
+STATE HOUSE 51B
+Nathan Coulter (DFL): 13244
+Lion Dale Johnson (R): 7373
+WRITE-IN (WI): 51
+STATE HOUSE 52A
+Liz Reyer (DFL): 13784
+Diane Anderson (R): 8833
+WRITE-IN (WI): 26
+STATE HOUSE 52B
+Bianca Virnig (DFL): 15857
+Douglas Willetts (R): 10291
+WRITE-IN (WI): 31
+STATE HOUSE 53A
+Mary Frances Clardy (DFL): 14011
+Nathan Herschbach (R): 10227
+WRITE-IN (WI): 31
+STATE HOUSE 53B
+Rick Hansen (DFL): 13203
+Aaron M. Brooksby (R): 9002
+WRITE-IN (WI): 33
+STATE HOUSE 54A
+Brad Tabke (DFL): 10954
+Aaron Paul (R): 10941
+WRITE-IN (WI): 36
+STATE HOUSE 54B
+Ben Bakeberg (R): 15798
+Jean Lee (DFL): 9690
+WRITE-IN (WI): 18
+STATE HOUSE 55A
+Jessica Hanson (DFL): 12180
+Gabriela Kroetch (R): 10607
+WRITE-IN (WI): 24
+STATE HOUSE 55B
+Kaela Berg (DFL): 11616
+Van Holston (R): 7968
+WRITE-IN (WI): 24
+STATE HOUSE 56A
+Robert Bierman (DFL): 13750
+Angela Zorn (R): 8687
+WRITE-IN (WI): 24
+STATE HOUSE 56B
+John Huot (DFL): 14736
+Angeline Anderson (R): 11575
+WRITE-IN (WI): 19
+STATE HOUSE 57A
+Jon Koznick (R): 16459
+Veda Kanitz (DFL): 9833
+WRITE-IN (WI): 18
+STATE HOUSE 57B
+Jeff Witte (R): 13781
+Brian Cohn (DFL): 12520
+WRITE-IN (WI): 24
+STATE HOUSE 58A
+Kristi Pursell (DFL): 13325
+Rita Hillmann Olson (R): 12067
+WRITE-IN (WI): 22
+STATE HOUSE 58B
+Drew Roach (R): 14886
+Ian English (DFL): 9962
+WRITE-IN (WI): 29
+STATE HOUSE 59A
+Fue Lee (DFL): 11672
+WRITE-IN (WI): 247
+STATE HOUSE 59B
+Esther Agbaje (DFL): 16791
+Kenneth Smoron (R): 3549
+WRITE-IN (WI): 52
+STATE HOUSE 60A
+Sydney Jordan (DFL): 19684
+Mary Holmberg (R): 3535
+WRITE-IN (WI): 51
+STATE HOUSE 60B
+Mohamud Noor (DFL): 9993
+Abigail Wolters (R): 2041
+WRITE-IN (WI): 50
+STATE HOUSE 61A
+Katie Jones (DFL): 18234
+Toya L�pez (G): 3284
+WRITE-IN (WI): 209
+STATE HOUSE 61B
+Jamie Long (DFL): 23864
+Bob "Again" Carney Jr (R): 2861
+WRITE-IN (WI): 61
+STATE HOUSE 62A
+Aisha Gomez (DFL): 13349
+Alexandra (ZaZa) Hoffman Novick (R): 1434
+WRITE-IN (WI): 38
+STATE HOUSE 62B
+Anquam Mahamoud (DFL): 14747
+Bob Sullentrop (R): 2093
+WRITE-IN (WI): 66
+STATE HOUSE 63A
+Samantha Sencer-Mura (DFL): 20289
+WRITE-IN (WI): 255
+STATE HOUSE 63B
+Emma Greenman (DFL): 22790
+Diane Napper (R): 3878
+WRITE-IN (WI): 58
+STATE HOUSE 64A
+Kaohly Vang Her (DFL): 20441
+Dan Walsh (R): 4080
+WRITE-IN (WI): 56
+STATE HOUSE 64B
+Dave Pinto (DFL): 20922
+Peter Donahue (R): 5152
+WRITE-IN (WI): 47
+STATE HOUSE 65A
+Samakab Hussein (DFL): 10068
+WRITE-IN (WI): 304
+STATE HOUSE 65B
+Mar�a Isa P�rez-Vega (DFL): 15100
+Mike Hilborn (R): 4572
+WRITE-IN (WI): 59
+STATE HOUSE 66A
+Leigh Finke (DFL): 18166
+Fadil Jama (R): 4180
+WRITE-IN (WI): 84
+STATE HOUSE 66B
+Athena Hollins (DFL): 10864
+Greg Copeland (R): 3370
+WRITE-IN (WI): 38
+STATE HOUSE 67A
+Liz Lee (DFL): 9133
+Scott Hesselgrave (R): 3178
+WRITE-IN (WI): 37
+STATE HOUSE 67B
+Jay Xiong (DFL): 10610
+Sharon Anderson (R): 3538
+WRITE-IN (WI): 56
+STATE SENATE 45
+Ann Johnson Stewart (DFL): 29791
+Kathleen Fowke (R): 26969
+PRESIDENT
+Kamala D. Harris and Tim Walz (DFL): 1656505	50.89
+Donald J. Trump and JD Vance (R): 1518466	46.65
+Robert F. Kennedy Jr. and Nicole Shanahan (WTP): 24383	0.75
+Jill Stein and Samson Kpadenou (G): 16604	0.51
+Chase Oliver and Mike ter Maat (LIB): 15585	0.48
+Cornel West and Melina Abdullah (JFA): 3324	0.1
+Claudia De la Cruz and Karina Garcia (SLP): 3285	0.1
+Shiva Ayyadurai and Crystal Ellis (IND): 3024	0.09
+Rachele Fruit and Dennis Richter (SWP): 696	0.02
+

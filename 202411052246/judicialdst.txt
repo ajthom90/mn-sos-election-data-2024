@@ -1,0 +1,193 @@
+MN;;;8105;Judge - 1st District Court 6;01;9001;David L. Knutson;;;NP;261;354;197584;98.99;199593
+MN;;;8105;Judge - 1st District Court 6;01;9901;WRITE-IN;;;WI;261;354;2009;1.01;199593
+MN;;;8109;Judge - 1st District Court 10;01;9001;Paula Duggan Vraa;;;NP;261;354;196207;98.95;198284
+MN;;;8109;Judge - 1st District Court 10;01;9901;WRITE-IN;;;WI;261;354;2077;1.05;198284
+MN;;;8113;Judge - 1st District Court 14;01;9001;Michael Joseph Mayer;;;NP;261;354;194944;99.00;196916
+MN;;;8113;Judge - 1st District Court 14;01;9901;WRITE-IN;;;WI;261;354;1972;1.00;196916
+MN;;;8119;Judge - 1st District Court 20;01;9001;Bryce A.D. Ehrman;;;NP;261;354;194438;99.00;196402
+MN;;;8119;Judge - 1st District Court 20;01;9901;WRITE-IN;;;WI;261;354;1964;1.00;196402
+MN;;;8123;Judge - 1st District Court 24;01;9001;Jamie Cork;;;NP;261;354;194900;99.03;196802
+MN;;;8123;Judge - 1st District Court 24;01;9901;WRITE-IN;;;WI;261;354;1902;0.97;196802
+MN;;;8125;Judge - 1st District Court 26;01;9001;Jody L. Winters;;;NP;261;354;195232;99.04;197131
+MN;;;8125;Judge - 1st District Court 26;01;9901;WRITE-IN;;;WI;261;354;1899;0.96;197131
+MN;;;8128;Judge - 1st District Court 29;01;9001;Jessica Maher;;;NP;261;354;195452;99.07;197283
+MN;;;8128;Judge - 1st District Court 29;01;9901;WRITE-IN;;;WI;261;354;1831;0.93;197283
+MN;;;8129;Judge - 1st District Court 30;01;9001;Douglas C. Bayley;;;NP;261;354;194056;99.02;195976
+MN;;;8129;Judge - 1st District Court 30;01;9901;WRITE-IN;;;WI;261;354;1920;0.98;195976
+MN;;;8130;Judge - 1st District Court 31;01;9001;Richelle M. Wahi;;;NP;261;354;194731;99.01;196681
+MN;;;8130;Judge - 1st District Court 31;01;9901;WRITE-IN;;;WI;261;354;1950;0.99;196681
+MN;;;8131;Judge - 1st District Court 32;01;9001;Kathryn Iverson Landrum;;;NP;261;354;195011;99.03;196920
+MN;;;8131;Judge - 1st District Court 32;01;9901;WRITE-IN;;;WI;261;354;1909;0.97;196920
+MN;;;8132;Judge - 1st District Court 33;01;9001;Tori K. Stewart;;;NP;261;354;195047;99.02;196976
+MN;;;8132;Judge - 1st District Court 33;01;9901;WRITE-IN;;;WI;261;354;1929;0.98;196976
+MN;;;8134;Judge - 1st District Court 35;01;9001;Stacey Sorensen Green;;;NP;261;354;194931;99.01;196875
+MN;;;8134;Judge - 1st District Court 35;01;9901;WRITE-IN;;;WI;261;354;1944;0.99;196875
+MN;;;8301;Judge - 2nd District Court 2;02;9001;DeAnne Hilgers;;;NP;0;162;0;0.00;0
+MN;;;8301;Judge - 2nd District Court 2;02;9901;WRITE-IN;;;WI;0;162;0;0.00;0
+MN;;;8302;Judge - 2nd District Court 3;02;9001;Paul Yang;;;NP;0;162;0;0.00;0
+MN;;;8302;Judge - 2nd District Court 3;02;9002;Timothy Carey;;;NP;0;162;0;0.00;0
+MN;;;8302;Judge - 2nd District Court 3;02;9901;WRITE-IN;;;WI;0;162;0;0.00;0
+MN;;;8303;Judge - 2nd District Court 4;02;9001;Laura Elizabeth Nelson;;;NP;0;162;0;0.00;0
+MN;;;8303;Judge - 2nd District Court 4;02;9901;WRITE-IN;;;WI;0;162;0;0.00;0
+MN;;;8310;Judge - 2nd District Court 11;02;9001;Adam C. Yang;;;NP;0;162;0;0.00;0
+MN;;;8310;Judge - 2nd District Court 11;02;9901;WRITE-IN;;;WI;0;162;0;0.00;0
+MN;;;8318;Judge - 2nd District Court 19;02;9001;Maria Mitchell;;;NP;0;162;0;0.00;0
+MN;;;8318;Judge - 2nd District Court 19;02;9901;WRITE-IN;;;WI;0;162;0;0.00;0
+MN;;;8319;Judge - 2nd District Court 20;02;9001;P. Paul Yang;;;NP;0;162;0;0.00;0
+MN;;;8319;Judge - 2nd District Court 20;02;9901;WRITE-IN;;;WI;0;162;0;0.00;0
+MN;;;8321;Judge - 2nd District Court 22;02;9001;Jacob Kraus;;;NP;0;162;0;0.00;0
+MN;;;8321;Judge - 2nd District Court 22;02;9901;WRITE-IN;;;WI;0;162;0;0.00;0
+MN;;;8322;Judge - 2nd District Court 23;02;9001;Stephen L. Smith;;;NP;0;162;0;0.00;0
+MN;;;8322;Judge - 2nd District Court 23;02;9901;WRITE-IN;;;WI;0;162;0;0.00;0
+MN;;;8328;Judge - 2nd District Court 29;02;9001;Timothy Mulrooney;;;NP;0;162;0;0.00;0
+MN;;;8328;Judge - 2nd District Court 29;02;9002;Winona Yang;;;NP;0;162;0;0.00;0
+MN;;;8328;Judge - 2nd District Court 29;02;9901;WRITE-IN;;;WI;0;162;0;0.00;0
+MN;;;8400;Judge - 3rd District Court 1;03;9001;Christina K. Stevens;;;NP;126;440;53209;99.27;53601
+MN;;;8400;Judge - 3rd District Court 1;03;9901;WRITE-IN;;;WI;126;440;392;0.73;53601
+MN;;;8402;Judge - 3rd District Court 3;03;9001;Christy M. Hormann;;;NP;126;440;53076;99.29;53457
+MN;;;8402;Judge - 3rd District Court 3;03;9901;WRITE-IN;;;WI;126;440;381;0.71;53457
+MN;;;8404;Judge - 3rd District Court 5;03;9001;Ross Leuning;;;NP;126;440;52994;99.33;53354
+MN;;;8404;Judge - 3rd District Court 5;03;9901;WRITE-IN;;;WI;126;440;360;0.67;53354
+MN;;;8407;Judge - 3rd District Court 8;03;9001;Carol M. Hanks;;;NP;126;440;53179;99.25;53583
+MN;;;8407;Judge - 3rd District Court 8;03;9901;WRITE-IN;;;WI;126;440;404;0.75;53583
+MN;;;8409;Judge - 3rd District Court 10;03;9001;Lisa R. Hayne;;;NP;126;440;52902;99.31;53268
+MN;;;8409;Judge - 3rd District Court 10;03;9901;WRITE-IN;;;WI;126;440;366;0.69;53268
+MN;;;8411;Judge - 3rd District Court 12;03;9001;Christine A. Long;;;NP;126;440;53228;99.24;53634
+MN;;;8411;Judge - 3rd District Court 12;03;9901;WRITE-IN;;;WI;126;440;406;0.76;53634
+MN;;;8413;Judge - 3rd District Court 14;03;9001;Natalie S. Martinez;;;NP;126;440;52943;99.29;53324
+MN;;;8413;Judge - 3rd District Court 14;03;9901;WRITE-IN;;;WI;126;440;381;0.71;53324
+MN;;;8418;Judge - 3rd District Court 19;03;9001;Jeremy L. Clinefelter;;;NP;126;440;52767;99.30;53141
+MN;;;8418;Judge - 3rd District Court 19;03;9901;WRITE-IN;;;WI;126;440;374;0.70;53141
+MN;;;8419;Judge - 3rd District Court 20;03;9001;Debra A. Groehler;;;NP;126;440;52924;99.29;53305
+MN;;;8419;Judge - 3rd District Court 20;03;9901;WRITE-IN;;;WI;126;440;381;0.71;53305
+MN;;;8423;Judge - 3rd District Court 24;03;9001;Christa M. Daily;;;NP;126;440;52915;99.29;53294
+MN;;;8423;Judge - 3rd District Court 24;03;9901;WRITE-IN;;;WI;126;440;379;0.71;53294
+MN;;;8501;Judge - 4th District Court 2;04;9001;Francis Magill;;;NP;393;396;335668;98.67;340193
+MN;;;8501;Judge - 4th District Court 2;04;9901;WRITE-IN;;;WI;393;396;4525;1.33;340193
+MN;;;8502;Judge - 4th District Court 3;04;9001;Thomas J. Conley;;;NP;393;396;335456;98.69;339911
+MN;;;8502;Judge - 4th District Court 3;04;9901;WRITE-IN;;;WI;393;396;4455;1.31;339911
+MN;;;8505;Judge - 4th District Court 6;04;9001;Sydnee N. Woods;;;NP;393;396;334748;98.73;339043
+MN;;;8505;Judge - 4th District Court 6;04;9901;WRITE-IN;;;WI;393;396;4295;1.27;339043
+MN;;;8509;Judge - 4th District Court 10;04;9001;Jean E. Burdorf;;;NP;393;396;333503;98.73;337796
+MN;;;8509;Judge - 4th District Court 10;04;9901;WRITE-IN;;;WI;393;396;4293;1.27;337796
+MN;;;8510;Judge - 4th District Court 11;04;9001;Lisa K. Janzen;;;NP;393;396;334681;98.77;338858
+MN;;;8510;Judge - 4th District Court 11;04;9901;WRITE-IN;;;WI;393;396;4177;1.23;338858
+MN;;;8511;Judge - 4th District Court 12;04;9001;Michael E. Burns;;;NP;393;396;332169;98.73;336434
+MN;;;8511;Judge - 4th District Court 12;04;9901;WRITE-IN;;;WI;393;396;4265;1.27;336434
+MN;;;8512;Judge - 4th District Court 13;04;9001;Melissa Houghtaling;;;NP;393;396;333946;98.75;338163
+MN;;;8512;Judge - 4th District Court 13;04;9901;WRITE-IN;;;WI;393;396;4217;1.25;338163
+MN;;;8514;Judge - 4th District Court 15;04;9001;John L. Lucas;;;NP;393;396;331230;98.74;335468
+MN;;;8514;Judge - 4th District Court 15;04;9901;WRITE-IN;;;WI;393;396;4238;1.26;335468
+MN;;;8516;Judge - 4th District Court 17;04;9001;Shereen Askalani;;;NP;393;396;333146;98.72;337451
+MN;;;8516;Judge - 4th District Court 17;04;9901;WRITE-IN;;;WI;393;396;4305;1.28;337451
+MN;;;8521;Judge - 4th District Court 22;04;9001;Amber Brennan;;;NP;393;396;333716;98.80;337765
+MN;;;8521;Judge - 4th District Court 22;04;9901;WRITE-IN;;;WI;393;396;4049;1.20;337765
+MN;;;8523;Judge - 4th District Court 24;04;9001;Christopher Leckrone;;;NP;393;396;115939;26.91;430771
+MN;;;8523;Judge - 4th District Court 24;04;9002;Matthew Frank;;;NP;393;396;312490;72.54;430771
+MN;;;8523;Judge - 4th District Court 24;04;9901;WRITE-IN;;;WI;393;396;2342;0.54;430771
+MN;;;8532;Judge - 4th District Court 33;04;9001;Sarah E. Hudleston;;;NP;393;396;333774;98.81;337801
+MN;;;8532;Judge - 4th District Court 33;04;9901;WRITE-IN;;;WI;393;396;4027;1.19;337801
+MN;;;8539;Judge - 4th District Court 40;04;9001;Jamie L. Anderson;;;NP;393;396;331352;98.71;335668
+MN;;;8539;Judge - 4th District Court 40;04;9901;WRITE-IN;;;WI;393;396;4316;1.29;335668
+MN;;;8543;Judge - 4th District Court 44;04;9001;Lois Conroy;;;NP;393;396;332560;98.75;336762
+MN;;;8543;Judge - 4th District Court 44;04;9901;WRITE-IN;;;WI;393;396;4202;1.25;336762
+MN;;;8547;Judge - 4th District Court 48;04;9001;Mark J. Kappelhoff;;;NP;393;396;332329;98.74;336560
+MN;;;8547;Judge - 4th District Court 48;04;9901;WRITE-IN;;;WI;393;396;4231;1.26;336560
+MN;;;8548;Judge - 4th District Court 49;04;9001;Nelson Peralta;;;NP;393;396;330359;98.75;334553
+MN;;;8548;Judge - 4th District Court 49;04;9901;WRITE-IN;;;WI;393;396;4194;1.25;334553
+MN;;;8555;Judge - 4th District Court 56;04;9001;Charlene Hatcher;;;NP;393;396;331978;98.78;336085
+MN;;;8555;Judge - 4th District Court 56;04;9901;WRITE-IN;;;WI;393;396;4107;1.22;336085
+MN;;;8557;Judge - 4th District Court 58;04;9001;Christian Sande;;;NP;393;396;329867;98.74;334073
+MN;;;8557;Judge - 4th District Court 58;04;9901;WRITE-IN;;;WI;393;396;4206;1.26;334073
+MN;;;8558;Judge - 4th District Court 59;04;9001;Patrick D. Robben;;;NP;393;396;328406;98.60;333058
+MN;;;8558;Judge - 4th District Court 59;04;9901;WRITE-IN;;;WI;393;396;4652;1.40;333058
+MN;;;8606;Judge - 5th District Court 7;05;9001;Mark E. Betters;;;NP;284;473;71794;99.32;72288
+MN;;;8606;Judge - 5th District Court 7;05;9901;WRITE-IN;;;WI;284;473;494;0.68;72288
+MN;;;8609;Judge - 5th District Court 10;05;9001;Kristine A. Weeks;;;NP;284;473;71524;99.29;72034
+MN;;;8609;Judge - 5th District Court 10;05;9901;WRITE-IN;;;WI;284;473;510;0.71;72034
+MN;;;8613;Judge - 5th District Court 14;05;9001;Krista J. Jass;;;NP;284;473;71954;99.33;72438
+MN;;;8613;Judge - 5th District Court 14;05;9901;WRITE-IN;;;WI;284;473;484;0.67;72438
+MN;;;8616;Judge - 5th District Court 17;05;9001;Michael D. Trushenski;;;NP;284;473;71277;99.34;71753
+MN;;;8616;Judge - 5th District Court 17;05;9901;WRITE-IN;;;WI;284;473;476;0.66;71753
+MN;;;8617;Judge - 5th District Court 18;05;9001;Andrea J. Lieser;;;NP;284;473;71482;99.26;72015
+MN;;;8617;Judge - 5th District Court 18;05;9901;WRITE-IN;;;WI;284;473;533;0.74;72015
+MN;;;8804;Judge - 6th District Court 5;06;9001;Michelle M Anderson;;;NP;16;240;7898;99.07;7972
+MN;;;8804;Judge - 6th District Court 5;06;9901;WRITE-IN;;;WI;16;240;74;0.93;7972
+MN;;;8805;Judge - 6th District Court 6;06;9004;Shawn Reed;;;NP;16;240;4450;51.79;8593
+MN;;;8805;Judge - 6th District Court 6;06;9005;Gunnar B. Johnson;;;NP;16;240;4100;47.71;8593
+MN;;;8805;Judge - 6th District Court 6;06;9901;WRITE-IN;;;WI;16;240;43;0.50;8593
+MN;;;8811;Judge - 6th District Court 12;06;9001;Nicole L. Hopps;;;NP;16;240;7865;99.11;7936
+MN;;;8811;Judge - 6th District Court 12;06;9901;WRITE-IN;;;WI;16;240;71;0.89;7936
+MN;;;8815;Judge - 6th District Court 16;06;9001;Jill A. Eichenwald;;;NP;16;240;7830;99.10;7901
+MN;;;8815;Judge - 6th District Court 16;06;9901;WRITE-IN;;;WI;16;240;71;0.90;7901
+MN;;;8900;Judge - 7th District Court 1;07;9001;Heidi E. Schultz;;;NP;263;492;109326;99.20;110206
+MN;;;8900;Judge - 7th District Court 1;07;9901;WRITE-IN;;;WI;263;492;880;0.80;110206
+MN;;;8904;Judge - 7th District Court 5;07;9001;Timothy M. Churchwell;;;NP;263;492;64533;51.48;125362
+MN;;;8904;Judge - 7th District Court 5;07;9002;Joel A. Novak;;;NP;263;492;60404;48.18;125362
+MN;;;8904;Judge - 7th District Court 5;07;9901;WRITE-IN;;;WI;263;492;425;0.34;125362
+MN;;;8905;Judge - 7th District Court 6;07;9001;Gail T. Kulick;;;NP;263;492;108950;99.14;109897
+MN;;;8905;Judge - 7th District Court 6;07;9901;WRITE-IN;;;WI;263;492;947;0.86;109897
+MN;;;8906;Judge - 7th District Court 7;07;9001;Mary B. Mahler;;;NP;263;492;109266;99.15;110205
+MN;;;8906;Judge - 7th District Court 7;07;9901;WRITE-IN;;;WI;263;492;939;0.85;110205
+MN;;;8909;Judge - 7th District Court 10;07;9001;Matthew M. Quinn;;;NP;263;492;108726;99.15;109663
+MN;;;8909;Judge - 7th District Court 10;07;9901;WRITE-IN;;;WI;263;492;937;0.85;109663
+MN;;;8915;Judge - 7th District Court 16;07;9001;Gretchen D. Thilmony;;;NP;263;492;108636;99.20;109517
+MN;;;8915;Judge - 7th District Court 16;07;9901;WRITE-IN;;;WI;263;492;881;0.80;109517
+MN;;;8916;Judge - 7th District Court 17;07;9001;Sharon G. Benson;;;NP;263;492;108775;99.21;109640
+MN;;;8916;Judge - 7th District Court 17;07;9901;WRITE-IN;;;WI;263;492;865;0.79;109640
+MN;;;8919;Judge - 7th District Court 20;07;9001;William J. Cashman;;;NP;263;492;109219;99.24;110057
+MN;;;8919;Judge - 7th District Court 20;07;9901;WRITE-IN;;;WI;263;492;838;0.76;110057
+MN;;;8922;Judge - 7th District Court 23;07;9001;Leah J. duCharme;;;NP;263;492;108675;99.17;109588
+MN;;;8922;Judge - 7th District Court 23;07;9901;WRITE-IN;;;WI;263;492;913;0.83;109588
+MN;;;8928;Judge - 7th District Court 29;07;9001;Shan C. Wang;;;NP;263;492;108614;99.11;109591
+MN;;;8928;Judge - 7th District Court 29;07;9901;WRITE-IN;;;WI;263;492;977;0.89;109591
+MN;;;9004;Judge - 8th District Court 5;08;9001;Benjamin R. Wilcox;;;NP;133;383;25714;99.24;25912
+MN;;;9004;Judge - 8th District Court 5;08;9901;WRITE-IN;;;WI;133;383;198;0.76;25912
+MN;;;9005;Judge - 8th District Court 6;08;9001;Amy J. Doll;;;NP;133;383;25869;99.19;26079
+MN;;;9005;Judge - 8th District Court 6;08;9901;WRITE-IN;;;WI;133;383;210;0.81;26079
+MN;;;9007;Judge - 8th District Court 8;08;9001;Stephen J. Wentzell;;;NP;133;383;25686;99.19;25896
+MN;;;9007;Judge - 8th District Court 8;08;9901;WRITE-IN;;;WI;133;383;210;0.81;25896
+MN;;;9102;Judge - 9th District Court 3;09;9001;David F. Hermerding;;;NP;253;754;48773;99.23;49151
+MN;;;9102;Judge - 9th District Court 3;09;9901;WRITE-IN;;;WI;253;754;378;0.77;49151
+MN;;;9106;Judge - 9th District Court 7;09;9001;John G. Melbye;;;NP;253;754;48449;99.23;48827
+MN;;;9106;Judge - 9th District Court 7;09;9901;WRITE-IN;;;WI;253;754;378;0.77;48827
+MN;;;9108;Judge - 9th District Court 9;09;9001;Heidi M. Chandler;;;NP;253;754;48791;99.11;49228
+MN;;;9108;Judge - 9th District Court 9;09;9901;WRITE-IN;;;WI;253;754;437;0.89;49228
+MN;;;9109;Judge - 9th District Court 10;09;9001;Christopher J. Strandlie;;;NP;253;754;48302;99.22;48683
+MN;;;9109;Judge - 9th District Court 10;09;9901;WRITE-IN;;;WI;253;754;381;0.78;48683
+MN;;;9112;Judge - 9th District Court 13;09;9001;Erik J. Askegaard;;;NP;253;754;48699;99.25;49068
+MN;;;9112;Judge - 9th District Court 13;09;9901;WRITE-IN;;;WI;253;754;369;0.75;49068
+MN;;;9123;Judge - 9th District Court 24;09;9001;Annie Claesson-Huseby;;;NP;253;754;48468;99.17;48875
+MN;;;9123;Judge - 9th District Court 24;09;9901;WRITE-IN;;;WI;253;754;407;0.83;48875
+MN;;;9202;Judge - 10th District Court 3;10;9001;Nathan Hansen;;;NP;122;409;35149;51.57;68158
+MN;;;9202;Judge - 10th District Court 3;10;9002;Helen Brosnahan;;;NP;122;409;32692;47.97;68158
+MN;;;9202;Judge - 10th District Court 3;10;9901;WRITE-IN;;;WI;122;409;317;0.47;68158
+MN;;;9209;Judge - 10th District Court 10;10;9001;John D. Klossner;;;NP;122;409;53783;98.82;54427
+MN;;;9209;Judge - 10th District Court 10;10;9901;WRITE-IN;;;WI;122;409;644;1.18;54427
+MN;;;9211;Judge - 10th District Court 12;10;9001;Dyanna L. Street;;;NP;122;409;53678;98.80;54328
+MN;;;9211;Judge - 10th District Court 12;10;9901;WRITE-IN;;;WI;122;409;650;1.20;54328
+MN;;;9215;Judge - 10th District Court 16;10;9001;Todd Schoffelman;;;NP;122;409;53537;98.88;54146
+MN;;;9215;Judge - 10th District Court 16;10;9901;WRITE-IN;;;WI;122;409;609;1.12;54146
+MN;;;9219;Judge - 10th District Court 20;10;9001;Kari Willis;;;NP;122;409;53574;98.83;54209
+MN;;;9219;Judge - 10th District Court 20;10;9901;WRITE-IN;;;WI;122;409;635;1.17;54209
+MN;;;9220;Judge - 10th District Court 21;10;9001;John A. Bowen;;;NP;122;409;53416;98.89;54014
+MN;;;9220;Judge - 10th District Court 21;10;9901;WRITE-IN;;;WI;122;409;598;1.11;54014
+MN;;;9224;Judge - 10th District Court 25;10;9001;Sean C. Gibbs;;;NP;122;409;53397;98.91;53987
+MN;;;9224;Judge - 10th District Court 25;10;9901;WRITE-IN;;;WI;122;409;590;1.09;53987
+MN;;;9225;Judge - 10th District Court 26;10;9001;Jennifer Stanfield;;;NP;122;409;53444;98.85;54065
+MN;;;9225;Judge - 10th District Court 26;10;9901;WRITE-IN;;;WI;122;409;621;1.15;54065
+MN;;;9230;Judge - 10th District Court 31;10;9001;Siv Mjanger;;;NP;122;409;52806;98.66;53521
+MN;;;9230;Judge - 10th District Court 31;10;9901;WRITE-IN;;;WI;122;409;715;1.34;53521
+MN;;;9232;Judge - 10th District Court 33;10;9001;Kristi D. Stanislawski;;;NP;122;409;53432;98.83;54064
+MN;;;9232;Judge - 10th District Court 33;10;9901;WRITE-IN;;;WI;122;409;632;1.17;54064
+MN;;;9233;Judge - 10th District Court 34;10;9001;Brianne J. Buccicone;;;NP;122;409;53276;98.83;53908
+MN;;;9233;Judge - 10th District Court 34;10;9901;WRITE-IN;;;WI;122;409;632;1.17;53908
+MN;;;9234;Judge - 10th District Court 35;10;9001;Jason R Steffen;;;NP;122;409;53209;98.86;53824
+MN;;;9234;Judge - 10th District Court 35;10;9901;WRITE-IN;;;WI;122;409;615;1.14;53824
+MN;;;9235;Judge - 10th District Court 36;10;9001;Bridgid E. Dowdal;;;NP;122;409;53202;98.78;53858
+MN;;;9235;Judge - 10th District Court 36;10;9901;WRITE-IN;;;WI;122;409;656;1.22;53858
+MN;;;9236;Judge - 10th District Court 37;10;9001;Heather Wynn;;;NP;122;409;53445;98.79;54097
+MN;;;9236;Judge - 10th District Court 37;10;9901;WRITE-IN;;;WI;122;409;652;1.21;54097
+MN;;;9243;Judge - 10th District Court 44;10;9001;Kevin J. Mueller;;;NP;122;409;53054;98.87;53663
+MN;;;9243;Judge - 10th District Court 44;10;9901;WRITE-IN;;;WI;122;409;609;1.13;53663
+

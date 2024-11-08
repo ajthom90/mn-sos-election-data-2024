@@ -1,0 +1,24 @@
+MN;;;7001;Chief Justice - Supreme Court;;9001;Natalie E. Hudson;;;NP;386;4103;64642;55.35;116782
+MN;;;7001;Chief Justice - Supreme Court;;9002;Stephen A Emery;;;NP;386;4103;51644;44.22;116782
+MN;;;7001;Chief Justice - Supreme Court;;9901;WRITE-IN;;;WI;386;4103;496;0.42;116782
+MN;;;7006;Associate Justice - Supreme Court 5;;9001;Anne McKeig;;;NP;386;4103;94874;98.79;96039
+MN;;;7006;Associate Justice - Supreme Court 5;;9901;WRITE-IN;;;WI;386;4103;1165;1.21;96039
+MN;;;7007;Associate Justice - Supreme Court 6;;9001;Karl Procaccini;;;NP;386;4103;55616;48.65;114317
+MN;;;7007;Associate Justice - Supreme Court 6;;9002;Matthew R. Hanson;;;NP;386;4103;58225;50.93;114317
+MN;;;7007;Associate Justice - Supreme Court 6;;9901;WRITE-IN;;;WI;386;4103;476;0.42;114317
+MN;;;7011;Judge - Court of Appeals 2;;9001;Jon Schmidt;;;NP;386;4103;93912;98.95;94911
+MN;;;7011;Judge - Court of Appeals 2;;9901;WRITE-IN;;;WI;386;4103;999;1.05;94911
+MN;;;7012;Judge - Court of Appeals 3;;9001;Sarah Wheelock;;;NP;386;4103;93567;98.94;94565
+MN;;;7012;Judge - Court of Appeals 3;;9901;WRITE-IN;;;WI;386;4103;998;1.06;94565
+MN;;;7013;Judge - Court of Appeals 4;;9001;Tracy Smith;;;NP;386;4103;93293;98.99;94246
+MN;;;7013;Judge - Court of Appeals 4;;9901;WRITE-IN;;;WI;386;4103;953;1.01;94246
+MN;;;7015;Judge - Court of Appeals 6;;9001;Renee L. Worke;;;NP;386;4103;93185;99.02;94108
+MN;;;7015;Judge - Court of Appeals 6;;9901;WRITE-IN;;;WI;386;4103;923;0.98;94108
+MN;;;7017;Judge - Court of Appeals 8;;9001;Keala Christian Ede;;;NP;386;4103;92436;98.94;93425
+MN;;;7017;Judge - Court of Appeals 8;;9901;WRITE-IN;;;WI;386;4103;989;1.06;93425
+MN;;;7021;Judge - Court of Appeals 12;;9001;Jonathan R. Woolsey;;;NP;386;4103;48185;43.50;110762
+MN;;;7021;Judge - Court of Appeals 12;;9002;Diane B. Bratvold;;;NP;386;4103;62120;56.08;110762
+MN;;;7021;Judge - Court of Appeals 12;;9901;WRITE-IN;;;WI;386;4103;457;0.41;110762
+MN;;;7023;Judge - Court of Appeals 14;;9001;Elise Larson;;;NP;386;4103;92400;99.00;93334
+MN;;;7023;Judge - Court of Appeals 14;;9901;WRITE-IN;;;WI;386;4103;934;1.00;93334
+

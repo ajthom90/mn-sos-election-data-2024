@@ -1,0 +1,24 @@
+MN;;;7001;Chief Justice - Supreme Court;;9001;Natalie E. Hudson;;;NP;245;4103;33257;55.43;60000
+MN;;;7001;Chief Justice - Supreme Court;;9002;Stephen A Emery;;;NP;245;4103;26513;44.19;60000
+MN;;;7001;Chief Justice - Supreme Court;;9901;WRITE-IN;;;WI;245;4103;230;0.38;60000
+MN;;;7006;Associate Justice - Supreme Court 5;;9001;Anne McKeig;;;NP;245;4103;48321;98.81;48901
+MN;;;7006;Associate Justice - Supreme Court 5;;9901;WRITE-IN;;;WI;245;4103;580;1.19;48901
+MN;;;7007;Associate Justice - Supreme Court 6;;9001;Karl Procaccini;;;NP;245;4103;28677;48.86;58692
+MN;;;7007;Associate Justice - Supreme Court 6;;9002;Matthew R. Hanson;;;NP;245;4103;29792;50.76;58692
+MN;;;7007;Associate Justice - Supreme Court 6;;9901;WRITE-IN;;;WI;245;4103;223;0.38;58692
+MN;;;7011;Judge - Court of Appeals 2;;9001;Jon Schmidt;;;NP;245;4103;47498;98.94;48006
+MN;;;7011;Judge - Court of Appeals 2;;9901;WRITE-IN;;;WI;245;4103;508;1.06;48006
+MN;;;7012;Judge - Court of Appeals 3;;9001;Sarah Wheelock;;;NP;245;4103;47407;98.96;47906
+MN;;;7012;Judge - Court of Appeals 3;;9901;WRITE-IN;;;WI;245;4103;499;1.04;47906
+MN;;;7013;Judge - Court of Appeals 4;;9001;Tracy Smith;;;NP;245;4103;47246;99.02;47715
+MN;;;7013;Judge - Court of Appeals 4;;9901;WRITE-IN;;;WI;245;4103;469;0.98;47715
+MN;;;7015;Judge - Court of Appeals 6;;9001;Renee L. Worke;;;NP;245;4103;47199;99.03;47662
+MN;;;7015;Judge - Court of Appeals 6;;9901;WRITE-IN;;;WI;245;4103;463;0.97;47662
+MN;;;7017;Judge - Court of Appeals 8;;9001;Keala Christian Ede;;;NP;245;4103;46736;98.96;47226
+MN;;;7017;Judge - Court of Appeals 8;;9901;WRITE-IN;;;WI;245;4103;490;1.04;47226
+MN;;;7021;Judge - Court of Appeals 12;;9001;Jonathan R. Woolsey;;;NP;245;4103;24705;43.67;56574
+MN;;;7021;Judge - Court of Appeals 12;;9002;Diane B. Bratvold;;;NP;245;4103;31656;55.96;56574
+MN;;;7021;Judge - Court of Appeals 12;;9901;WRITE-IN;;;WI;245;4103;213;0.38;56574
+MN;;;7023;Judge - Court of Appeals 14;;9001;Elise Larson;;;NP;245;4103;46743;99.04;47198
+MN;;;7023;Judge - Court of Appeals 14;;9901;WRITE-IN;;;WI;245;4103;455;0.96;47198
+

@@ -1,0 +1,40 @@
+Natalie Zeleznikar (R): 0
+Mark Munger (DFL): 0
+Cal Warwas (R): 0
+Lorrie Janatopoulos (DFL): 0
+Dan Wolgamott (DFL): 1232
+Sue Ek (R): 974
+Erica Schwartz (R): 1794
+Jeff Brand (DFL): 778
+Aaron Repinski (R): 0
+Sarah Kruger (DFL): 0
+Alex Moe (R): 0
+Matt Norris (DFL): 0
+Zack Stephenson (DFL): 0
+Josh Jungling (R): 0
+Steve Pape (R): 0
+Kari Rehrauer (DFL): 0
+Elliott Engen (R): 0
+Janelle Calhoun (DFL): 0
+Wayne A Johnson (R): 0
+Lucia Wroblewski (DFL): 0
+Jen Fox (DFL): 0
+Tom Dippel (R): 0
+Andrew Myers (R): 0
+Tracey Breazeale (DFL): 0
+Caleb Steffenhagen (R): 0
+Lucille "Lucy" Rehm (DFL): 0
+Aaron Paul (R): 0
+Brad Tabke (DFL): 0
+Ann Johnson Stewart (DFL): 0
+Kathleen Fowke (R): 0
+Donald J. Trump and JD Vance (R): 48534	59.14
+Kamala D. Harris and Tim Walz (DFL): 29758	36.26
+Robert F. Kennedy Jr. and Nicole Shanahan (WTP): 813	0.99
+Chase Oliver and Mike ter Maat (LIB): 466	0.57
+Shiva Ayyadurai and Crystal Ellis (IND): 448	0.55
+Jill Stein and Samson Kpadenou (G): 440	0.54
+Cornel West and Melina Abdullah (JFA): 368	0.45
+Rachele Fruit and Dennis Richter (SWP): 292	0.36
+Claudia De la Cruz and Karina Garcia (SLP): 276	0.34
+

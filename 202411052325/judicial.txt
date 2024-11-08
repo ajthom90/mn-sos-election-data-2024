@@ -1,0 +1,24 @@
+MN;;;7001;Chief Justice - Supreme Court;;9001;Natalie E. Hudson;;;NP;2367;4103;893094;63.70;1402009
+MN;;;7001;Chief Justice - Supreme Court;;9002;Stephen A Emery;;;NP;2367;4103;503826;35.94;1402009
+MN;;;7001;Chief Justice - Supreme Court;;9901;WRITE-IN;;;WI;2367;4103;5089;0.36;1402009
+MN;;;7006;Associate Justice - Supreme Court 5;;9001;Anne McKeig;;;NP;2367;4103;1099032;98.80;1112408
+MN;;;7006;Associate Justice - Supreme Court 5;;9901;WRITE-IN;;;WI;2367;4103;13376;1.20;1112408
+MN;;;7007;Associate Justice - Supreme Court 6;;9001;Karl Procaccini;;;NP;2367;4103;775426;57.04;1359380
+MN;;;7007;Associate Justice - Supreme Court 6;;9002;Matthew R. Hanson;;;NP;2367;4103;578925;42.59;1359380
+MN;;;7007;Associate Justice - Supreme Court 6;;9901;WRITE-IN;;;WI;2367;4103;5029;0.37;1359380
+MN;;;7011;Judge - Court of Appeals 2;;9001;Jon Schmidt;;;NP;2367;4103;1073934;98.92;1085678
+MN;;;7011;Judge - Court of Appeals 2;;9901;WRITE-IN;;;WI;2367;4103;11744;1.08;1085678
+MN;;;7012;Judge - Court of Appeals 3;;9001;Sarah Wheelock;;;NP;2367;4103;1071969;98.96;1083215
+MN;;;7012;Judge - Court of Appeals 3;;9901;WRITE-IN;;;WI;2367;4103;11246;1.04;1083215
+MN;;;7013;Judge - Court of Appeals 4;;9001;Tracy Smith;;;NP;2367;4103;1067197;99.01;1077884
+MN;;;7013;Judge - Court of Appeals 4;;9901;WRITE-IN;;;WI;2367;4103;10687;0.99;1077884
+MN;;;7015;Judge - Court of Appeals 6;;9001;Renee L. Worke;;;NP;2367;4103;1061483;99.00;1072239
+MN;;;7015;Judge - Court of Appeals 6;;9901;WRITE-IN;;;WI;2367;4103;10756;1.00;1072239
+MN;;;7017;Judge - Court of Appeals 8;;9001;Keala Christian Ede;;;NP;2367;4103;1056535;98.98;1067394
+MN;;;7017;Judge - Court of Appeals 8;;9901;WRITE-IN;;;WI;2367;4103;10859;1.02;1067394
+MN;;;7021;Judge - Court of Appeals 12;;9001;Jonathan R. Woolsey;;;NP;2367;4103;470166;35.73;1315860
+MN;;;7021;Judge - Court of Appeals 12;;9002;Diane B. Bratvold;;;NP;2367;4103;840673;63.89;1315860
+MN;;;7021;Judge - Court of Appeals 12;;9901;WRITE-IN;;;WI;2367;4103;5021;0.38;1315860
+MN;;;7023;Judge - Court of Appeals 14;;9001;Elise Larson;;;NP;2367;4103;1054768;99.02;1065177
+MN;;;7023;Judge - Court of Appeals 14;;9901;WRITE-IN;;;WI;2367;4103;10409;0.98;1065177
+

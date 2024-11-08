@@ -1,0 +1,24 @@
+MN;;;7001;Chief Justice - Supreme Court;;9001;Natalie E. Hudson;;;NP;1942;4103;812084;64.76;1253994
+MN;;;7001;Chief Justice - Supreme Court;;9002;Stephen A Emery;;;NP;1942;4103;437237;34.87;1253994
+MN;;;7001;Chief Justice - Supreme Court;;9901;WRITE-IN;;;WI;1942;4103;4673;0.37;1253994
+MN;;;7006;Associate Justice - Supreme Court 5;;9001;Anne McKeig;;;NP;1942;4103;975225;98.77;987409
+MN;;;7006;Associate Justice - Supreme Court 5;;9901;WRITE-IN;;;WI;1942;4103;12184;1.23;987409
+MN;;;7007;Associate Justice - Supreme Court 6;;9001;Karl Procaccini;;;NP;1942;4103;705651;58.12;1214091
+MN;;;7007;Associate Justice - Supreme Court 6;;9002;Matthew R. Hanson;;;NP;1942;4103;503809;41.50;1214091
+MN;;;7007;Associate Justice - Supreme Court 6;;9901;WRITE-IN;;;WI;1942;4103;4631;0.38;1214091
+MN;;;7011;Judge - Court of Appeals 2;;9001;Jon Schmidt;;;NP;1942;4103;950772;98.88;961520
+MN;;;7011;Judge - Court of Appeals 2;;9901;WRITE-IN;;;WI;1942;4103;10748;1.12;961520
+MN;;;7012;Judge - Court of Appeals 3;;9001;Sarah Wheelock;;;NP;1942;4103;949335;98.93;959570
+MN;;;7012;Judge - Court of Appeals 3;;9901;WRITE-IN;;;WI;1942;4103;10235;1.07;959570
+MN;;;7013;Judge - Court of Appeals 4;;9001;Tracy Smith;;;NP;1942;4103;944787;98.98;954493
+MN;;;7013;Judge - Court of Appeals 4;;9901;WRITE-IN;;;WI;1942;4103;9706;1.02;954493
+MN;;;7015;Judge - Court of Appeals 6;;9001;Renee L. Worke;;;NP;1942;4103;939303;98.97;949106
+MN;;;7015;Judge - Court of Appeals 6;;9901;WRITE-IN;;;WI;1942;4103;9803;1.03;949106
+MN;;;7017;Judge - Court of Appeals 8;;9001;Keala Christian Ede;;;NP;1942;4103;934916;98.96;944763
+MN;;;7017;Judge - Court of Appeals 8;;9901;WRITE-IN;;;WI;1942;4103;9847;1.04;944763
+MN;;;7021;Judge - Court of Appeals 12;;9001;Jonathan R. Woolsey;;;NP;1942;4103;409942;34.90;1174584
+MN;;;7021;Judge - Court of Appeals 12;;9002;Diane B. Bratvold;;;NP;1942;4103;760041;64.71;1174584
+MN;;;7021;Judge - Court of Appeals 12;;9901;WRITE-IN;;;WI;1942;4103;4601;0.39;1174584
+MN;;;7023;Judge - Court of Appeals 14;;9001;Elise Larson;;;NP;1942;4103;933287;99.00;942692
+MN;;;7023;Judge - Court of Appeals 14;;9901;WRITE-IN;;;WI;1942;4103;9405;1.00;942692
+

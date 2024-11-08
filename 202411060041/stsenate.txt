@@ -1,0 +1,4 @@
+MN;;;0165;State Senator District 45;45;0201;Ann Johnson Stewart;;;DFL;38;38;29754;52.43;56747
+MN;;;0165;State Senator District 45;45;0102;Kathleen Fowke;;;R;38;38;26936;47.47;56747
+MN;;;0165;State Senator District 45;45;9901;WRITE-IN;;;WI;38;38;57;0.10;56747
+

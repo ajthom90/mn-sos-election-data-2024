@@ -1,0 +1,24 @@
+MN;;;7001;Chief Justice - Supreme Court;;9001;Natalie E. Hudson;;;NP;64;4103;1466;52.26;2805
+MN;;;7001;Chief Justice - Supreme Court;;9002;Stephen A Emery;;;NP;64;4103;1335;47.59;2805
+MN;;;7001;Chief Justice - Supreme Court;;9901;WRITE-IN;;;WI;64;4103;4;0.14;2805
+MN;;;7006;Associate Justice - Supreme Court 5;;9001;Anne McKeig;;;NP;64;4103;2376;99.46;2389
+MN;;;7006;Associate Justice - Supreme Court 5;;9901;WRITE-IN;;;WI;64;4103;13;0.54;2389
+MN;;;7007;Associate Justice - Supreme Court 6;;9001;Karl Procaccini;;;NP;64;4103;1285;46.27;2777
+MN;;;7007;Associate Justice - Supreme Court 6;;9002;Matthew R. Hanson;;;NP;64;4103;1487;53.55;2777
+MN;;;7007;Associate Justice - Supreme Court 6;;9901;WRITE-IN;;;WI;64;4103;5;0.18;2777
+MN;;;7011;Judge - Court of Appeals 2;;9001;Jon Schmidt;;;NP;64;4103;2366;99.24;2384
+MN;;;7011;Judge - Court of Appeals 2;;9901;WRITE-IN;;;WI;64;4103;18;0.76;2384
+MN;;;7012;Judge - Court of Appeals 3;;9001;Sarah Wheelock;;;NP;64;4103;2354;99.32;2370
+MN;;;7012;Judge - Court of Appeals 3;;9901;WRITE-IN;;;WI;64;4103;16;0.68;2370
+MN;;;7013;Judge - Court of Appeals 4;;9001;Tracy Smith;;;NP;64;4103;2373;99.58;2383
+MN;;;7013;Judge - Court of Appeals 4;;9901;WRITE-IN;;;WI;64;4103;10;0.42;2383
+MN;;;7015;Judge - Court of Appeals 6;;9001;Renee L. Worke;;;NP;64;4103;2375;99.62;2384
+MN;;;7015;Judge - Court of Appeals 6;;9901;WRITE-IN;;;WI;64;4103;9;0.38;2384
+MN;;;7017;Judge - Court of Appeals 8;;9001;Keala Christian Ede;;;NP;64;4103;2344;99.28;2361
+MN;;;7017;Judge - Court of Appeals 8;;9901;WRITE-IN;;;WI;64;4103;17;0.72;2361
+MN;;;7021;Judge - Court of Appeals 12;;9001;Jonathan R. Woolsey;;;NP;64;4103;1160;43.17;2687
+MN;;;7021;Judge - Court of Appeals 12;;9002;Diane B. Bratvold;;;NP;64;4103;1523;56.68;2687
+MN;;;7021;Judge - Court of Appeals 12;;9901;WRITE-IN;;;WI;64;4103;4;0.15;2687
+MN;;;7023;Judge - Court of Appeals 14;;9001;Elise Larson;;;NP;64;4103;2358;99.33;2374
+MN;;;7023;Judge - Court of Appeals 14;;9901;WRITE-IN;;;WI;64;4103;16;0.67;2374
+

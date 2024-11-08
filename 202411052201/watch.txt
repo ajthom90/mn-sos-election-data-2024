@@ -1,0 +1,56 @@
+STATE HOUSE 3B
+Natalie Zeleznikar (R): 0
+Mark Munger (DFL): 0
+STATE HOUSE 7B
+Cal Warwas (R): 0
+Lorrie Janatopoulos (DFL): 0
+STATE HOUSE 14B
+Dan Wolgamott (DFL): 8148
+Sue Ek (R): 7596
+STATE HOUSE 18A
+Erica Schwartz (R): 11912
+Jeff Brand (DFL): 11130
+STATE HOUSE 26A
+Aaron Repinski (R): 0
+Sarah Kruger (DFL): 0
+STATE HOUSE 32B
+Alex Moe (R): 0
+Matt Norris (DFL): 0
+STATE HOUSE 35A
+Zack Stephenson (DFL): 0
+Josh Jungling (R): 0
+STATE HOUSE 35B
+Steve Pape (R): 0
+Kari Rehrauer (DFL): 0
+STATE HOUSE 36A
+Elliott Engen (R): 0
+Janelle Calhoun (DFL): 0
+STATE HOUSE 41A
+Wayne A Johnson (R): 0
+Lucia Wroblewski (DFL): 0
+STATE HOUSE 41B
+Tom Dippel (R): 353
+Jen Fox (DFL): 211
+STATE HOUSE 45A
+Andrew Myers (R): 0
+Tracey Breazeale (DFL): 0
+STATE HOUSE 48B
+Caleb Steffenhagen (R): 0
+Lucille "Lucy" Rehm (DFL): 0
+STATE HOUSE 54A
+Aaron Paul (R): 0
+Brad Tabke (DFL): 0
+STATE SENATE 45
+Ann Johnson Stewart (DFL): 0
+Kathleen Fowke (R): 0
+PRESIDENT
+Donald J. Trump and JD Vance (R): 214784	60.42
+Kamala D. Harris and Tim Walz (DFL): 131189	36.9
+Robert F. Kennedy Jr. and Nicole Shanahan (WTP): 3386	0.95
+Chase Oliver and Mike ter Maat (LIB): 1818	0.51
+Jill Stein and Samson Kpadenou (G): 1373	0.39
+Shiva Ayyadurai and Crystal Ellis (IND): 514	0.14
+Cornel West and Melina Abdullah (JFA): 438	0.12
+Claudia De la Cruz and Karina Garcia (SLP): 437	0.12
+Rachele Fruit and Dennis Richter (SWP): 283	0.08
+

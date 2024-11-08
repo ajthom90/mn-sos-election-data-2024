@@ -1,0 +1,11 @@
+MN;;;0101;U.S. President & Vice President;;0101;Donald J. Trump and JD Vance;;;R;4103;4103;1518385;46.65;3255095
+MN;;;0101;U.S. President & Vice President;;0201;Kamala D. Harris and Tim Walz;;;DFL;4103;4103;1656391;50.89;3255095
+MN;;;0101;U.S. President & Vice President;;0301;Chase Oliver and Mike ter Maat;;;LIB;4103;4103;15603;0.48;3255095
+MN;;;0101;U.S. President & Vice President;;0401;Robert F. Kennedy Jr. and Nicole Shanahan;;;WTP;4103;4103;24408;0.75;3255095
+MN;;;0101;U.S. President & Vice President;;0501;Jill Stein and Samson Kpadenou;;;G;4103;4103;16637;0.51;3255095
+MN;;;0101;U.S. President & Vice President;;0601;Claudia De la Cruz and Karina Garcia;;;SLP;4103;4103;3327;0.10;3255095
+MN;;;0101;U.S. President & Vice President;;0701;Rachele Fruit and Dennis Richter;;;SWP;4103;4103;745;0.02;3255095
+MN;;;0101;U.S. President & Vice President;;0801;Cornel West and Melina Abdullah;;;JFA;4103;4103;3380;0.10;3255095
+MN;;;0101;U.S. President & Vice President;;0901;Shiva Ayyadurai and Crystal Ellis;;;IND;4103;4103;3087;0.09;3255095
+MN;;;0101;U.S. President & Vice President;;9901;WRITE-IN;;;WI;4103;4103;13132;0.40;3255095
+

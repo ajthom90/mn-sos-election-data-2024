@@ -1,0 +1,1078 @@
+MN;01;;0392;County Commissioner District 2;02;9001;Laurie Ann Westerlund;;;NP;5;5;1947;99.13;1964
+MN;01;;0392;County Commissioner District 2;02;9901;WRITE-IN;;;WI;5;5;17;0.87;1964
+MN;01;;0394;County Commissioner District 4;04;9001;Bret Sample;;;NP;14;15;1414;98.74;1432
+MN;01;;0394;County Commissioner District 4;04;9901;WRITE-IN;;;WI;14;15;18;1.26;1432
+MN;01;;0433;Soil and Water Supervisor District 3;3001;9001;Franklin Turnock;;;NP;50;51;7265;99.25;7320
+MN;01;;0433;Soil and Water Supervisor District 3;3001;9901;WRITE-IN;;;WI;50;51;55;0.75;7320
+MN;01;;0434;Soil and Water Supervisor District 4;3001;9001;Bob Janzen;;;NP;50;51;7430;99.38;7476
+MN;01;;0434;Soil and Water Supervisor District 4;3001;9901;WRITE-IN;;;WI;50;51;46;0.62;7476
+MN;01;;0435;Soil and Water Supervisor District 5;3001;9001;Daniel Gravley;;;NP;50;51;7012;99.45;7051
+MN;01;;0435;Soil and Water Supervisor District 5;3001;9901;WRITE-IN;;;WI;50;51;39;0.55;7051
+MN;02;;0391;Special Election for County Commissioner District 1;01;9001;John Heinrich;;;NP;0;18;0;0.00;0
+MN;02;;0391;Special Election for County Commissioner District 1;01;9003;Betsy O'Berry;;;NP;0;18;0;0.00;0
+MN;02;;0391;Special Election for County Commissioner District 1;01;9901;WRITE-IN;;;WI;0;18;0;0.00;0
+MN;02;;0395;County Commissioner District 5;05;9001;Randy Nelson;;;NP;0;18;0;0.00;0
+MN;02;;0395;County Commissioner District 5;05;9003;Mike Gamache;;;NP;0;18;0;0.00;0
+MN;02;;0395;County Commissioner District 5;05;9901;WRITE-IN;;;WI;0;18;0;0.00;0
+MN;02;;0396;County Commissioner District 6;06;9001;Julie Jeppson;;;NP;0;20;0;0.00;0
+MN;02;;0396;County Commissioner District 6;06;9002;Jeremy Schroeder;;;NP;0;20;0;0.00;0
+MN;02;;0396;County Commissioner District 6;06;9901;WRITE-IN;;;WI;0;20;0;0.00;0
+MN;02;;0397;County Commissioner District 7;07;9001;Mandy Meisner;;;NP;0;19;0;0.00;0
+MN;02;;0397;County Commissioner District 7;07;9002;Taher Herzallah;;;NP;0;19;0;0.00;0
+MN;02;;0397;County Commissioner District 7;07;9901;WRITE-IN;;;WI;0;19;0;0.00;0
+MN;02;;0431;Soil and Water Supervisor District 1;4001;9001;Danielle Holder;;;NP;0;27;0;0.00;0
+MN;02;;0431;Soil and Water Supervisor District 1;4001;9002;Colleen J Werdien;;;NP;0;27;0;0.00;0
+MN;02;;0431;Soil and Water Supervisor District 1;4001;9901;WRITE-IN;;;WI;0;27;0;0.00;0
+MN;02;;0434;Soil and Water Supervisor District 4;4004;9001;Mary Jo Truchon;;;NP;0;27;0;0.00;0
+MN;02;;0434;Soil and Water Supervisor District 4;4004;9901;WRITE-IN;;;WI;0;27;0;0.00;0
+MN;02;;0435;Soil and Water Supervisor District 5;4005;9001;Kate Luthner;;;NP;0;24;0;0.00;0
+MN;02;;0435;Soil and Water Supervisor District 5;4005;9901;WRITE-IN;;;WI;0;24;0;0.00;0
+MN;03;;0393;County Commissioner District 3;03;9002;Terry L Mackner;;;NP;0;5;0;0.00;0
+MN;03;;0393;County Commissioner District 3;03;9003;Phil Hansen;;;NP;0;5;0;0.00;0
+MN;03;;0393;County Commissioner District 3;03;9901;WRITE-IN;;;WI;0;5;0;0.00;0
+MN;03;;0394;County Commissioner District 4;04;9001;Donald Skarie;;;NP;0;5;0;0.00;0
+MN;03;;0394;County Commissioner District 4;04;9002;Richard Vareberg;;;NP;0;5;0;0.00;0
+MN;03;;0394;County Commissioner District 4;04;9901;WRITE-IN;;;WI;0;5;0;0.00;0
+MN;03;;0395;County Commissioner District 5;05;9001;Barry Nelson;;;NP;0;15;0;0.00;0
+MN;03;;0395;County Commissioner District 5;05;9003;Jack Heisler;;;NP;0;15;0;0.00;0
+MN;03;;0395;County Commissioner District 5;05;9901;WRITE-IN;;;WI;0;15;0;0.00;0
+MN;03;;0432;Soil and Water Supervisor District 2;1005;9001;Michelle Andresen;;;NP;0;47;0;0.00;0
+MN;03;;0432;Soil and Water Supervisor District 2;1005;9901;WRITE-IN;;;WI;0;47;0;0.00;0
+MN;03;;0433;Soil and Water Supervisor District 3;1005;9001;Travis J Schauer;;;NP;0;47;0;0.00;0
+MN;03;;0433;Soil and Water Supervisor District 3;1005;9901;WRITE-IN;;;WI;0;47;0;0.00;0
+MN;03;;0435;Soil and Water Supervisor District 5;1005;9001;Anthony Beck (Tony);;;NP;0;47;0;0.00;0
+MN;03;;0435;Soil and Water Supervisor District 5;1005;9901;WRITE-IN;;;WI;0;47;0;0.00;0
+MN;04;;0391;County Commissioner District 1;01;9001;Craig Gaasvig;;;NP;4;13;2093;97.67;2143
+MN;04;;0391;County Commissioner District 1;01;9901;WRITE-IN;;;WI;4;13;50;2.33;2143
+MN;04;;0392;County Commissioner District 2;02;9001;Joe Gould;;;NP;0;3;0;0.00;0
+MN;04;;0392;County Commissioner District 2;02;9002;Adam J. Bommersbach;;;NP;0;3;0;0.00;0
+MN;04;;0392;County Commissioner District 2;02;9901;WRITE-IN;;;WI;0;3;0;0.00;0
+MN;04;;0393;County Commissioner District 3;03;9001;Scott Winger;;;NP;3;10;1716;57.78;2970
+MN;04;;0393;County Commissioner District 3;03;9002;Kari Howe;;;NP;3;10;1240;41.75;2970
+MN;04;;0393;County Commissioner District 3;03;9901;WRITE-IN;;;WI;3;10;14;0.47;2970
+MN;04;;0394;County Commissioner District 4;04;9001;Frank Duresky;;;NP;0;29;0;0.00;0
+MN;04;;0394;County Commissioner District 4;04;9002;Tim Sumner;;;NP;0;29;0;0.00;0
+MN;04;;0394;County Commissioner District 4;04;9901;WRITE-IN;;;WI;0;29;0;0.00;0
+MN;04;;0395;County Commissioner District 5;05;9001;John Carlson;;;NP;1;6;650;98.63;659
+MN;04;;0395;County Commissioner District 5;05;9901;WRITE-IN;;;WI;1;6;9;1.37;659
+MN;04;;0433;Soil and Water Supervisor District 3;8007;9001;Ruth Ann Trask;;;NP;8;61;5093;99.09;5140
+MN;04;;0433;Soil and Water Supervisor District 3;8007;9901;WRITE-IN;;;WI;8;61;47;0.91;5140
+MN;04;;0434;Soil and Water Supervisor District 4;8007;9001;Samuel R Christenson;;;NP;8;61;5017;99.09;5063
+MN;04;;0434;Soil and Water Supervisor District 4;8007;9901;WRITE-IN;;;WI;8;61;46;0.91;5063
+MN;05;;0391;County Commissioner District 1;01;9001;Scott Johnson;;;NP;7;7;3405;99.21;3432
+MN;05;;0391;County Commissioner District 1;01;9901;WRITE-IN;;;WI;7;7;27;0.79;3432
+MN;05;;0394;County Commissioner District 4;04;9001;Jared J Gapinski;;;NP;4;5;3570;99.00;3606
+MN;05;;0394;County Commissioner District 4;04;9901;WRITE-IN;;;WI;4;5;36;1.00;3606
+MN;05;;0395;County Commissioner District 5;05;9001;Pamela Benoit;;;NP;4;5;1703;98.33;1732
+MN;05;;0395;County Commissioner District 5;05;9901;WRITE-IN;;;WI;4;5;29;1.67;1732
+MN;05;;0431;Soil and Water Supervisor District 1;2009;9001;Wade Bastian;;;NP;24;27;13526;99.27;13625
+MN;05;;0431;Soil and Water Supervisor District 1;2009;9901;WRITE-IN;;;WI;24;27;99;0.73;13625
+MN;05;;0434;Soil and Water Supervisor District 4;2009;9001;Bruce Brenny;;;NP;24;27;13689;99.30;13785
+MN;05;;0434;Soil and Water Supervisor District 4;2009;9901;WRITE-IN;;;WI;24;27;96;0.70;13785
+MN;05;;0435;Soil and Water Supervisor District 5;2009;9001;Chuck Rau;;;NP;24;27;13456;99.32;13548
+MN;05;;0435;Soil and Water Supervisor District 5;2009;9901;WRITE-IN;;;WI;24;27;92;0.68;13548
+MN;06;;0393;County Commissioner District 3;03;9001;Edie Barrett;;;NP;0;3;0;0.00;0
+MN;06;;0393;County Commissioner District 3;03;9002;William "Bill" Thyne;;;NP;0;3;0;0.00;0
+MN;06;;0393;County Commissioner District 3;03;9901;WRITE-IN;;;WI;0;3;0;0.00;0
+MN;06;;0394;County Commissioner District 4;04;9001;Kelsey J Stock;;;NP;0;1;0;0.00;0
+MN;06;;0394;County Commissioner District 4;04;9002;Paul Radermacher;;;NP;0;1;0;0.00;0
+MN;06;;0394;County Commissioner District 4;04;9901;WRITE-IN;;;WI;0;1;0;0.00;0
+MN;06;;0432;Soil and Water Supervisor District 2;2011;9901;WRITE-IN;;;WI;1;24;2;100.00;2
+MN;06;;0433;Soil and Water Supervisor District 3;2011;9001;David Dybdahl;;;NP;1;24;74;100.00;74
+MN;06;;0433;Soil and Water Supervisor District 3;2011;9901;WRITE-IN;;;WI;1;24;0;0.00;74
+MN;06;;0434;Soil and Water Supervisor District 4;2011;9001;Ronald Reisdorph;;;NP;1;24;71;100.00;71
+MN;06;;0434;Soil and Water Supervisor District 4;2011;9901;WRITE-IN;;;WI;1;24;0;0.00;71
+MN;07;;0392;County Commissioner District 2;02;9001;Vance Stuehrenberg;;;NP;6;6;4246;98.95;4291
+MN;07;;0392;County Commissioner District 2;02;9901;WRITE-IN;;;WI;6;6;45;1.05;4291
+MN;07;;0393;County Commissioner District 3;03;9001;Mark Piepho;;;NP;6;6;2984;62.04;4810
+MN;07;;0393;County Commissioner District 3;03;9002;Ross E. Arneson;;;NP;6;6;1781;37.03;4810
+MN;07;;0393;County Commissioner District 3;03;9901;WRITE-IN;;;WI;6;6;45;0.94;4810
+MN;07;;0431;Soil and Water Supervisor District 1;6013;9001;David Turner;;;NP;55;56;11434;46.52;24578
+MN;07;;0431;Soil and Water Supervisor District 1;6013;9002;Bernie Paulson;;;NP;55;56;12933;52.62;24578
+MN;07;;0431;Soil and Water Supervisor District 1;6013;9901;WRITE-IN;;;WI;55;56;211;0.86;24578
+MN;07;;0432;Soil and Water Supervisor District 2;6013;9001;John W. Shanahan;;;NP;55;56;23618;99.19;23811
+MN;07;;0432;Soil and Water Supervisor District 2;6013;9901;WRITE-IN;;;WI;55;56;193;0.81;23811
+MN;07;;0433;Soil and Water Supervisor District 3;6013;9001;Carol Krosch;;;NP;55;56;23758;99.21;23948
+MN;07;;0433;Soil and Water Supervisor District 3;6013;9901;WRITE-IN;;;WI;55;56;190;0.79;23948
+MN;08;;0391;County Commissioner District 1;01;9001;David Borchert;;;NP;0;3;0;0.00;0
+MN;08;;0391;County Commissioner District 1;01;9901;WRITE-IN;;;WI;0;3;0;0.00;0
+MN;08;;0393;County Commissioner District 3;03;9001;Scott A Windschitl;;;NP;2;3;1553;99.23;1565
+MN;08;;0393;County Commissioner District 3;03;9901;WRITE-IN;;;WI;2;3;12;0.77;1565
+MN;08;;0431;Soil and Water Supervisor District 1;6015;9001;Craig Fischer;;;NP;18;33;4646;99.25;4681
+MN;08;;0431;Soil and Water Supervisor District 1;6015;9901;WRITE-IN;;;WI;18;33;35;0.75;4681
+MN;08;;0432;Soil and Water Supervisor District 2;6015;9001;Brad Augustin;;;NP;18;33;4654;99.64;4671
+MN;08;;0432;Soil and Water Supervisor District 2;6015;9901;WRITE-IN;;;WI;18;33;17;0.36;4671
+MN;08;;0434;Soil and Water Supervisor District 4;6015;9001;Mark Wellner;;;NP;18;33;4611;99.70;4625
+MN;08;;0434;Soil and Water Supervisor District 4;6015;9901;WRITE-IN;;;WI;18;33;14;0.30;4625
+MN;09;;0391;County Commissioner District 1;01;9001;Caleb Dunlap;;;NP;0;7;0;0.00;0
+MN;09;;0391;County Commissioner District 1;01;9002;Sarah Plante Buhs;;;NP;0;7;0;0.00;0
+MN;09;;0391;County Commissioner District 1;01;9901;WRITE-IN;;;WI;0;7;0;0.00;0
+MN;09;;0393;County Commissioner District 3;03;9001;Thomas R. Proulx;;;NP;0;3;0;0.00;0
+MN;09;;0393;County Commissioner District 3;03;9901;WRITE-IN;;;WI;0;3;0;0.00;0
+MN;09;;0395;County Commissioner District 5;05;9001;Alex French;;;NP;0;14;0;0.00;0
+MN;09;;0395;County Commissioner District 5;05;9002;Dan Reed;;;NP;0;14;0;0.00;0
+MN;09;;0395;County Commissioner District 5;05;9901;WRITE-IN;;;WI;0;14;0;0.00;0
+MN;09;;0431;Soil and Water Supervisor District 1;3017;9001;Barbara M. Dahl;;;NP;0;39;0;0.00;0
+MN;09;;0431;Soil and Water Supervisor District 1;3017;9002;Michelle Boyechko;;;NP;0;39;0;0.00;0
+MN;09;;0431;Soil and Water Supervisor District 1;3017;9901;WRITE-IN;;;WI;0;39;0;0.00;0
+MN;09;;0434;Soil and Water Supervisor District 4;3017;9001;Gary E. Peterson;;;NP;0;39;0;0.00;0
+MN;09;;0434;Soil and Water Supervisor District 4;3017;9901;WRITE-IN;;;WI;0;39;0;0.00;0
+MN;09;;0435;Soil and Water Supervisor District 5;3017;9001;Bruce Heikes;;;NP;0;39;0;0.00;0
+MN;09;;0435;Soil and Water Supervisor District 5;3017;9002;Roger Hurd;;;NP;0;39;0;0.00;0
+MN;09;;0435;Soil and Water Supervisor District 5;3017;9901;WRITE-IN;;;WI;0;39;0;0.00;0
+MN;10;;0391;County Commissioner District 1;01;9001;Greg Boe;;;NP;0;4;0;0.00;0
+MN;10;;0391;County Commissioner District 1;01;9002;Lisa Anderson;;;NP;0;4;0;0.00;0
+MN;10;;0391;County Commissioner District 1;01;9901;WRITE-IN;;;WI;0;4;0;0.00;0
+MN;10;;0393;County Commissioner District 3;03;9001;John Peter Mihajlov;;;NP;0;7;0;0.00;0
+MN;10;;0393;County Commissioner District 3;03;9003;Matt Udermann;;;NP;0;7;0;0.00;0
+MN;10;;0393;County Commissioner District 3;03;9901;WRITE-IN;;;WI;0;7;0;0.00;0
+MN;10;;0432;Soil and Water Supervisor District 2;4020;9001;Marcus Zbinden;;;NP;0;7;0;0.00;0
+MN;10;;0432;Soil and Water Supervisor District 2;4020;9901;WRITE-IN;;;WI;0;7;0;0.00;0
+MN;10;;0434;Soil and Water Supervisor District 4;4022;9001;Mike Lynch;;;NP;0;10;0;0.00;0
+MN;10;;0434;Soil and Water Supervisor District 4;4022;9002;William Clayton;;;NP;0;10;0;0.00;0
+MN;10;;0434;Soil and Water Supervisor District 4;4022;9901;WRITE-IN;;;WI;0;10;0;0.00;0
+MN;11;;0392;County Commissioner District 2;02;9001;Robert Kangas;;;NP;1;12;16;94.12;17
+MN;11;;0392;County Commissioner District 2;02;9901;WRITE-IN;;;WI;1;12;1;5.88;17
+MN;11;;0393;County Commissioner District 3;03;9001;Rusty Lilyquist;;;NP;4;22;23;51.11;45
+MN;11;;0393;County Commissioner District 3;03;9003;Karen Goodenough;;;NP;4;22;22;48.89;45
+MN;11;;0393;County Commissioner District 3;03;9901;WRITE-IN;;;WI;4;22;0;0.00;45
+MN;11;;0395;County Commissioner District 5;05;9001;Rick Haaland;;;NP;1;21;3;100.00;3
+MN;11;;0395;County Commissioner District 5;05;9901;WRITE-IN;;;WI;1;21;0;0.00;3
+MN;11;;0432;Soil and Water Supervisor District 2;8021;9001;Ken LaPorte;;;NP;6;71;50;98.04;51
+MN;11;;0432;Soil and Water Supervisor District 2;8021;9901;WRITE-IN;;;WI;6;71;1;1.96;51
+MN;11;;0433;Soil and Water Supervisor District 3;8021;9001;Katy Botz;;;NP;6;71;48;97.96;49
+MN;11;;0433;Soil and Water Supervisor District 3;8021;9901;WRITE-IN;;;WI;6;71;1;2.04;49
+MN;11;;0434;Soil and Water Supervisor District 4;8021;9001;David L. Peterson;;;NP;6;71;50;98.04;51
+MN;11;;0434;Soil and Water Supervisor District 4;8021;9901;WRITE-IN;;;WI;6;71;1;1.96;51
+MN;12;;0392;County Commissioner District 2;02;9001;Kurt Stranberg;;;NP;2;6;827;98.92;836
+MN;12;;0392;County Commissioner District 2;02;9901;WRITE-IN;;;WI;2;6;9;1.08;836
+MN;12;;0393;County Commissioner District 3;03;9001;David Nordaune;;;NP;3;6;923;99.35;929
+MN;12;;0393;County Commissioner District 3;03;9901;WRITE-IN;;;WI;3;6;6;0.65;929
+MN;12;;0394;County Commissioner District 4;04;9001;Bill Pauling;;;NP;1;1;807;75.70;1066
+MN;12;;0394;County Commissioner District 4;04;9002;Jon Hokins;;;NP;1;1;254;23.83;1066
+MN;12;;0394;County Commissioner District 4;04;9901;WRITE-IN;;;WI;1;1;5;0.47;1066
+MN;12;;0433;Soil and Water Supervisor District 3;2023;9001;Aaron Ahrenholz;;;NP;12;25;4244;99.65;4259
+MN;12;;0433;Soil and Water Supervisor District 3;2023;9901;WRITE-IN;;;WI;12;25;15;0.35;4259
+MN;12;;0435;Soil and Water Supervisor District 5;2023;9001;Jerry Schwitters;;;NP;12;25;4237;99.65;4252
+MN;12;;0435;Soil and Water Supervisor District 5;2023;9901;WRITE-IN;;;WI;12;25;15;0.35;4252
+MN;13;;0394;County Commissioner District 4;04;9001;Ben Montzka;;;NP;0;5;0;0.00;0
+MN;13;;0394;County Commissioner District 4;04;9901;WRITE-IN;;;WI;0;5;0;0.00;0
+MN;13;;0395;County Commissioner District 5;05;9001;Dan Dahlberg;;;NP;3;6;2181;98.15;2222
+MN;13;;0395;County Commissioner District 5;05;9901;WRITE-IN;;;WI;3;6;41;1.85;2222
+MN;13;;0432;Soil and Water Supervisor District 2;4025;9001;Rick Cedergren;;;NP;9;25;7303;98.96;7380
+MN;13;;0432;Soil and Water Supervisor District 2;4025;9901;WRITE-IN;;;WI;9;25;77;1.04;7380
+MN;13;;0434;Soil and Water Supervisor District 4;4025;9001;Justin Wilson;;;NP;9;25;7235;99.00;7308
+MN;13;;0434;Soil and Water Supervisor District 4;4025;9901;WRITE-IN;;;WI;9;25;73;1.00;7308
+MN;13;;0435;Soil and Water Supervisor District 5;4025;9001;Matthew Hardy;;;NP;9;25;7089;99.12;7152
+MN;13;;0435;Soil and Water Supervisor District 5;4025;9901;WRITE-IN;;;WI;9;25;63;0.88;7152
+MN;14;;0391;County Commissioner District 1;01;9001;Paul Krabbenhoft;;;NP;4;4;4481;98.87;4532
+MN;14;;0391;County Commissioner District 1;01;9901;WRITE-IN;;;WI;4;4;51;1.13;4532
+MN;14;;0392;County Commissioner District 2;02;9001;Ezra Baer;;;NP;23;23;5343;99.09;5392
+MN;14;;0392;County Commissioner District 2;02;9901;WRITE-IN;;;WI;23;23;49;0.91;5392
+MN;14;;0395;County Commissioner District 5;05;9001;Joel Paulsen;;;NP;4;4;2000;40.93;4886
+MN;14;;0395;County Commissioner District 5;05;9002;David Ebinger;;;NP;4;4;2857;58.47;4886
+MN;14;;0395;County Commissioner District 5;05;9901;WRITE-IN;;;WI;4;4;29;0.59;4886
+MN;14;;0431;Soil and Water Supervisor District 1;1027;9001;Richard Menholt;;;NP;55;56;23781;99.26;23958
+MN;14;;0431;Soil and Water Supervisor District 1;1027;9901;WRITE-IN;;;WI;55;56;177;0.74;23958
+MN;14;;0432;Soil and Water Supervisor District 2;1027;9001;Carol J Schoff;;;NP;55;56;12102;49.65;24375
+MN;14;;0432;Soil and Water Supervisor District 2;1027;9002;Brady Fuglie;;;NP;55;56;12149;49.84;24375
+MN;14;;0432;Soil and Water Supervisor District 2;1027;9901;WRITE-IN;;;WI;55;56;124;0.51;24375
+MN;14;;0435;Soil and Water Supervisor District 5;1027;9001;Joel Hildebrandt;;;NP;55;56;12594;50.82;24783
+MN;14;;0435;Soil and Water Supervisor District 5;1027;9002;Ashley Heng;;;NP;55;56;12071;48.71;24783
+MN;14;;0435;Soil and Water Supervisor District 5;1027;9901;WRITE-IN;;;WI;55;56;118;0.48;24783
+MN;15;;0392;County Commissioner District 2;02;9004;Bryan Ramsrud;;;NP;0;8;0;0.00;0
+MN;15;;0392;County Commissioner District 2;02;9005;Greg Scherzer;;;NP;0;8;0;0.00;0
+MN;15;;0392;County Commissioner District 2;02;9901;WRITE-IN;;;WI;0;8;0;0.00;0
+MN;15;;0394;County Commissioner District 4;04;9002;Juleigh Prosser;;;NP;0;6;0;0.00;0
+MN;15;;0394;County Commissioner District 4;04;9003;Bruce Emmel;;;NP;0;6;0;0.00;0
+MN;15;;0394;County Commissioner District 4;04;9901;WRITE-IN;;;WI;0;6;0;0.00;0
+MN;15;;0431;Soil and Water Supervisor District 1;8029;9001;Alroy Lewis;;;NP;0;29;0;0.00;0
+MN;15;;0431;Soil and Water Supervisor District 1;8029;9901;WRITE-IN;;;WI;0;29;0;0.00;0
+MN;15;;0432;Soil and Water Supervisor District 2;8029;9001;Ken Christenson;;;NP;0;29;0;0.00;0
+MN;15;;0432;Soil and Water Supervisor District 2;8029;9901;WRITE-IN;;;WI;0;29;0;0.00;0
+MN;15;;0435;Soil and Water Supervisor District 5;8029;9001;John Gunvalson;;;NP;0;29;0;0.00;0
+MN;15;;0435;Soil and Water Supervisor District 5;8029;9901;WRITE-IN;;;WI;0;29;0;0.00;0
+MN;16;;0392;County Commissioner District 2;02;9001;Garry Gamble;;;NP;0;2;0;0.00;0
+MN;16;;0392;County Commissioner District 2;02;9901;WRITE-IN;;;WI;0;2;0;0.00;0
+MN;16;;0394;County Commissioner District 4;04;9001;Ann Sullivan;;;NP;1;3;145;56.64;256
+MN;16;;0394;County Commissioner District 4;04;9002;Dean Berglund;;;NP;1;3;111;43.36;256
+MN;16;;0394;County Commissioner District 4;04;9901;WRITE-IN;;;WI;1;3;0;0.00;256
+MN;16;;0431;Soil and Water Supervisor District 1;3031;9001;Gregg Westigard;;;NP;2;14;399;100.00;399
+MN;16;;0431;Soil and Water Supervisor District 1;3031;9901;WRITE-IN;;;WI;2;14;0;0.00;399
+MN;16;;0433;Soil and Water Supervisor District 3;3031;9001;Amber Humphrey;;;NP;2;14;405;99.75;406
+MN;16;;0433;Soil and Water Supervisor District 3;3031;9901;WRITE-IN;;;WI;2;14;1;0.25;406
+MN;16;;0435;Soil and Water Supervisor District 5;3031;9901;WRITE-IN;;;WI;2;14;30;100.00;30
+MN;17;;0392;County Commissioner District 2;02;9001;Kevin Stevens;;;NP;2;2;1074;99.54;1079
+MN;17;;0392;County Commissioner District 2;02;9901;WRITE-IN;;;WI;2;2;5;0.46;1079
+MN;17;;0394;County Commissioner District 4;04;9001;Richard Gisch;;;NP;11;11;555;46.06;1205
+MN;17;;0394;County Commissioner District 4;04;9002;Wayne "Gritz" Maras;;;NP;11;11;649;53.86;1205
+MN;17;;0394;County Commissioner District 4;04;9901;WRITE-IN;;;WI;11;11;1;0.08;1205
+MN;17;;0432;Soil and Water Supervisor District 2;5033;9001;Cody Duroe;;;NP;29;29;5026;99.68;5042
+MN;17;;0432;Soil and Water Supervisor District 2;5033;9901;WRITE-IN;;;WI;29;29;16;0.32;5042
+MN;17;;0434;Soil and Water Supervisor District 4;5033;9001;Tom Muller;;;NP;29;29;5020;99.66;5037
+MN;17;;0434;Soil and Water Supervisor District 4;5033;9901;WRITE-IN;;;WI;29;29;17;0.34;5037
+MN;17;;0435;Soil and Water Supervisor District 5;5033;9001;Jeremy Nerem;;;NP;29;29;4931;99.70;4946
+MN;17;;0435;Soil and Water Supervisor District 5;5033;9901;WRITE-IN;;;WI;29;29;15;0.30;4946
+MN;18;;0391;County Commissioner District 1;01;9001;Paul Koering;;;NP;8;15;2558;97.26;2630
+MN;18;;0391;County Commissioner District 1;01;9901;WRITE-IN;;;WI;8;15;72;2.74;2630
+MN;18;;0395;County Commissioner District 5;05;9002;Johnna Johnson;;;NP;15;21;1821;46.97;3877
+MN;18;;0395;County Commissioner District 5;05;9003;Jamie Lee;;;NP;15;21;2042;52.67;3877
+MN;18;;0395;County Commissioner District 5;05;9901;WRITE-IN;;;WI;15;21;14;0.36;3877
+MN;18;;0431;Soil and Water Supervisor District 1;8035;9001;Leonard Koering;;;NP;40;62;15413;99.25;15529
+MN;18;;0431;Soil and Water Supervisor District 1;8035;9901;WRITE-IN;;;WI;40;62;116;0.75;15529
+MN;18;;0434;Soil and Water Supervisor District 4;8035;9001;JoAnn Weaver;;;NP;40;62;15118;99.43;15205
+MN;18;;0434;Soil and Water Supervisor District 4;8035;9901;WRITE-IN;;;WI;40;62;87;0.57;15205
+MN;18;;0435;Soil and Water Supervisor District 5;8035;9001;Harvey "Jim" Chamberlin;;;NP;40;62;14918;99.45;15000
+MN;18;;0435;Soil and Water Supervisor District 5;8035;9901;WRITE-IN;;;WI;40;62;82;0.55;15000
+MN;19;;0394;County Commissioner District 4;04;9001;Bill Droste;;;NP;19;19;23509;98.50;23867
+MN;19;;0394;County Commissioner District 4;04;9901;WRITE-IN;;;WI;19;19;358;1.50;23867
+MN;19;;0395;County Commissioner District 5;05;9003;Liz Workman;;;NP;17;17;18348;70.08;26180
+MN;19;;0395;County Commissioner District 5;05;9004;Yusuf Haji;;;NP;17;17;7746;29.59;26180
+MN;19;;0395;County Commissioner District 5;05;9901;WRITE-IN;;;WI;17;17;86;0.33;26180
+MN;19;;0397;County Commissioner District 7;07;9001;Mary Hamann-Roland;;;NP;18;18;23567;98.18;24004
+MN;19;;0397;County Commissioner District 7;07;9901;WRITE-IN;;;WI;18;18;437;1.82;24004
+MN;19;;0431;Soil and Water Supervisor District 1;4037;9001;Kevin Chamberlain;;;NP;36;37;18211;50.48;36077
+MN;19;;0431;Soil and Water Supervisor District 1;4037;9002;Mark Vaughan;;;NP;36;37;17451;48.37;36077
+MN;19;;0431;Soil and Water Supervisor District 1;4037;9901;WRITE-IN;;;WI;36;37;415;1.15;36077
+MN;19;;0432;Soil and Water Supervisor District 2;4038;9001;Kendra Sommerfeld;;;NP;31;31;14824;42.53;34856
+MN;19;;0432;Soil and Water Supervisor District 2;4038;9002;Laura Zanmiller;;;NP;31;31;19685;56.48;34856
+MN;19;;0432;Soil and Water Supervisor District 2;4038;9901;WRITE-IN;;;WI;31;31;347;1.00;34856
+MN;19;;0433;Soil and Water Supervisor District 3;4039;9001;Brian Raney;;;NP;23;23;20848;57.34;36360
+MN;19;;0433;Soil and Water Supervisor District 3;4039;9002;Sigrid Lindholm;;;NP;23;23;15222;41.86;36360
+MN;19;;0433;Soil and Water Supervisor District 3;4039;9901;WRITE-IN;;;WI;23;23;290;0.80;36360
+MN;20;;0391;County Commissioner District 1;01;9001;John Allen;;;NP;5;5;2202;98.66;2232
+MN;20;;0391;County Commissioner District 1;01;9901;WRITE-IN;;;WI;5;5;30;1.34;2232
+MN;20;;0395;County Commissioner District 5;05;9001;David Kenworthy;;;NP;3;4;1355;89.03;1522
+MN;20;;0395;County Commissioner District 5;05;9901;WRITE-IN;;;WI;3;4;167;10.97;1522
+MN;20;;0431;Soil and Water Supervisor District 1;7039;9001;Richard Kenneth Alberts;;;NP;21;22;8864;99.31;8926
+MN;20;;0431;Soil and Water Supervisor District 1;7039;9901;WRITE-IN;;;WI;21;22;62;0.69;8926
+MN;20;;0432;Soil and Water Supervisor District 2;7039;9001;Bruce Freerksen;;;NP;21;22;8880;99.43;8931
+MN;20;;0432;Soil and Water Supervisor District 2;7039;9901;WRITE-IN;;;WI;21;22;51;0.57;8931
+MN;20;;0435;Soil and Water Supervisor District 5;7039;9901;WRITE-IN;;;WI;21;22;476;100.00;476
+MN;21;;0391;County Commissioner District 1;01;9001;Jeff Way;;;NP;8;16;1095;57.15;1916
+MN;21;;0391;County Commissioner District 1;01;9003;Scot Umlauf;;;NP;8;16;811;42.33;1916
+MN;21;;0391;County Commissioner District 1;01;9901;WRITE-IN;;;WI;8;16;10;0.52;1916
+MN;21;;0393;County Commissioner District 3;03;9001;Jerry L. Rapp;;;NP;8;9;1794;64.03;2802
+MN;21;;0393;County Commissioner District 3;03;9002;Orry Trisco;;;NP;8;9;997;35.58;2802
+MN;21;;0393;County Commissioner District 3;03;9901;WRITE-IN;;;WI;8;9;11;0.39;2802
+MN;21;;0432;Soil and Water Supervisor District 2;2041;9001;John Ledermann;;;NP;20;36;7705;99.56;7739
+MN;21;;0432;Soil and Water Supervisor District 2;2041;9901;WRITE-IN;;;WI;20;36;34;0.44;7739
+MN;21;;0434;Soil and Water Supervisor District 4;2041;9001;Willis John Dropik;;;NP;20;36;7559;99.38;7606
+MN;21;;0434;Soil and Water Supervisor District 4;2041;9901;WRITE-IN;;;WI;20;36;47;0.62;7606
+MN;21;;0435;Soil and Water Supervisor District 5;2041;9001;Kenneth Rutten;;;NP;20;36;7633;99.57;7666
+MN;21;;0435;Soil and Water Supervisor District 5;2041;9901;WRITE-IN;;;WI;20;36;33;0.43;7666
+MN;22;;0391;County Commissioner District 1;01;9001;Gertrude Paschke;;;NP;0;7;0;0.00;0
+MN;22;;0391;County Commissioner District 1;01;9002;John L Roper;;;NP;0;7;0;0.00;0
+MN;22;;0391;County Commissioner District 1;01;9901;WRITE-IN;;;WI;0;7;0;0.00;0
+MN;22;;0393;County Commissioner District 3;03;9001;William (Bill) Groskreutz Jr;;;NP;0;3;0;0.00;0
+MN;22;;0393;County Commissioner District 3;03;9901;WRITE-IN;;;WI;0;3;0;0.00;0
+MN;22;;0395;County Commissioner District 5;05;9001;Bruce (Charlie) Anderson;;;NP;1;10;103;94.50;109
+MN;22;;0395;County Commissioner District 5;05;9901;WRITE-IN;;;WI;1;10;6;5.50;109
+MN;22;;0431;Soil and Water Supervisor District 1;6043;9001;Jeffrey Bell;;;NP;4;33;102;96.23;106
+MN;22;;0431;Soil and Water Supervisor District 1;6043;9901;WRITE-IN;;;WI;4;33;4;3.77;106
+MN;22;;0434;Soil and Water Supervisor District 4;6043;9001;Neal Mensing;;;NP;4;33;103;96.26;107
+MN;22;;0434;Soil and Water Supervisor District 4;6043;9901;WRITE-IN;;;WI;4;33;4;3.74;107
+MN;23;;0391;County Commissioner District 1;01;9001;Mitch Lentz;;;NP;0;7;0;0.00;0
+MN;23;;0391;County Commissioner District 1;01;9901;WRITE-IN;;;WI;0;7;0;0.00;0
+MN;23;;0393;County Commissioner District 3;03;9001;Lawrence Hindt;;;NP;0;6;0;0.00;0
+MN;23;;0393;County Commissioner District 3;03;9003;Gerald A. Wolf;;;NP;0;6;0;0.00;0
+MN;23;;0393;County Commissioner District 3;03;9901;WRITE-IN;;;WI;0;6;0;0.00;0
+MN;23;;0395;County Commissioner District 5;05;9001;Marc Prestby;;;NP;0;8;0;0.00;0
+MN;23;;0395;County Commissioner District 5;05;9901;WRITE-IN;;;WI;0;8;0;0.00;0
+MN;23;;0432;Special Election for Soil and Water Supervisor District 2;7042;9001;Jason T Wetzel;;;NP;0;8;0;0.00;0
+MN;23;;0432;Special Election for Soil and Water Supervisor District 2;7042;9901;WRITE-IN;;;WI;0;8;0;0.00;0
+MN;23;;0433;Soil and Water Supervisor District 3;7043;9001;Kathy Tesmer;;;NP;0;6;0;0.00;0
+MN;23;;0433;Soil and Water Supervisor District 3;7043;9901;WRITE-IN;;;WI;0;6;0;0.00;0
+MN;23;;0434;Soil and Water Supervisor District 4;7044;9001;Eunice Biel;;;NP;0;8;0;0.00;0
+MN;23;;0434;Soil and Water Supervisor District 4;7044;9901;WRITE-IN;;;WI;0;8;0;0.00;0
+MN;23;;0435;Soil and Water Supervisor District 5;7045;9001;Travis Willford;;;NP;0;8;0;0.00;0
+MN;23;;0435;Soil and Water Supervisor District 5;7045;9901;WRITE-IN;;;WI;0;8;0;0.00;0
+MN;24;;0391;County Commissioner District 1;01;9001;Brad Edwin;;;NP;0;10;0;0.00;0
+MN;24;;0391;County Commissioner District 1;01;9002;Julie D. Ackland;;;NP;0;10;0;0.00;0
+MN;24;;0391;County Commissioner District 1;01;9901;WRITE-IN;;;WI;0;10;0;0.00;0
+MN;24;;0393;County Commissioner District 3;03;9001;Lukas Severson;;;NP;0;9;0;0.00;0
+MN;24;;0393;County Commissioner District 3;03;9901;WRITE-IN;;;WI;0;9;0;0.00;0
+MN;24;;0395;County Commissioner District 5;05;9001;Nicole Eckstrom;;;NP;0;11;0;0.00;0
+MN;24;;0395;County Commissioner District 5;05;9901;WRITE-IN;;;WI;0;11;0;0.00;0
+MN;24;;0431;Soil and Water Supervisor District 1;7047;9001;Casey Madson;;;NP;0;43;0;0.00;0
+MN;24;;0431;Soil and Water Supervisor District 1;7047;9901;WRITE-IN;;;WI;0;43;0;0.00;0
+MN;24;;0432;Soil and Water Supervisor District 2;7047;9001;Scott Lightly;;;NP;0;43;0;0.00;0
+MN;24;;0432;Soil and Water Supervisor District 2;7047;9901;WRITE-IN;;;WI;0;43;0;0.00;0
+MN;24;;0433;Special Election for Soil and Water Supervisor District 3;7047;9001;Vickie Heers;;;NP;0;43;0;0.00;0
+MN;24;;0433;Special Election for Soil and Water Supervisor District 3;7047;9901;WRITE-IN;;;WI;0;43;0;0.00;0
+MN;24;;0435;Soil and Water Supervisor District 5;7047;9001;Brad Kramer;;;NP;0;43;0;0.00;0
+MN;24;;0435;Soil and Water Supervisor District 5;7047;9002;Bruce Ness;;;NP;0;43;0;0.00;0
+MN;24;;0435;Soil and Water Supervisor District 5;7047;9901;WRITE-IN;;;WI;0;43;0;0.00;0
+MN;25;;0391;County Commissioner District 1;01;9001;Linda Flanders;;;NP;0;5;0;0.00;0
+MN;25;;0391;County Commissioner District 1;01;9901;WRITE-IN;;;WI;0;5;0;0.00;0
+MN;25;;0393;County Commissioner District 3;03;9001;Todd O. Greseth;;;NP;3;11;1296;99.16;1307
+MN;25;;0393;County Commissioner District 3;03;9901;WRITE-IN;;;WI;3;11;11;0.84;1307
+MN;25;;0395;County Commissioner District 5;05;9001;Susan Nelson Betcher;;;NP;3;5;1913;98.76;1937
+MN;25;;0395;County Commissioner District 5;05;9901;WRITE-IN;;;WI;3;5;24;1.24;1937
+MN;25;;0433;Soil and Water Supervisor District 3;7049;9001;John F. Beck;;;NP;15;40;6650;99.36;6693
+MN;25;;0433;Soil and Water Supervisor District 3;7049;9901;WRITE-IN;;;WI;15;40;43;0.64;6693
+MN;25;;0434;Soil and Water Supervisor District 4;7049;9001;Edward McNamara;;;NP;15;40;6702;99.45;6739
+MN;25;;0434;Soil and Water Supervisor District 4;7049;9901;WRITE-IN;;;WI;15;40;37;0.55;6739
+MN;25;;0435;Soil and Water Supervisor District 5;7049;9001;Christopher J. Hinck;;;NP;15;40;6674;99.40;6714
+MN;25;;0435;Soil and Water Supervisor District 5;7049;9901;WRITE-IN;;;WI;15;40;40;0.60;6714
+MN;26;;0391;County Commissioner District 1;01;9001;Troy Johnson;;;NP;2;5;151;54.71;276
+MN;26;;0391;County Commissioner District 1;01;9002;John Kreft;;;NP;2;5;123;44.57;276
+MN;26;;0391;County Commissioner District 1;01;9901;WRITE-IN;;;WI;2;5;2;0.72;276
+MN;26;;0393;County Commissioner District 3;03;9001;Paul "PK" Hedstrom;;;NP;0;3;0;0.00;0
+MN;26;;0393;County Commissioner District 3;03;9002;Ken Johnson;;;NP;0;3;0;0.00;0
+MN;26;;0393;County Commissioner District 3;03;9901;WRITE-IN;;;WI;0;3;0;0.00;0
+MN;26;;0395;County Commissioner District 5;05;9001;Doyle Sperr;;;NP;4;11;220;98.21;224
+MN;26;;0395;County Commissioner District 5;05;9901;WRITE-IN;;;WI;4;11;4;1.79;224
+MN;26;;0431;Soil and Water Supervisor District 1;1051;9901;WRITE-IN;;;WI;8;23;56;100.00;56
+MN;26;;0432;Soil and Water Supervisor District 2;1051;9001;Darin Hanson;;;NP;8;23;772;99.74;774
+MN;26;;0432;Soil and Water Supervisor District 2;1051;9901;WRITE-IN;;;WI;8;23;2;0.26;774
+MN;26;;0434;Soil and Water Supervisor District 4;1051;9001;Andrew M. Marks;;;NP;8;23;783;99.49;787
+MN;26;;0434;Soil and Water Supervisor District 4;1051;9901;WRITE-IN;;;WI;8;23;4;0.51;787
+MN;27;;0391;County Commissioner District 1;01;9001;Gulled Ahmed Badel;;;NP;49;49;13893;22.60;61466
+MN;27;;0391;County Commissioner District 1;01;9002;Jeffrey Lunde;;;NP;49;49;47143;76.70;61466
+MN;27;;0391;County Commissioner District 1;01;9901;WRITE-IN;;;WI;49;49;430;0.70;61466
+MN;27;;0395;County Commissioner District 5;05;9001;Jeffrey A. Beck;;;NP;56;57;23455;31.33;74875
+MN;27;;0395;County Commissioner District 5;05;9002;Debbie Goettel;;;NP;56;57;50838;67.90;74875
+MN;27;;0395;County Commissioner District 5;05;9901;WRITE-IN;;;WI;56;57;582;0.78;74875
+MN;27;;0396;County Commissioner District 6;06;9001;Heather Edelson;;;NP;66;66;56848;67.56;84139
+MN;27;;0396;County Commissioner District 6;06;9002;Marisa Simonetti;;;NP;66;66;26563;31.57;84139
+MN;27;;0396;County Commissioner District 6;06;9901;WRITE-IN;;;WI;66;66;728;0.87;84139
+MN;27;;0397;County Commissioner District 7;07;9001;Brad Kohler;;;NP;51;53;35510;44.10;80517
+MN;27;;0397;County Commissioner District 7;07;9002;Kevin Anderson;;;NP;51;53;44401;55.14;80517
+MN;27;;0397;County Commissioner District 7;07;9901;WRITE-IN;;;WI;51;53;606;0.75;80517
+MN;27;;0412;County Park Commissioner District 2;2;9001;Jennifer DeJournett;;;NP;45;46;60381;98.31;61421
+MN;27;;0412;County Park Commissioner District 2;2;9901;WRITE-IN;;;WI;45;46;1040;1.69;61421
+MN;27;;0414;County Park Commissioner District 4;4;9001;Louise M. Segreto;;;NP;57;57;62855;98.38;63887
+MN;27;;0414;County Park Commissioner District 4;4;9901;WRITE-IN;;;WI;57;57;1032;1.62;63887
+MN;28;;0391;County Commissioner District 1;01;9001;Cindy Wright;;;NP;0;2;0;0.00;0
+MN;28;;0391;County Commissioner District 1;01;9901;WRITE-IN;;;WI;0;2;0;0.00;0
+MN;28;;0393;County Commissioner District 3;03;9001;Kurt W Zehnder;;;NP;0;3;0;0.00;0
+MN;28;;0393;County Commissioner District 3;03;9901;WRITE-IN;;;WI;0;3;0;0.00;0
+MN;28;;0395;County Commissioner District 5;05;9001;Mikal Sylling;;;NP;0;9;0;0.00;0
+MN;28;;0395;County Commissioner District 5;05;9003;Greg Myhre;;;NP;0;9;0;0.00;0
+MN;28;;0395;County Commissioner District 5;05;9901;WRITE-IN;;;WI;0;9;0;0.00;0
+MN;28;;0433;Soil and Water Supervisor District 3;7055;9001;Kenneth Anderson;;;NP;0;27;0;0.00;0
+MN;28;;0433;Soil and Water Supervisor District 3;7055;9901;WRITE-IN;;;WI;0;27;0;0.00;0
+MN;28;;0434;Soil and Water Supervisor District 4;7055;9001;Glenn Kruse;;;NP;0;27;0;0.00;0
+MN;28;;0434;Soil and Water Supervisor District 4;7055;9901;WRITE-IN;;;WI;0;27;0;0.00;0
+MN;28;;0435;Soil and Water Supervisor District 5;7055;9001;Matt Feldmeier;;;NP;0;27;0;0.00;0
+MN;28;;0435;Soil and Water Supervisor District 5;7055;9901;WRITE-IN;;;WI;0;27;0;0.00;0
+MN;29;;0392;County Commissioner District 2;02;9001;Charlene Christenson;;;NP;0;3;0;0.00;0
+MN;29;;0392;County Commissioner District 2;02;9901;WRITE-IN;;;WI;0;3;0;0.00;0
+MN;29;;0394;County Commissioner District 4;04;9001;Steven Keranen;;;NP;0;14;0;0.00;0
+MN;29;;0394;County Commissioner District 4;04;9901;WRITE-IN;;;WI;0;14;0;0.00;0
+MN;29;;0431;Soil and Water Supervisor District 1;8057;9001;Donald Rettinger;;;NP;0;37;0;0.00;0
+MN;29;;0431;Soil and Water Supervisor District 1;8057;9901;WRITE-IN;;;WI;0;37;0;0.00;0
+MN;29;;0432;Soil and Water Supervisor District 2;8057;9001;Marcel Noyes;;;NP;0;37;0;0.00;0
+MN;29;;0432;Soil and Water Supervisor District 2;8057;9901;WRITE-IN;;;WI;0;37;0;0.00;0
+MN;29;;0433;Soil and Water Supervisor District 3;8057;9001;Heidi Anderson-Thomas;;;NP;0;37;0;0.00;0
+MN;29;;0433;Soil and Water Supervisor District 3;8057;9901;WRITE-IN;;;WI;0;37;0;0.00;0
+MN;30;;0391;County Commissioner District 1;01;9001;Alan Duff;;;NP;0;2;0;0.00;0
+MN;30;;0391;County Commissioner District 1;01;9002;Rick Schneider;;;NP;0;2;0;0.00;0
+MN;30;;0391;County Commissioner District 1;01;9901;WRITE-IN;;;WI;0;2;0;0.00;0
+MN;30;;0393;County Commissioner District 3;03;9001;Steve Westerberg;;;NP;0;6;0;0.00;0
+MN;30;;0393;County Commissioner District 3;03;9002;George E Carlson;;;NP;0;6;0;0.00;0
+MN;30;;0393;County Commissioner District 3;03;9901;WRITE-IN;;;WI;0;6;0;0.00;0
+MN;30;;0394;County Commissioner District 4;04;9001;Mike Warring;;;NP;0;4;0;0.00;0
+MN;30;;0394;County Commissioner District 4;04;9002;Todd Christensen;;;NP;0;4;0;0.00;0
+MN;30;;0394;County Commissioner District 4;04;9901;WRITE-IN;;;WI;0;4;0;0.00;0
+MN;30;;0421;COUNTY QUESTION 1;;9001;YES;;;NP;0;19;0;0.00;0
+MN;30;;0421;COUNTY QUESTION 1;;9002;NO;;;NP;0;19;0;0.00;0
+MN;30;;0431;Soil and Water Supervisor District 1;4059;9001;Valerie M Anderson;;;NP;0;19;0;0.00;0
+MN;30;;0431;Soil and Water Supervisor District 1;4059;9901;WRITE-IN;;;WI;0;19;0;0.00;0
+MN;30;;0433;Soil and Water Supervisor District 3;4059;9001;Mitchell McElrath;;;NP;0;19;0;0.00;0
+MN;30;;0433;Soil and Water Supervisor District 3;4059;9002;Franklin Dale Curtis;;;NP;0;19;0;0.00;0
+MN;30;;0433;Soil and Water Supervisor District 3;4059;9901;WRITE-IN;;;WI;0;19;0;0.00;0
+MN;30;;0434;Soil and Water Supervisor District 4;4059;9001;Allan R. Koczur;;;NP;0;19;0;0.00;0
+MN;30;;0434;Soil and Water Supervisor District 4;4059;9901;WRITE-IN;;;WI;0;19;0;0.00;0
+MN;31;;0392;County Commissioner District 2;02;9001;Terry Snyder;;;NP;9;12;2394;97.16;2464
+MN;31;;0392;County Commissioner District 2;02;9901;WRITE-IN;;;WI;9;12;70;2.84;2464
+MN;31;;0394;County Commissioner District 4;04;9001;Burl Ives;;;NP;5;7;3389;73.53;4609
+MN;31;;0394;County Commissioner District 4;04;9002;Brian Oftelie;;;NP;5;7;1066;23.13;4609
+MN;31;;0394;County Commissioner District 4;04;9901;WRITE-IN;;;WI;5;7;154;3.34;4609
+MN;31;;0432;Soil and Water Supervisor District 2;8061;9001;Tom Nelson;;;NP;60;75;16392;99.20;16524
+MN;31;;0432;Soil and Water Supervisor District 2;8061;9901;WRITE-IN;;;WI;60;75;132;0.80;16524
+MN;31;;0433;Soil and Water Supervisor District 3;8061;9001;Perry Loegering;;;NP;60;75;16081;99.28;16198
+MN;31;;0433;Soil and Water Supervisor District 3;8061;9901;WRITE-IN;;;WI;60;75;117;0.72;16198
+MN;32;;0391;County Commissioner District 1;01;9001;Scott McClure;;;NP;7;7;405;35.34;1146
+MN;32;;0391;County Commissioner District 1;01;9003;Kent Bargfrede;;;NP;7;7;729;63.61;1146
+MN;32;;0391;County Commissioner District 1;01;9901;WRITE-IN;;;WI;7;7;12;1.05;1146
+MN;32;;0395;County Commissioner District 5;05;9001;Larry Liepold;;;NP;10;10;1077;98.54;1093
+MN;32;;0395;County Commissioner District 5;05;9901;WRITE-IN;;;WI;10;10;16;1.46;1093
+MN;32;;0421;COUNTY QUESTION 1;;9001;YES;;;NP;28;28;3891;71.46;5445
+MN;32;;0421;COUNTY QUESTION 1;;9002;NO;;;NP;28;28;1554;28.54;5445
+MN;32;;0431;Soil and Water Supervisor District 1;5063;9001;David Hussong;;;NP;28;28;4798;99.42;4826
+MN;32;;0431;Soil and Water Supervisor District 1;5063;9901;WRITE-IN;;;WI;28;28;28;0.58;4826
+MN;32;;0433;Soil and Water Supervisor District 3;5063;9001;Jeremy Daberkow;;;NP;28;28;4797;99.79;4807
+MN;32;;0433;Soil and Water Supervisor District 3;5063;9901;WRITE-IN;;;WI;28;28;10;0.21;4807
+MN;32;;0435;Soil and Water Supervisor District 5;5063;9001;Larry G. Hansen;;;NP;28;28;4765;99.75;4777
+MN;32;;0435;Soil and Water Supervisor District 5;5063;9901;WRITE-IN;;;WI;28;28;12;0.25;4777
+MN;33;;0392;County Commissioner District 2;02;9901;WRITE-IN;;;WI;0;1;0;0.00;0
+MN;33;;0394;County Commissioner District 4;04;9001;Rickey Mattson;;;NP;4;4;1469;98.33;1494
+MN;33;;0394;County Commissioner District 4;04;9901;WRITE-IN;;;WI;4;4;25;1.67;1494
+MN;33;;0431;Soil and Water Supervisor District 1;3065;9001;Kevin C Belkholm;;;NP;17;20;4242;99.32;4271
+MN;33;;0431;Soil and Water Supervisor District 1;3065;9901;WRITE-IN;;;WI;17;20;29;0.68;4271
+MN;33;;0433;Soil and Water Supervisor District 3;3065;9001;Jon Sanford;;;NP;17;20;4146;99.57;4164
+MN;33;;0433;Soil and Water Supervisor District 3;3065;9901;WRITE-IN;;;WI;17;20;18;0.43;4164
+MN;33;;0435;Soil and Water Supervisor District 5;3065;9001;Kim Johnson;;;NP;17;20;4080;99.51;4100
+MN;33;;0435;Soil and Water Supervisor District 5;3065;9901;WRITE-IN;;;WI;17;20;20;0.49;4100
+MN;34;;0392;County Commissioner District 2;02;9001;Steven J. Gardner;;;NP;0;5;0;0.00;0
+MN;34;;0392;County Commissioner District 2;02;9901;WRITE-IN;;;WI;0;5;0;0.00;0
+MN;34;;0394;County Commissioner District 4;04;9001;Paul R. Ryan;;;NP;0;8;0;0.00;0
+MN;34;;0394;County Commissioner District 4;04;9002;Roger R. Imdieke;;;NP;0;8;0;0.00;0
+MN;34;;0394;County Commissioner District 4;04;9901;WRITE-IN;;;WI;0;8;0;0.00;0
+MN;34;;0431;Soil and Water Supervisor District 1;2067;9001;Steve Friedlein;;;NP;0;48;0;0.00;0
+MN;34;;0431;Soil and Water Supervisor District 1;2067;9901;WRITE-IN;;;WI;0;48;0;0.00;0
+MN;34;;0433;Soil and Water Supervisor District 3;2067;9001;Jeffrey Douglas Martinka;;;NP;0;48;0;0.00;0
+MN;34;;0433;Soil and Water Supervisor District 3;2067;9901;WRITE-IN;;;WI;0;48;0;0.00;0
+MN;34;;0434;Soil and Water Supervisor District 4;2067;9001;Jane Youngkrantz;;;NP;0;48;0;0.00;0
+MN;34;;0434;Soil and Water Supervisor District 4;2067;9901;WRITE-IN;;;WI;0;48;0;0.00;0
+MN;35;;0391;County Commissioner District 1;01;9001;Brad J Johnson;;;NP;3;3;423;96.36;439
+MN;35;;0391;County Commissioner District 1;01;9901;WRITE-IN;;;WI;3;3;16;3.64;439
+MN;35;;0392;County Commissioner District 2;02;9001;Theresia Gillie;;;NP;12;12;264;51.06;517
+MN;35;;0392;County Commissioner District 2;02;9003;Waylin Olson;;;NP;12;12;252;48.74;517
+MN;35;;0392;County Commissioner District 2;02;9901;WRITE-IN;;;WI;12;12;1;0.19;517
+MN;35;;0394;County Commissioner District 4;04;9002;Derry Jones;;;NP;12;12;236;55.53;425
+MN;35;;0394;County Commissioner District 4;04;9004;Leon Olson;;;NP;12;12;184;43.29;425
+MN;35;;0394;County Commissioner District 4;04;9901;WRITE-IN;;;WI;12;12;5;1.18;425
+MN;35;;0421;COUNTY QUESTION 1;;9001;YES;;;NP;39;39;1080;44.91;2405
+MN;35;;0421;COUNTY QUESTION 1;;9002;NO;;;NP;39;39;1325;55.09;2405
+MN;35;;0431;Soil and Water Supervisor District 1;1069;9001;C.J. Peterson;;;NP;39;39;2174;99.36;2188
+MN;35;;0431;Soil and Water Supervisor District 1;1069;9901;WRITE-IN;;;WI;39;39;14;0.64;2188
+MN;35;;0432;Soil and Water Supervisor District 2;1069;9001;Carey Mortenson;;;NP;39;39;2145;99.86;2148
+MN;35;;0432;Soil and Water Supervisor District 2;1069;9901;WRITE-IN;;;WI;39;39;3;0.14;2148
+MN;35;;0435;Soil and Water Supervisor District 5;1069;9001;Joe Wilebski;;;NP;39;39;2137;99.35;2151
+MN;35;;0435;Soil and Water Supervisor District 5;1069;9901;WRITE-IN;;;WI;39;39;14;0.65;2151
+MN;36;;0393;County Commissioner District 3;03;9001;Adam McIntyre;;;NP;2;2;933;98.73;945
+MN;36;;0393;County Commissioner District 3;03;9901;WRITE-IN;;;WI;2;2;12;1.27;945
+MN;36;;0395;County Commissioner District 5;05;9001;Dale N. Erickson;;;NP;10;10;1107;98.84;1120
+MN;36;;0395;County Commissioner District 5;05;9901;WRITE-IN;;;WI;10;10;13;1.16;1120
+MN;36;;0432;Soil and Water Supervisor District 2;8071;9001;George Aitchison;;;NP;22;22;5474;99.38;5508
+MN;36;;0432;Soil and Water Supervisor District 2;8071;9901;WRITE-IN;;;WI;22;22;34;0.62;5508
+MN;36;;0433;Soil and Water Supervisor District 3;8071;9001;Eldon Voigt Jr.;;;NP;22;22;5380;99.43;5411
+MN;36;;0433;Soil and Water Supervisor District 3;8071;9901;WRITE-IN;;;WI;22;22;31;0.57;5411
+MN;37;;0391;County Commissioner District 1;01;9001;Jill Kemen;;;NP;0;10;0;0.00;0
+MN;37;;0391;County Commissioner District 1;01;9002;Todd Patzer;;;NP;0;10;0;0.00;0
+MN;37;;0391;County Commissioner District 1;01;9901;WRITE-IN;;;WI;0;10;0;0.00;0
+MN;37;;0393;County Commissioner District 3;03;9001;Paul M. Zahrbock;;;NP;0;1;0;0.00;0
+MN;37;;0393;County Commissioner District 3;03;9002;Greg Thole;;;NP;0;1;0;0.00;0
+MN;37;;0393;County Commissioner District 3;03;9901;WRITE-IN;;;WI;0;1;0;0.00;0
+MN;37;;0395;County Commissioner District 5;05;9001;Stacy Tufto;;;NP;0;6;0;0.00;0
+MN;37;;0395;County Commissioner District 5;05;9901;WRITE-IN;;;WI;0;6;0;0.00;0
+MN;37;;0431;Soil and Water Supervisor District 1;5073;9001;Rosemary Weber;;;NP;0;29;0;0.00;0
+MN;37;;0431;Soil and Water Supervisor District 1;5073;9901;WRITE-IN;;;WI;0;29;0;0.00;0
+MN;37;;0432;Soil and Water Supervisor District 2;5073;9001;Danny Larson;;;NP;0;29;0;0.00;0
+MN;37;;0432;Soil and Water Supervisor District 2;5073;9901;WRITE-IN;;;WI;0;29;0;0.00;0
+MN;37;;0433;Soil and Water Supervisor District 3;5073;9001;Michael Croatt;;;NP;0;29;0;0.00;0
+MN;37;;0433;Soil and Water Supervisor District 3;5073;9901;WRITE-IN;;;WI;0;29;0;0.00;0
+MN;38;;0392;County Commissioner District 2;02;9001;Derrick "Rick" Goutermont;;;NP;3;6;291;96.68;301
+MN;38;;0392;County Commissioner District 2;02;9901;WRITE-IN;;;WI;3;6;10;3.32;301
+MN;38;;0395;County Commissioner District 5;05;9001;RIch Sve;;;NP;0;3;0;0.00;0
+MN;38;;0395;County Commissioner District 5;05;9901;WRITE-IN;;;WI;0;3;0;0.00;0
+MN;38;;0431;Soil and Water Supervisor District 1;3075;9001;David Abazs;;;NP;7;19;1203;98.45;1222
+MN;38;;0431;Soil and Water Supervisor District 1;3075;9901;WRITE-IN;;;WI;7;19;19;1.55;1222
+MN;38;;0434;Soil and Water Supervisor District 4;3075;9001;Barbara Omarzu;;;NP;7;19;1146;99.05;1157
+MN;38;;0434;Soil and Water Supervisor District 4;3075;9901;WRITE-IN;;;WI;7;19;11;0.95;1157
+MN;38;;0435;Soil and Water Supervisor District 5;3075;9001;Douglas C Haus;;;NP;7;19;1137;99.13;1147
+MN;38;;0435;Soil and Water Supervisor District 5;3075;9901;WRITE-IN;;;WI;7;19;10;0.87;1147
+MN;39;;0392;County Commissioner District 2;02;9001;Cody Hasbargen;;;NP;0;3;0;0.00;0
+MN;39;;0392;County Commissioner District 2;02;9901;WRITE-IN;;;WI;0;3;0;0.00;0
+MN;39;;0394;County Commissioner District 4;04;9001;Jonathan Waibel;;;NP;0;3;0;0.00;0
+MN;39;;0394;County Commissioner District 4;04;9901;WRITE-IN;;;WI;0;3;0;0.00;0
+MN;39;;0395;County Commissioner District 5;05;9001;Edward Arnesen;;;NP;1;4;0;0.00;0
+MN;39;;0395;County Commissioner District 5;05;9901;WRITE-IN;;;WI;1;4;0;0.00;0
+MN;39;;0431;Soil and Water Supervisor District 1;8077;9001;John Sonstegard;;;NP;1;17;0;0.00;0
+MN;39;;0431;Soil and Water Supervisor District 1;8077;9901;WRITE-IN;;;WI;1;17;0;0.00;0
+MN;39;;0432;Soil and Water Supervisor District 2;8077;9001;Monica Dohmen;;;NP;1;17;0;0.00;0
+MN;39;;0432;Soil and Water Supervisor District 2;8077;9901;WRITE-IN;;;WI;1;17;0;0.00;0
+MN;39;;0435;Soil and Water Supervisor District 5;8077;9001;Nancy Dunnell;;;NP;1;17;0;0.00;0
+MN;39;;0435;Soil and Water Supervisor District 5;8077;9901;WRITE-IN;;;WI;1;17;0;0.00;0
+MN;40;;0391;County Commissioner District 1;01;9001;Elizabeth (Liz) Krocak;;;NP;1;3;466;25.19;1850
+MN;40;;0391;County Commissioner District 1;01;9002;Dennis Tietz;;;NP;1;3;1380;74.59;1850
+MN;40;;0391;County Commissioner District 1;01;9901;WRITE-IN;;;WI;1;3;4;0.22;1850
+MN;40;;0393;County Commissioner District 3;03;9001;John King;;;NP;2;3;1955;98.54;1984
+MN;40;;0393;County Commissioner District 3;03;9901;WRITE-IN;;;WI;2;3;29;1.46;1984
+MN;40;;0433;Soil and Water Supervisor District 3;6079;9001;Peter Thelemann;;;NP;16;26;8329;99.28;8389
+MN;40;;0433;Soil and Water Supervisor District 3;6079;9901;WRITE-IN;;;WI;16;26;60;0.72;8389
+MN;40;;0434;Soil and Water Supervisor District 4;6079;9001;Kenneth Mader;;;NP;16;26;8206;99.53;8245
+MN;40;;0434;Soil and Water Supervisor District 4;6079;9901;WRITE-IN;;;WI;16;26;39;0.47;8245
+MN;40;;0435;Soil and Water Supervisor District 5;6079;9001;Jim Struck;;;NP;16;26;8248;99.63;8279
+MN;40;;0435;Soil and Water Supervisor District 5;6079;9901;WRITE-IN;;;WI;16;26;31;0.37;8279
+MN;41;;0391;County Commissioner District 1;01;9001;Corey Sik;;;NP;3;4;485;99.79;486
+MN;41;;0391;County Commissioner District 1;01;9901;WRITE-IN;;;WI;3;4;1;0.21;486
+MN;41;;0393;County Commissioner District 3;03;9001;Dean Nielsen;;;NP;3;4;559;97.73;572
+MN;41;;0393;County Commissioner District 3;03;9901;WRITE-IN;;;WI;3;4;13;2.27;572
+MN;41;;0395;County Commissioner District 5;05;9001;Steve Hauswedell;;;NP;5;7;492;99.60;494
+MN;41;;0395;County Commissioner District 5;05;9901;WRITE-IN;;;WI;5;7;2;0.40;494
+MN;41;;0432;Soil and Water Supervisor District 2;5081;9001;Jeff Paluch;;;NP;14;20;2440;99.63;2449
+MN;41;;0432;Soil and Water Supervisor District 2;5081;9901;WRITE-IN;;;WI;14;20;9;0.37;2449
+MN;41;;0435;Soil and Water Supervisor District 5;5081;9001;Ron Bunjer;;;NP;14;20;2429;99.59;2439
+MN;41;;0435;Soil and Water Supervisor District 5;5081;9901;WRITE-IN;;;WI;14;20;10;0.41;2439
+MN;42;;0392;County Commissioner District 2;02;9001;Todd Draper;;;NP;1;1;2104;99.39;2117
+MN;42;;0392;County Commissioner District 2;02;9901;WRITE-IN;;;WI;1;1;13;0.61;2117
+MN;42;;0394;County Commissioner District 4;04;9001;Gary Crowley;;;NP;13;13;2600;99.35;2617
+MN;42;;0394;County Commissioner District 4;04;9901;WRITE-IN;;;WI;13;13;17;0.65;2617
+MN;42;;0395;County Commissioner District 5;05;9001;Tom Chandler;;;NP;13;13;1134;47.17;2404
+MN;42;;0395;County Commissioner District 5;05;9002;Rick Anderson;;;NP;13;13;1263;52.54;2404
+MN;42;;0395;County Commissioner District 5;05;9901;WRITE-IN;;;WI;13;13;7;0.29;2404
+MN;42;;0431;Soil and Water Supervisor District 1;5083;9001;Gary Laleman;;;NP;33;33;10884;99.57;10931
+MN;42;;0431;Soil and Water Supervisor District 1;5083;9901;WRITE-IN;;;WI;33;33;47;0.43;10931
+MN;42;;0433;Soil and Water Supervisor District 3;5083;9001;Mason Johnson;;;NP;33;33;10623;99.60;10666
+MN;42;;0433;Soil and Water Supervisor District 3;5083;9901;WRITE-IN;;;WI;33;33;43;0.40;10666
+MN;42;;0435;Soil and Water Supervisor District 5;5083;9001;Justin Hively;;;NP;33;33;10736;99.68;10771
+MN;42;;0435;Soil and Water Supervisor District 5;5083;9901;WRITE-IN;;;WI;33;33;35;0.32;10771
+MN;43;;0391;County Commissioner District 1;01;9001;Nathan Schmalz;;;NP;3;6;1244;98.57;1262
+MN;43;;0391;County Commissioner District 1;01;9901;WRITE-IN;;;WI;3;6;18;1.43;1262
+MN;43;;0393;County Commissioner District 3;03;9001;Paul Wright;;;NP;5;6;1929;53.87;3581
+MN;43;;0393;County Commissioner District 3;03;9002;Doyle Benson;;;NP;5;6;1642;45.85;3581
+MN;43;;0393;County Commissioner District 3;03;9901;WRITE-IN;;;WI;5;6;10;0.28;3581
+MN;43;;0394;County Commissioner District 4;04;9001;Lori Cacka;;;NP;5;6;1415;98.06;1443
+MN;43;;0394;County Commissioner District 4;04;9901;WRITE-IN;;;WI;5;6;28;1.94;1443
+MN;43;;0433;Soil and Water Supervisor District 3;6085;9001;Michael L Loncorich;;;NP;19;29;7654;99.38;7702
+MN;43;;0433;Soil and Water Supervisor District 3;6085;9901;WRITE-IN;;;WI;19;29;48;0.62;7702
+MN;43;;0434;Soil and Water Supervisor District 4;6085;9001;John Adamek;;;NP;19;29;7563;99.43;7606
+MN;43;;0434;Soil and Water Supervisor District 4;6085;9901;WRITE-IN;;;WI;19;29;43;0.57;7606
+MN;43;;0435;Soil and Water Supervisor District 5;6085;9001;Mark Schnobrich;;;NP;19;29;7604;99.45;7646
+MN;43;;0435;Soil and Water Supervisor District 5;6085;9901;WRITE-IN;;;WI;19;29;42;0.55;7646
+MN;44;;0391;County Commissioner District 1;01;9001;Darvin Schoenborn;;;NP;0;1;0;0.00;0
+MN;44;;0391;County Commissioner District 1;01;9901;WRITE-IN;;;WI;0;1;0;0.00;0
+MN;44;;0395;County Commissioner District 5;05;9001;John M. Darco;;;NP;0;5;0;0.00;0
+MN;44;;0395;County Commissioner District 5;05;9002;Charlie Pazdernik;;;NP;0;5;0;0.00;0
+MN;44;;0395;County Commissioner District 5;05;9901;WRITE-IN;;;WI;0;5;0;0.00;0
+MN;44;;0431;Soil and Water Supervisor District 1;1087;9001;Terry McCollum;;;NP;0;19;0;0.00;0
+MN;44;;0431;Soil and Water Supervisor District 1;1087;9901;WRITE-IN;;;WI;0;19;0;0.00;0
+MN;44;;0432;Soil and Water Supervisor District 2;1087;9001;Mike Geray;;;NP;0;19;0;0.00;0
+MN;44;;0432;Soil and Water Supervisor District 2;1087;9901;WRITE-IN;;;WI;0;19;0;0.00;0
+MN;44;;0434;Soil and Water Supervisor District 4;1087;9001;Pete Revier;;;NP;0;19;0;0.00;0
+MN;44;;0434;Soil and Water Supervisor District 4;1087;9901;WRITE-IN;;;WI;0;19;0;0.00;0
+MN;45;;0392;County Commissioner District 2;02;9001;Rolland Miller;;;NP;0;10;0;0.00;0
+MN;45;;0392;County Commissioner District 2;02;9901;WRITE-IN;;;WI;0;10;0;0.00;0
+MN;45;;0394;County Commissioner District 4;04;9001;Sharon Bring;;;NP;0;7;0;0.00;0
+MN;45;;0394;County Commissioner District 4;04;9901;WRITE-IN;;;WI;0;7;0;0.00;0
+MN;45;;0431;Soil and Water Supervisor District 1;1089;9001;Brent Miller;;;NP;1;60;0;0.00;0
+MN;45;;0431;Soil and Water Supervisor District 1;1089;9901;WRITE-IN;;;WI;1;60;0;0.00;0
+MN;45;;0432;Soil and Water Supervisor District 2;1089;9001;Dale Price;;;NP;1;60;0;0.00;0
+MN;45;;0432;Soil and Water Supervisor District 2;1089;9901;WRITE-IN;;;WI;1;60;0;0.00;0
+MN;46;;0391;County Commissioner District 1;01;9001;Kevin Kristenson;;;NP;0;9;0;0.00;0
+MN;46;;0391;County Commissioner District 1;01;9002;Micheal Anderson;;;NP;0;9;0;0.00;0
+MN;46;;0391;County Commissioner District 1;01;9901;WRITE-IN;;;WI;0;9;0;0.00;0
+MN;46;;0393;County Commissioner District 3;03;9001;Joe Loughmiller;;;NP;0;3;0;0.00;0
+MN;46;;0393;County Commissioner District 3;03;9002;Michael Schutz;;;NP;0;3;0;0.00;0
+MN;46;;0393;County Commissioner District 3;03;9901;WRITE-IN;;;WI;0;3;0;0.00;0
+MN;46;;0395;County Commissioner District 5;05;9001;Tyler Ask;;;NP;0;11;0;0.00;0
+MN;46;;0395;County Commissioner District 5;05;9003;Billeye Rabbe;;;NP;0;11;0;0.00;0
+MN;46;;0395;County Commissioner District 5;05;9901;WRITE-IN;;;WI;0;11;0;0.00;0
+MN;46;;0431;Soil and Water Supervisor District 1;6091;9001;Larry Cowing;;;NP;0;37;0;0.00;0
+MN;46;;0431;Soil and Water Supervisor District 1;6091;9901;WRITE-IN;;;WI;0;37;0;0.00;0
+MN;46;;0433;Soil and Water Supervisor District 3;6091;9001;Russell Laue;;;NP;0;37;0;0.00;0
+MN;46;;0433;Soil and Water Supervisor District 3;6091;9901;WRITE-IN;;;WI;0;37;0;0.00;0
+MN;47;;0392;County Commissioner District 2;02;9001;Cheryl VanOrt;;;NP;3;5;1567;98.37;1593
+MN;47;;0392;County Commissioner District 2;02;9901;WRITE-IN;;;WI;3;5;26;1.63;1593
+MN;47;;0393;County Commissioner District 3;03;9001;Paul M Johnson;;;NP;3;9;734;98.39;746
+MN;47;;0393;County Commissioner District 3;03;9901;WRITE-IN;;;WI;3;9;12;1.61;746
+MN;47;;0394;County Commissioner District 4;04;9001;Darren Sombke;;;NP;2;4;1068;64.49;1656
+MN;47;;0394;County Commissioner District 4;04;9002;Danny Schiefelbein;;;NP;2;4;582;35.14;1656
+MN;47;;0394;County Commissioner District 4;04;9901;WRITE-IN;;;WI;2;4;6;0.36;1656
+MN;47;;0431;Soil and Water Supervisor District 1;2093;9001;Greg Jans;;;NP;17;30;7204;99.41;7247
+MN;47;;0431;Soil and Water Supervisor District 1;2093;9901;WRITE-IN;;;WI;17;30;43;0.59;7247
+MN;47;;0432;Soil and Water Supervisor District 2;2093;9001;Robert J Schiefelbein;;;NP;17;30;7166;99.36;7212
+MN;47;;0432;Soil and Water Supervisor District 2;2093;9901;WRITE-IN;;;WI;17;30;46;0.64;7212
+MN;47;;0434;Soil and Water Supervisor District 4;2093;9001;Fred H. Behnke Jr;;;NP;17;30;7122;99.61;7150
+MN;47;;0434;Soil and Water Supervisor District 4;2093;9901;WRITE-IN;;;WI;17;30;28;0.39;7150
+MN;48;;0391;County Commissioner District 1;01;9001;Genny Reynolds;;;NP;0;1;0;0.00;0
+MN;48;;0391;County Commissioner District 1;01;9901;WRITE-IN;;;WI;0;1;0;0.00;0
+MN;48;;0393;County Commissioner District 3;03;9002;Diana Klages;;;NP;2;3;763;51.17;1491
+MN;48;;0393;County Commissioner District 3;03;9004;Jay Munson;;;NP;2;3;719;48.22;1491
+MN;48;;0393;County Commissioner District 3;03;9901;WRITE-IN;;;WI;2;3;9;0.60;1491
+MN;48;;0395;County Commissioner District 5;05;9001;Ronda Bjornson;;;NP;6;8;1598;98.22;1627
+MN;48;;0395;County Commissioner District 5;05;9901;WRITE-IN;;;WI;6;8;29;1.78;1627
+MN;48;;0431;Soil and Water Supervisor District 1;3095;9001;Mark Riverblood;;;NP;18;25;2345;40.26;5824
+MN;48;;0431;Soil and Water Supervisor District 1;3095;9002;Daniel K Campbell;;;NP;18;25;3445;59.15;5824
+MN;48;;0431;Soil and Water Supervisor District 1;3095;9901;WRITE-IN;;;WI;18;25;34;0.58;5824
+MN;48;;0432;Soil and Water Supervisor District 2;3095;9001;Timothy Braun;;;NP;18;25;5467;98.91;5527
+MN;48;;0432;Soil and Water Supervisor District 2;3095;9901;WRITE-IN;;;WI;18;25;60;1.09;5527
+MN;48;;0434;Soil and Water Supervisor District 4;3095;9001;Andre Lasalle;;;NP;18;25;5408;99.16;5454
+MN;48;;0434;Soil and Water Supervisor District 4;3095;9901;WRITE-IN;;;WI;18;25;46;0.84;5454
+MN;49;;0391;County Commissioner District 1;01;9001;Mike LeMieur;;;NP;10;10;2161;64.89;3330
+MN;49;;0391;County Commissioner District 1;01;9002;Ren� Krousey;;;NP;10;10;1147;34.44;3330
+MN;49;;0391;County Commissioner District 1;01;9901;WRITE-IN;;;WI;10;10;22;0.66;3330
+MN;49;;0392;County Commissioner District 2;02;9002;Ed Moran;;;NP;3;3;1708;56.93;3000
+MN;49;;0392;County Commissioner District 2;02;9003;Hasten Warnberg;;;NP;3;3;1271;42.37;3000
+MN;49;;0392;County Commissioner District 2;02;9901;WRITE-IN;;;WI;3;3;21;0.70;3000
+MN;49;;0393;County Commissioner District 3;03;9001;Jeremy J. Pekula;;;NP;4;4;1595;46.08;3461
+MN;49;;0393;County Commissioner District 3;03;9002;Randy H. Winscher;;;NP;4;4;1852;53.51;3461
+MN;49;;0393;County Commissioner District 3;03;9901;WRITE-IN;;;WI;4;4;14;0.40;3461
+MN;49;;0421;COUNTY QUESTION 1;;9001;YES;;;NP;48;48;5374;29.56;18177
+MN;49;;0421;COUNTY QUESTION 1;;9002;NO;;;NP;48;48;12803;70.44;18177
+MN;49;;0431;Soil and Water Supervisor District 1;2097;9001;William Faber;;;NP;48;48;14157;99.42;14239
+MN;49;;0431;Soil and Water Supervisor District 1;2097;9901;WRITE-IN;;;WI;48;48;82;0.58;14239
+MN;49;;0432;Soil and Water Supervisor District 2;2097;9001;Tom Brutscher;;;NP;48;48;14287;99.44;14368
+MN;49;;0432;Soil and Water Supervisor District 2;2097;9901;WRITE-IN;;;WI;48;48;81;0.56;14368
+MN;49;;0435;Soil and Water Supervisor District 5;2097;9001;David Hubner;;;NP;48;48;14252;99.42;14335
+MN;49;;0435;Soil and Water Supervisor District 5;2097;9901;WRITE-IN;;;WI;48;48;83;0.58;14335
+MN;50;;0391;County Commissioner District 1;01;9001;John Mueller;;;NP;0;8;0;0.00;0
+MN;50;;0391;County Commissioner District 1;01;9901;WRITE-IN;;;WI;0;8;0;0.00;0
+MN;50;;0392;County Commissioner District 2;02;9001;Steve Reinartz;;;NP;0;20;0;0.00;0
+MN;50;;0392;County Commissioner District 2;02;9002;Polly Glynn;;;NP;0;20;0;0.00;0
+MN;50;;0392;County Commissioner District 2;02;9901;WRITE-IN;;;WI;0;20;0;0.00;0
+MN;50;;0431;Soil and Water Supervisor District 1;7099;9001;Rodney Moe;;;NP;0;39;0;0.00;0
+MN;50;;0431;Soil and Water Supervisor District 1;7099;9901;WRITE-IN;;;WI;0;39;0;0.00;0
+MN;50;;0432;Soil and Water Supervisor District 2;7099;9001;Jay Soltau;;;NP;0;39;0;0.00;0
+MN;50;;0432;Soil and Water Supervisor District 2;7099;9901;WRITE-IN;;;WI;0;39;0;0.00;0
+MN;50;;0435;Soil and Water Supervisor District 5;7099;9001;Jon W. Erichson;;;NP;0;39;0;0.00;0
+MN;50;;0435;Soil and Water Supervisor District 5;7099;9901;WRITE-IN;;;WI;0;39;0;0.00;0
+MN;51;;0391;County Commissioner District 1;01;9001;Loy Woelber;;;NP;9;9;844;99.29;850
+MN;51;;0391;County Commissioner District 1;01;9901;WRITE-IN;;;WI;9;9;6;0.71;850
+MN;51;;0392;County Commissioner District 2;02;9002;Trevor J. Humphrey;;;NP;9;9;227;23.77;955
+MN;51;;0392;County Commissioner District 2;02;9003;Mark K. Carlson;;;NP;9;9;725;75.92;955
+MN;51;;0392;County Commissioner District 2;02;9901;WRITE-IN;;;WI;9;9;3;0.31;955
+MN;51;;0395;County Commissioner District 5;05;9001;Roger Zins;;;NP;2;2;527;68.80;766
+MN;51;;0395;County Commissioner District 5;05;9002;Randy Donahue;;;NP;2;2;237;30.94;766
+MN;51;;0395;County Commissioner District 5;05;9901;WRITE-IN;;;WI;2;2;2;0.26;766
+MN;51;;0432;Special Election for Soil and Water Supervisor District 2;5101;9001;Jason Miller;;;NP;29;29;4041;99.65;4055
+MN;51;;0432;Special Election for Soil and Water Supervisor District 2;5101;9901;WRITE-IN;;;WI;29;29;14;0.35;4055
+MN;51;;0434;Soil and Water Supervisor District 4;5101;9001;Mona Henkels;;;NP;29;29;3996;99.78;4005
+MN;51;;0434;Soil and Water Supervisor District 4;5101;9901;WRITE-IN;;;WI;29;29;9;0.22;4005
+MN;51;;0435;Soil and Water Supervisor District 5;5101;9001;Karen Hurd;;;NP;29;29;4031;99.65;4045
+MN;51;;0435;Soil and Water Supervisor District 5;5101;9901;WRITE-IN;;;WI;29;29;14;0.35;4045
+MN;52;;0392;County Commissioner District 2;02;9001;Nicole Helget;;;NP;5;5;2816;99.05;2843
+MN;52;;0392;County Commissioner District 2;02;9901;WRITE-IN;;;WI;5;5;27;0.95;2843
+MN;52;;0394;County Commissioner District 4;04;9001;Mark Dehen;;;NP;3;3;2798;98.69;2835
+MN;52;;0394;County Commissioner District 4;04;9901;WRITE-IN;;;WI;3;3;37;1.31;2835
+MN;52;;0431;Soil and Water Supervisor District 1;6103;9001;Timothy J Braun;;;NP;26;26;14930;99.31;15033
+MN;52;;0431;Soil and Water Supervisor District 1;6103;9901;WRITE-IN;;;WI;26;26;103;0.69;15033
+MN;52;;0433;Soil and Water Supervisor District 3;6103;9001;John Luepke;;;NP;26;26;14877;99.22;14994
+MN;52;;0433;Soil and Water Supervisor District 3;6103;9901;WRITE-IN;;;WI;26;26;117;0.78;14994
+MN;52;;0434;Soil and Water Supervisor District 4;6103;9001;Don Hermanson;;;NP;26;26;14858;99.49;14934
+MN;52;;0434;Soil and Water Supervisor District 4;6103;9901;WRITE-IN;;;WI;26;26;76;0.51;14934
+MN;53;;0391;County Commissioner District 1;01;9001;Justin J Ahlers;;;NP;0;12;0;0.00;0
+MN;53;;0391;County Commissioner District 1;01;9901;WRITE-IN;;;WI;0;12;0;0.00;0
+MN;53;;0393;County Commissioner District 3;03;9001;Jean Johnson;;;NP;0;8;0;0.00;0
+MN;53;;0393;County Commissioner District 3;03;9002;Bob Paplow;;;NP;0;8;0;0.00;0
+MN;53;;0393;County Commissioner District 3;03;9901;WRITE-IN;;;WI;0;8;0;0.00;0
+MN;53;;0394;County Commissioner District 4;04;9001;Robert S. Demuth;;;NP;0;3;0;0.00;0
+MN;53;;0394;County Commissioner District 4;04;9901;WRITE-IN;;;WI;0;3;0;0.00;0
+MN;53;;0431;Soil and Water Supervisor District 1;5105;9001;Jess R. DeKam;;;NP;0;40;0;0.00;0
+MN;53;;0431;Soil and Water Supervisor District 1;5105;9901;WRITE-IN;;;WI;0;40;0;0.00;0
+MN;53;;0432;Soil and Water Supervisor District 2;5105;9001;Nathan Thier;;;NP;0;40;0;0.00;0
+MN;53;;0432;Soil and Water Supervisor District 2;5105;9901;WRITE-IN;;;WI;0;40;0;0.00;0
+MN;53;;0433;Soil and Water Supervisor District 3;5105;9001;Lynn Darling;;;NP;0;40;0;0.00;0
+MN;53;;0433;Soil and Water Supervisor District 3;5105;9901;WRITE-IN;;;WI;0;40;0;0.00;0
+MN;54;;0391;County Commissioner District 1;01;9001;Randal Gorder;;;NP;0;10;0;0.00;0
+MN;54;;0391;County Commissioner District 1;01;9003;Timothy Oistad;;;NP;0;10;0;0.00;0
+MN;54;;0391;County Commissioner District 1;01;9901;WRITE-IN;;;WI;0;10;0;0.00;0
+MN;54;;0395;County Commissioner District 5;05;9001;Gregory Crader;;;NP;1;4;17;18.48;92
+MN;54;;0395;County Commissioner District 5;05;9004;Darren Andersen;;;NP;1;4;75;81.52;92
+MN;54;;0395;County Commissioner District 5;05;9901;WRITE-IN;;;WI;1;4;0;0.00;92
+MN;54;;0433;Soil and Water Supervisor District 3;1107;9001;Bruce Tufte;;;NP;4;33;349;99.71;350
+MN;54;;0433;Soil and Water Supervisor District 3;1107;9901;WRITE-IN;;;WI;4;33;1;0.29;350
+MN;54;;0434;Soil and Water Supervisor District 4;1107;9001;Erik Rockstad;;;NP;4;33;355;100.00;355
+MN;54;;0434;Soil and Water Supervisor District 4;1107;9901;WRITE-IN;;;WI;4;33;0;0.00;355
+MN;54;;0435;Soil and Water Supervisor District 5;1107;9001;Ronald Thorsrud;;;NP;4;33;332;100.00;332
+MN;54;;0435;Soil and Water Supervisor District 5;1107;9901;WRITE-IN;;;WI;4;33;0;0.00;332
+MN;55;;0391;County Commissioner District 1;01;9001;Laurel Podulke-Smith;;;NP;0;16;0;0.00;0
+MN;55;;0391;County Commissioner District 1;01;9901;WRITE-IN;;;WI;0;16;0;0.00;0
+MN;55;;0393;County Commissioner District 3;03;9001;April Sutor;;;NP;0;17;0;0.00;0
+MN;55;;0393;County Commissioner District 3;03;9003;Gregg Wright;;;NP;0;17;0;0.00;0
+MN;55;;0393;County Commissioner District 3;03;9901;WRITE-IN;;;WI;0;17;0;0.00;0
+MN;55;;0395;County Commissioner District 5;05;9001;Michelle Rossman;;;NP;0;13;0;0.00;0
+MN;55;;0395;County Commissioner District 5;05;9901;WRITE-IN;;;WI;0;13;0;0.00;0
+MN;55;;0396;Special Election for County Commissioner District 6;06;9001;Tawonda Burks;;;NP;0;15;0;0.00;0
+MN;55;;0396;Special Election for County Commissioner District 6;06;9002;Bob Hopkins;;;NP;0;15;0;0.00;0
+MN;55;;0396;Special Election for County Commissioner District 6;06;9901;WRITE-IN;;;WI;0;15;0;0.00;0
+MN;55;;0397;County Commissioner District 7;07;9001;Mark Thein;;;NP;0;14;0;0.00;0
+MN;55;;0397;County Commissioner District 7;07;9901;WRITE-IN;;;WI;0;14;0;0.00;0
+MN;55;;0434;Soil and Water Supervisor District 4;7109;9001;Joseph Himmer;;;NP;0;110;0;0.00;0
+MN;55;;0434;Soil and Water Supervisor District 4;7109;9901;WRITE-IN;;;WI;0;110;0;0.00;0
+MN;55;;0435;Soil and Water Supervisor District 5;7109;9901;WRITE-IN;;;WI;0;110;0;0.00;0
+MN;56;;0391;County Commissioner District 1;01;9001;Dan Bucholz;;;NP;0;16;0;0.00;0
+MN;56;;0391;County Commissioner District 1;01;9901;WRITE-IN;;;WI;0;16;0;0.00;0
+MN;56;;0393;County Commissioner District 3;03;9001;Kurt A. Mortenson;;;NP;0;24;0;0.00;0
+MN;56;;0393;County Commissioner District 3;03;9002;Greg Anderson;;;NP;0;24;0;0.00;0
+MN;56;;0393;County Commissioner District 3;03;9901;WRITE-IN;;;WI;0;24;0;0.00;0
+MN;56;;0395;County Commissioner District 5;05;9002;Ben Schierer;;;NP;0;7;0;0.00;0
+MN;56;;0395;County Commissioner District 5;05;9003;Sean Sullivan;;;NP;0;7;0;0.00;0
+MN;56;;0395;County Commissioner District 5;05;9901;WRITE-IN;;;WI;0;7;0;0.00;0
+MN;56;;0431;Soil and Water Supervisor District 1 (East);1112;9001;Bruce E. Albright;;;NP;0;42;0;0.00;0
+MN;56;;0431;Soil and Water Supervisor District 1 (East);1112;9901;WRITE-IN;;;WI;0;42;0;0.00;0
+MN;56;;0434;Soil and Water Supervisor District 4 (East);1112;9001;Terry Greenwaldt;;;NP;0;42;0;0.00;0
+MN;56;;0434;Soil and Water Supervisor District 4 (East);1112;9901;WRITE-IN;;;WI;0;42;0;0.00;0
+MN;56;;0435;Soil and Water Supervisor District 5 (East);1112;9001;Steve Inwards;;;NP;0;42;0;0.00;0
+MN;56;;0435;Soil and Water Supervisor District 5 (East);1112;9901;WRITE-IN;;;WI;0;42;0;0.00;0
+MN;56;;0438;Soil and Water Supervisor District 3 (West);1111;9001;Rod Wenstrom;;;NP;0;49;0;0.00;0
+MN;56;;0438;Soil and Water Supervisor District 3 (West);1111;9901;WRITE-IN;;;WI;0;49;0;0.00;0
+MN;56;;0439;Soil and Water Supervisor District 4 (West);1111;9001;John S. Walkup;;;NP;0;49;0;0.00;0
+MN;56;;0439;Soil and Water Supervisor District 4 (West);1111;9901;WRITE-IN;;;WI;0;49;0;0.00;0
+MN;56;;0440;Soil and Water Supervisor District 5 (West);1111;9001;Wayne W. Rotz;;;NP;0;49;0;0.00;0
+MN;56;;0440;Soil and Water Supervisor District 5 (West);1111;9901;WRITE-IN;;;WI;0;49;0;0.00;0
+MN;57;;0391;County Commissioner District 1;01;9001;Seth R. Nelson;;;NP;2;14;390;99.24;393
+MN;57;;0391;County Commissioner District 1;01;9901;WRITE-IN;;;WI;2;14;3;0.76;393
+MN;57;;0392;County Commissioner District 2;02;9001;David S. Sorenson;;;NP;0;2;0;0.00;0
+MN;57;;0392;County Commissioner District 2;02;9901;WRITE-IN;;;WI;0;2;0;0.00;0
+MN;57;;0395;County Commissioner District 5;05;9001;Bruce Lawrence;;;NP;0;3;0;0.00;0
+MN;57;;0395;County Commissioner District 5;05;9901;WRITE-IN;;;WI;0;3;0;0.00;0
+MN;57;;0431;Soil and Water Supervisor District 1;1113;9001;Tom Wold;;;NP;3;31;591;99.49;594
+MN;57;;0431;Soil and Water Supervisor District 1;1113;9901;WRITE-IN;;;WI;3;31;3;0.51;594
+MN;57;;0434;Soil and Water Supervisor District 4;1113;9001;Linda Hanson;;;NP;3;31;584;99.49;587
+MN;57;;0434;Soil and Water Supervisor District 4;1113;9901;WRITE-IN;;;WI;3;31;3;0.51;587
+MN;57;;0435;Soil and Water Supervisor District 5;1113;9001;Greg Hilgeman;;;NP;3;31;580;99.49;583
+MN;57;;0435;Soil and Water Supervisor District 5;1113;9901;WRITE-IN;;;WI;3;31;3;0.51;583
+MN;58;;0393;County Commissioner District 3;03;9001;Roger Nelson;;;NP;7;11;981;55.42;1770
+MN;58;;0393;County Commissioner District 3;03;9002;Terry Lovgren;;;NP;7;11;780;44.07;1770
+MN;58;;0393;County Commissioner District 3;03;9901;WRITE-IN;;;WI;7;11;9;0.51;1770
+MN;58;;0394;County Commissioner District 4;04;9001;J.J. Waldhalm;;;NP;12;13;1832;65.43;2800
+MN;58;;0394;County Commissioner District 4;04;9002;Brent Switzer;;;NP;12;13;963;34.39;2800
+MN;58;;0394;County Commissioner District 4;04;9901;WRITE-IN;;;WI;12;13;5;0.18;2800
+MN;58;;0432;Soil and Water Supervisor District 2;3115;9001;Michael Cummins;;;NP;37;47;6427;99.04;6489
+MN;58;;0432;Soil and Water Supervisor District 2;3115;9901;WRITE-IN;;;WI;37;47;62;0.96;6489
+MN;58;;0433;Soil and Water Supervisor District 3;3115;9001;Brenna Doheny;;;NP;37;47;6319;99.15;6373
+MN;58;;0433;Soil and Water Supervisor District 3;3115;9901;WRITE-IN;;;WI;37;47;54;0.85;6373
+MN;58;;0434;Soil and Water Supervisor District 4;3115;9901;WRITE-IN;;;WI;37;47;277;100.00;277
+MN;59;;0391;County Commissioner District 1;01;9001;Luke Johnson;;;NP;0;10;0;0.00;0
+MN;59;;0391;County Commissioner District 1;01;9901;WRITE-IN;;;WI;0;10;0;0.00;0
+MN;59;;0393;County Commissioner District 3;03;9001;Dallas Roskamp;;;NP;0;4;0;0.00;0
+MN;59;;0393;County Commissioner District 3;03;9901;WRITE-IN;;;WI;0;4;0;0.00;0
+MN;59;;0395;County Commissioner District 5;05;9001;Chris Hollingsworth;;;NP;0;1;0;0.00;0
+MN;59;;0395;County Commissioner District 5;05;9901;WRITE-IN;;;WI;0;1;0;0.00;0
+MN;59;;0431;Soil and Water Supervisor District 1;5117;9001;Calvin Spronk;;;NP;0;22;0;0.00;0
+MN;59;;0431;Soil and Water Supervisor District 1;5117;9901;WRITE-IN;;;WI;0;22;0;0.00;0
+MN;59;;0432;Soil and Water Supervisor District 2;5117;9001;Richard Cunningham;;;NP;0;22;0;0.00;0
+MN;59;;0432;Soil and Water Supervisor District 2;5117;9002;Michael Fruechte;;;NP;0;22;0;0.00;0
+MN;59;;0432;Soil and Water Supervisor District 2;5117;9901;WRITE-IN;;;WI;0;22;0;0.00;0
+MN;59;;0433;Soil and Water Supervisor District 3;5117;9001;Ken Christensen;;;NP;0;22;0;0.00;0
+MN;59;;0433;Soil and Water Supervisor District 3;5117;9901;WRITE-IN;;;WI;0;22;0;0.00;0
+MN;60;;0391;County Commissioner District 1;01;9001;Paul Reese;;;NP;0;16;0;0.00;0
+MN;60;;0391;County Commissioner District 1;01;9901;WRITE-IN;;;WI;0;16;0;0.00;0
+MN;60;;0393;County Commissioner District 3;03;9001;Gary C. Willhite;;;NP;0;9;0;0.00;0
+MN;60;;0393;County Commissioner District 3;03;9901;WRITE-IN;;;WI;0;9;0;0.00;0
+MN;60;;0395;County Commissioner District 5;05;9001;Mark Holy;;;NP;0;16;0;0.00;0
+MN;60;;0395;County Commissioner District 5;05;9901;WRITE-IN;;;WI;0;16;0;0.00;0
+MN;60;;0433;Soil and Water Supervisor District 3 (East);1120;9001;Kory Sonstelie;;;NP;0;29;0;0.00;0
+MN;60;;0433;Soil and Water Supervisor District 3 (East);1120;9901;WRITE-IN;;;WI;0;29;0;0.00;0
+MN;60;;0434;Soil and Water Supervisor District 4 (East);1120;9001;Scott Balstad;;;NP;0;29;0;0.00;0
+MN;60;;0434;Soil and Water Supervisor District 4 (East);1120;9901;WRITE-IN;;;WI;0;29;0;0.00;0
+MN;60;;0435;Soil and Water Supervisor District 5 (East);1120;9001;Lawrence P Vettleson;;;NP;0;29;0;0.00;0
+MN;60;;0435;Soil and Water Supervisor District 5 (East);1120;9901;WRITE-IN;;;WI;0;29;0;0.00;0
+MN;60;;0437;Soil and Water Supervisor District 2 (West);1119;9001;Derek Peterson;;;NP;0;53;0;0.00;0
+MN;60;;0437;Soil and Water Supervisor District 2 (West);1119;9901;WRITE-IN;;;WI;0;53;0;0.00;0
+MN;60;;0439;Soil and Water Supervisor District 4 (West);1119;9001;Christian Pester;;;NP;0;53;0;0.00;0
+MN;60;;0439;Soil and Water Supervisor District 4 (West);1119;9901;WRITE-IN;;;WI;0;53;0;0.00;0
+MN;60;;0440;Soil and Water Supervisor District 5 (West);1119;9001;Chris Cournia;;;NP;0;53;0;0.00;0
+MN;60;;0440;Soil and Water Supervisor District 5 (West);1119;9901;WRITE-IN;;;WI;0;53;0;0.00;0
+MN;61;;0392;County Commissioner District 2;02;9001;Gordon Wagner;;;NP;1;1;1082;98.27;1101
+MN;61;;0392;County Commissioner District 2;02;9901;WRITE-IN;;;WI;1;1;19;1.73;1101
+MN;61;;0393;County Commissioner District 3;03;9001;Paul Gerde;;;NP;7;8;1272;98.60;1290
+MN;61;;0393;County Commissioner District 3;03;9901;WRITE-IN;;;WI;7;8;18;1.40;1290
+MN;61;;0432;Soil and Water Supervisor District 2;2121;9001;Randall Edward Pederson;;;NP;30;31;5895;99.51;5924
+MN;61;;0432;Soil and Water Supervisor District 2;2121;9901;WRITE-IN;;;WI;30;31;29;0.49;5924
+MN;61;;0435;Soil and Water Supervisor District 5;2121;9001;D. Gary Reents;;;NP;30;31;5972;99.63;5994
+MN;61;;0435;Soil and Water Supervisor District 5;2121;9901;WRITE-IN;;;WI;30;31;22;0.37;5994
+MN;62;;0391;County Commissioner District 1;01;9001;Tara Jebens-Singh;;;NP;0;28;0;0.00;0
+MN;62;;0391;County Commissioner District 1;01;9901;WRITE-IN;;;WI;0;28;0;0.00;0
+MN;62;;0392;County Commissioner District 2;02;9001;Mary Jo McGuire;;;NP;0;24;0;0.00;0
+MN;62;;0392;County Commissioner District 2;02;9901;WRITE-IN;;;WI;0;24;0;0.00;0
+MN;62;;0397;County Commissioner District 7;07;9001;Sarah K Yang;;;NP;0;22;0;0.00;0
+MN;62;;0397;County Commissioner District 7;07;9003;Kelly Miller;;;NP;0;22;0;0.00;0
+MN;62;;0397;County Commissioner District 7;07;9901;WRITE-IN;;;WI;0;22;0;0.00;0
+MN;63;;0392;County Commissioner District 2;02;9001;Andy Moran;;;NP;2;4;164;97.62;168
+MN;63;;0392;County Commissioner District 2;02;9901;WRITE-IN;;;WI;2;4;4;2.38;168
+MN;63;;0395;County Commissioner District 5;05;9001;Anthony "Tony" Gerardy;;;NP;2;5;201;99.01;203
+MN;63;;0395;County Commissioner District 5;05;9901;WRITE-IN;;;WI;2;5;2;0.99;203
+MN;63;;0433;Soil and Water Supervisor District 3;1125;9001;Nathan Whalen;;;NP;10;21;878;98.87;888
+MN;63;;0433;Soil and Water Supervisor District 3;1125;9901;WRITE-IN;;;WI;10;21;10;1.13;888
+MN;63;;0434;Soil and Water Supervisor District 4;1125;9001;Mark LaCrosse;;;NP;10;21;858;99.54;862
+MN;63;;0434;Soil and Water Supervisor District 4;1125;9901;WRITE-IN;;;WI;10;21;4;0.46;862
+MN;63;;0435;Soil and Water Supervisor District 5;1125;9001;Jimmy Hagge;;;NP;10;21;842;99.64;845
+MN;63;;0435;Soil and Water Supervisor District 5;1125;9901;WRITE-IN;;;WI;10;21;3;0.36;845
+MN;64;;0391;County Commissioner District 1;01;9001;Rick Wakefield;;;NP;0;13;0;0.00;0
+MN;64;;0391;County Commissioner District 1;01;9901;WRITE-IN;;;WI;0;13;0;0.00;0
+MN;64;;0394;County Commissioner District 4;04;9001;Robert Van Hee;;;NP;0;2;0;0.00;0
+MN;64;;0394;County Commissioner District 4;04;9901;WRITE-IN;;;WI;0;2;0;0.00;0
+MN;64;;0395;County Commissioner District 5;05;9001;David Forkrud;;;NP;4;9;135;36.68;368
+MN;64;;0395;County Commissioner District 5;05;9002;Corey Theis;;;NP;4;9;233;63.32;368
+MN;64;;0395;County Commissioner District 5;05;9901;WRITE-IN;;;WI;4;9;0;0.00;368
+MN;64;;0421;COUNTY QUESTION 1;;9001;YES;;;NP;12;42;452;24.58;1839
+MN;64;;0421;COUNTY QUESTION 1;;9002;NO;;;NP;12;42;1387;75.42;1839
+MN;64;;0432;Soil and Water Supervisor District 2;5127;9001;Brian Timm;;;NP;12;42;1577;99.24;1589
+MN;64;;0432;Soil and Water Supervisor District 2;5127;9901;WRITE-IN;;;WI;12;42;12;0.76;1589
+MN;64;;0433;Soil and Water Supervisor District 3;5127;9001;Rick Maurer;;;NP;12;42;1600;99.50;1608
+MN;64;;0433;Soil and Water Supervisor District 3;5127;9901;WRITE-IN;;;WI;12;42;8;0.50;1608
+MN;64;;0434;Soil and Water Supervisor District 4;5127;9901;WRITE-IN;;;WI;12;42;56;100.00;56
+MN;65;;0391;County Commissioner District 1;01;9001;Robert M Wright;;;NP;7;7;250;17.78;1406
+MN;65;;0391;County Commissioner District 1;01;9002;Craig Carlson;;;NP;7;7;1148;81.65;1406
+MN;65;;0391;County Commissioner District 1;01;9901;WRITE-IN;;;WI;7;7;8;0.57;1406
+MN;65;;0393;County Commissioner District 3;03;9001;Jackie Edwards;;;NP;11;11;769;46.63;1649
+MN;65;;0393;County Commissioner District 3;03;9002;Greg Mertens;;;NP;11;11;873;52.94;1649
+MN;65;;0393;County Commissioner District 3;03;9901;WRITE-IN;;;WI;11;11;7;0.42;1649
+MN;65;;0395;County Commissioner District 5;05;9001;David Hamre;;;NP;8;8;1408;98.60;1428
+MN;65;;0395;County Commissioner District 5;05;9901;WRITE-IN;;;WI;8;8;20;1.40;1428
+MN;65;;0431;Soil and Water Supervisor District 1;6129;9001;M.R. Koenig;;;NP;7;7;1312;99.39;1320
+MN;65;;0431;Soil and Water Supervisor District 1;6129;9901;WRITE-IN;;;WI;7;7;8;0.61;1320
+MN;65;;0432;Soil and Water Supervisor District 2;6130;9001;Kevin S. Kokesch;;;NP;8;8;1320;99.55;1326
+MN;65;;0432;Soil and Water Supervisor District 2;6130;9901;WRITE-IN;;;WI;8;8;6;0.45;1326
+MN;66;;0391;County Commissioner District 1;01;9001;Erik Sahlin;;;NP;10;12;2759;45.23;6100
+MN;66;;0391;County Commissioner District 1;01;9002;Jim Purfeerst;;;NP;10;12;3318;54.39;6100
+MN;66;;0391;County Commissioner District 1;01;9901;WRITE-IN;;;WI;10;12;23;0.38;6100
+MN;66;;0392;County Commissioner District 2;02;9001;Galen Malecha;;;NP;5;5;5760;98.88;5825
+MN;66;;0392;County Commissioner District 2;02;9901;WRITE-IN;;;WI;5;5;65;1.12;5825
+MN;66;;0395;County Commissioner District 5;05;9001;Charles Peters;;;NP;8;9;5353;98.75;5421
+MN;66;;0395;County Commissioner District 5;05;9901;WRITE-IN;;;WI;8;9;68;1.25;5421
+MN;66;;0421;COUNTY QUESTION 1;;9001;YES;;;NP;27;31;13846;47.56;29112
+MN;66;;0421;COUNTY QUESTION 1;;9002;NO;;;NP;27;31;15266;52.44;29112
+MN;66;;0431;Soil and Water Supervisor District 1;7131;9001;Alexander W. Malecha;;;NP;27;31;21154;99.12;21342
+MN;66;;0431;Soil and Water Supervisor District 1;7131;9901;WRITE-IN;;;WI;27;31;188;0.88;21342
+MN;66;;0432;Soil and Water Supervisor District 2;7131;9001;Dante Rand;;;NP;27;31;7339;34.98;20981
+MN;66;;0432;Soil and Water Supervisor District 2;7131;9002;Gene Kuntz;;;NP;27;31;13489;64.29;20981
+MN;66;;0432;Soil and Water Supervisor District 2;7131;9901;WRITE-IN;;;WI;27;31;153;0.73;20981
+MN;66;;0434;Soil and Water Supervisor District 4;7131;9001;John Larson;;;NP;27;31;10504;50.55;20780
+MN;66;;0434;Soil and Water Supervisor District 4;7131;9002;Adam Conrad;;;NP;27;31;10123;48.72;20780
+MN;66;;0434;Soil and Water Supervisor District 4;7131;9901;WRITE-IN;;;WI;27;31;153;0.74;20780
+MN;67;;0391;County Commissioner District 1;01;9001;Gary Overgaard;;;NP;11;11;828;97.18;852
+MN;67;;0391;County Commissioner District 1;01;9901;WRITE-IN;;;WI;11;11;24;2.82;852
+MN;67;;0393;County Commissioner District 3;03;9001;Greg Burger;;;NP;5;5;1060;98.79;1073
+MN;67;;0393;County Commissioner District 3;03;9901;WRITE-IN;;;WI;5;5;13;1.21;1073
+MN;67;;0395;County Commissioner District 5;05;9001;Jody James Reisch;;;NP;2;2;799;99.25;805
+MN;67;;0395;County Commissioner District 5;05;9901;WRITE-IN;;;WI;2;2;6;0.75;805
+MN;67;;0431;Soil and Water Supervisor District 1;5133;9001;Eugene Cragoe;;;NP;24;24;4076;96.54;4222
+MN;67;;0431;Soil and Water Supervisor District 1;5133;9901;WRITE-IN;;;WI;24;24;146;3.46;4222
+MN;67;;0433;Soil and Water Supervisor District 3;5133;9001;Roger Hoff;;;NP;24;24;4615;99.72;4628
+MN;67;;0433;Soil and Water Supervisor District 3;5133;9901;WRITE-IN;;;WI;24;24;13;0.28;4628
+MN;67;;0434;Soil and Water Supervisor District 4;5133;9001;Dave Esselink;;;NP;24;24;4574;99.76;4585
+MN;67;;0434;Soil and Water Supervisor District 4;5133;9901;WRITE-IN;;;WI;24;24;11;0.24;4585
+MN;68;;0392;County Commissioner District 2;02;9001;Jack Swanson;;;NP;2;2;1068;100.00;1068
+MN;68;;0392;County Commissioner District 2;02;9901;WRITE-IN;;;WI;2;2;0;0.00;1068
+MN;68;;0394;County Commissioner District 4;04;9001;Kermit Jensen;;;NP;2;11;581;100.00;581
+MN;68;;0394;County Commissioner District 4;04;9901;WRITE-IN;;;WI;2;11;0;0.00;581
+MN;68;;0431;Soil and Water Supervisor District 1;1135;9901;WRITE-IN;;;WI;9;44;0;0.00;0
+MN;68;;0432;Soil and Water Supervisor District 2;1135;9901;WRITE-IN;;;WI;9;44;0;0.00;0
+MN;68;;0435;Soil and Water Supervisor District 5;1135;9001;Landon Olson;;;NP;9;44;2313;100.00;2313
+MN;68;;0435;Soil and Water Supervisor District 5;1135;9901;WRITE-IN;;;WI;9;44;0;0.00;2313
+MN;69;;0392;County Commissioner District 2;02;9001;Patrick Boyle;;;NP;0;11;0;0.00;0
+MN;69;;0392;County Commissioner District 2;02;9901;WRITE-IN;;;WI;0;11;0;0.00;0
+MN;69;;0393;County Commissioner District 3;03;9001;Ashley Grimm;;;NP;0;13;0;0.00;0
+MN;69;;0393;County Commissioner District 3;03;9002;Janet Kennedy;;;NP;0;13;0;0.00;0
+MN;69;;0393;County Commissioner District 3;03;9901;WRITE-IN;;;WI;0;13;0;0.00;0
+MN;69;;0395;County Commissioner District 5;05;9001;Keith Musolf;;;NP;0;11;0;0.00;0
+MN;69;;0395;County Commissioner District 5;05;9901;WRITE-IN;;;WI;0;11;0;0.00;0
+MN;69;;0397;County Commissioner District 7;07;9001;Michael A Jugovich;;;NP;3;30;5315;98.30;5407
+MN;69;;0397;County Commissioner District 7;07;9901;WRITE-IN;;;WI;3;30;92;1.70;5407
+MN;69;;0432;Soil and Water Supervisor District 2 (North);3137;9001;Jerry R. Hovi;;;NP;7;91;6763;98.80;6845
+MN;69;;0432;Soil and Water Supervisor District 2 (North);3137;9901;WRITE-IN;;;WI;7;91;82;1.20;6845
+MN;69;;0434;Soil and Water Supervisor District 4 (North);3137;9001;Charles Bainter;;;NP;7;91;6728;99.03;6794
+MN;69;;0434;Soil and Water Supervisor District 4 (North);3137;9901;WRITE-IN;;;WI;7;91;66;0.97;6794
+MN;69;;0435;Soil and Water Supervisor District 5 (North);3137;9001;Mark Peterson;;;NP;7;91;6806;99.08;6869
+MN;69;;0435;Soil and Water Supervisor District 5 (North);3137;9901;WRITE-IN;;;WI;7;91;63;0.92;6869
+MN;69;;0436;Soil and Water Supervisor District 1 (South);3138;9001;John Tollgaard;;;NP;0;77;0;0.00;0
+MN;69;;0436;Soil and Water Supervisor District 1 (South);3138;9901;WRITE-IN;;;WI;0;77;0;0.00;0
+MN;69;;0439;Soil and Water Supervisor District 4 (South);3138;9001;Paul Fish;;;NP;0;77;0;0.00;0
+MN;69;;0439;Soil and Water Supervisor District 4 (South);3138;9901;WRITE-IN;;;WI;0;77;0;0.00;0
+MN;70;;0391;County Commissioner District 1;01;9001;Joe Wagner;;;NP;14;15;7328;49.92;14680
+MN;70;;0391;County Commissioner District 1;01;9002;Barb Weckman Brekke;;;NP;14;15;7311;49.80;14680
+MN;70;;0391;County Commissioner District 1;01;9901;WRITE-IN;;;WI;14;15;41;0.28;14680
+MN;70;;0393;County Commissioner District 3;03;9001;Jody L. Brennan;;;NP;9;9;6806;98.72;6894
+MN;70;;0393;County Commissioner District 3;03;9901;WRITE-IN;;;WI;9;9;88;1.28;6894
+MN;70;;0432;Soil and Water Supervisor District 2;4140;9001;Rob Casey;;;NP;9;9;12841;98.75;13003
+MN;70;;0432;Soil and Water Supervisor District 2;4140;9901;WRITE-IN;;;WI;9;9;162;1.25;13003
+MN;70;;0435;Soil and Water Supervisor District 5;4144;9001;Daniel Giles;;;NP;9;9;8258;98.82;8357
+MN;70;;0435;Soil and Water Supervisor District 5;4144;9901;WRITE-IN;;;WI;9;9;99;1.18;8357
+MN;71;;0391;County Commissioner District 1;01;9001;Andrew Hulse;;;NP;5;6;4617;98.51;4687
+MN;71;;0391;County Commissioner District 1;01;9901;WRITE-IN;;;WI;5;6;70;1.49;4687
+MN;71;;0395;County Commissioner District 5;05;9001;Brad Schumacher;;;NP;6;7;4994;62.98;7929
+MN;71;;0395;County Commissioner District 5;05;9002;Lisa A. Fobbe;;;NP;6;7;2890;36.45;7929
+MN;71;;0395;County Commissioner District 5;05;9901;WRITE-IN;;;WI;6;7;45;0.57;7929
+MN;71;;0431;Soil and Water Supervisor District 1;4141;9001;Shelly Binsfeld;;;NP;26;35;12597;54.29;23202
+MN;71;;0431;Soil and Water Supervisor District 1;4141;9002;Matthew Detjen;;;NP;26;35;10371;44.70;23202
+MN;71;;0431;Soil and Water Supervisor District 1;4141;9901;WRITE-IN;;;WI;26;35;234;1.01;23202
+MN;71;;0433;Soil and Water Supervisor District 3;4141;9001;Larry Goenner;;;NP;26;35;20919;98.66;21203
+MN;71;;0433;Soil and Water Supervisor District 3;4141;9901;WRITE-IN;;;WI;26;35;284;1.34;21203
+MN;71;;0435;Soil and Water Supervisor District 5;4141;9001;Joshua Krenz;;;NP;26;35;20685;98.66;20966
+MN;71;;0435;Soil and Water Supervisor District 5;4141;9901;WRITE-IN;;;WI;26;35;281;1.34;20966
+MN;72;;0393;County Commissioner District 3;03;9001;Fred Latzke JR;;;NP;4;4;662;46.55;1422
+MN;72;;0393;County Commissioner District 3;03;9002;Lyle W. Grochow;;;NP;4;4;757;53.23;1422
+MN;72;;0393;County Commissioner District 3;03;9901;WRITE-IN;;;WI;4;4;3;0.21;1422
+MN;72;;0394;County Commissioner District 4;04;9001;Joe Kreger;;;NP;6;6;567;33.71;1682
+MN;72;;0394;County Commissioner District 4;04;9002;Keith Hennen;;;NP;6;6;1108;65.87;1682
+MN;72;;0394;County Commissioner District 4;04;9901;WRITE-IN;;;WI;6;6;7;0.42;1682
+MN;72;;0433;Soil and Water Supervisor District 3;6143;9001;Loren Evenson;;;NP;23;25;5336;99.39;5369
+MN;72;;0433;Soil and Water Supervisor District 3;6143;9901;WRITE-IN;;;WI;23;25;33;0.61;5369
+MN;72;;0434;Soil and Water Supervisor District 4;6143;9001;Wayne R. Grams;;;NP;23;25;5327;99.33;5363
+MN;72;;0434;Soil and Water Supervisor District 4;6143;9901;WRITE-IN;;;WI;23;25;36;0.67;5363
+MN;72;;0435;Soil and Water Supervisor District 5;6143;9001;Robert Bob Nielsen;;;NP;23;25;5315;99.48;5343
+MN;72;;0435;Soil and Water Supervisor District 5;6143;9901;WRITE-IN;;;WI;23;25;28;0.52;5343
+MN;73;;0392;County Commissioner District 2;02;9001;Joe Perske;;;NP;15;15;9984;61.82;16149
+MN;73;;0392;County Commissioner District 2;02;9002;Jerry Theisen;;;NP;15;15;6104;37.80;16149
+MN;73;;0392;County Commissioner District 2;02;9901;WRITE-IN;;;WI;15;15;61;0.38;16149
+MN;73;;0395;County Commissioner District 5;05;9001;Steve Notch;;;NP;37;37;13707;99.05;13839
+MN;73;;0395;County Commissioner District 5;05;9901;WRITE-IN;;;WI;37;37;132;0.95;13839
+MN;73;;0421;COUNTY QUESTION 1;;9001;YES;;;NP;98;98;50236;62.25;80703
+MN;73;;0421;COUNTY QUESTION 1;;9002;NO;;;NP;98;98;30467;37.75;80703
+MN;73;;0432;Soil and Water Supervisor District 2;2145;9001;Arlyn Lawrenz;;;NP;98;98;59841;99.24;60298
+MN;73;;0432;Soil and Water Supervisor District 2;2145;9901;WRITE-IN;;;WI;98;98;457;0.76;60298
+MN;73;;0433;Soil and Water Supervisor District 3;2145;9001;Kenneth Schefers;;;NP;98;98;59878;99.28;60314
+MN;73;;0433;Soil and Water Supervisor District 3;2145;9901;WRITE-IN;;;WI;98;98;436;0.72;60314
+MN;73;;0434;Soil and Water Supervisor District 4;2145;9001;Matt Bruyette;;;NP;98;98;59177;99.34;59571
+MN;73;;0434;Soil and Water Supervisor District 4;2145;9901;WRITE-IN;;;WI;98;98;394;0.66;59571
+MN;74;;0393;County Commissioner District 3;03;9001;Josh Prokopec;;;NP;3;3;1858;57.38;3238
+MN;74;;0393;County Commissioner District 3;03;9002;Rick A. Gnemi;;;NP;3;3;1360;42.00;3238
+MN;74;;0393;County Commissioner District 3;03;9901;WRITE-IN;;;WI;3;3;20;0.62;3238
+MN;74;;0394;County Commissioner District 4;04;9001;Jim Abbe;;;NP;3;3;3450;98.85;3490
+MN;74;;0394;County Commissioner District 4;04;9901;WRITE-IN;;;WI;3;3;40;1.15;3490
+MN;74;;0395;County Commissioner District 5;05;9001;Scott Prestegard;;;NP;2;3;1098;45.64;2406
+MN;74;;0395;County Commissioner District 5;05;9002;Greg Krueger;;;NP;2;3;1287;53.49;2406
+MN;74;;0395;County Commissioner District 5;05;9901;WRITE-IN;;;WI;2;3;21;0.87;2406
+MN;74;;0432;Soil and Water Supervisor District 2;7147;9001;David Melby;;;NP;25;26;14860;99.38;14952
+MN;74;;0432;Soil and Water Supervisor District 2;7147;9901;WRITE-IN;;;WI;25;26;92;0.62;14952
+MN;74;;0434;Soil and Water Supervisor District 4;7147;9001;Daniel Hansen;;;NP;25;26;14605;99.48;14681
+MN;74;;0434;Soil and Water Supervisor District 4;7147;9901;WRITE-IN;;;WI;25;26;76;0.52;14681
+MN;74;;0435;Soil and Water Supervisor District 5;7147;9001;Bradley Hagen;;;NP;25;26;14530;99.55;14595
+MN;74;;0435;Soil and Water Supervisor District 5;7147;9901;WRITE-IN;;;WI;25;26;65;0.45;14595
+MN;75;;0393;County Commissioner District 3;03;9001;Charles O'Keefe;;;NP;2;7;33;30.00;110
+MN;75;;0393;County Commissioner District 3;03;9002;Ron Staples;;;NP;2;7;77;70.00;110
+MN;75;;0393;County Commissioner District 3;03;9901;WRITE-IN;;;WI;2;7;0;0.00;110
+MN;75;;0394;County Commissioner District 4;04;9001;Donald D Wohlers;;;NP;1;2;769;97.84;786
+MN;75;;0394;County Commissioner District 4;04;9901;WRITE-IN;;;WI;1;2;17;2.16;786
+MN;75;;0431;Soil and Water Supervisor District 1;2149;9001;Dave Lonergan;;;NP;8;24;2332;98.94;2357
+MN;75;;0431;Soil and Water Supervisor District 1;2149;9901;WRITE-IN;;;WI;8;24;25;1.06;2357
+MN;75;;0434;Soil and Water Supervisor District 4;2149;9001;Dennis Feuchtenberger;;;NP;8;24;2369;99.45;2382
+MN;75;;0434;Soil and Water Supervisor District 4;2149;9901;WRITE-IN;;;WI;8;24;13;0.55;2382
+MN;75;;0435;Soil and Water Supervisor District 5;2149;9001;Troy Goodnough;;;NP;8;24;2312;98.55;2346
+MN;75;;0435;Soil and Water Supervisor District 5;2149;9901;WRITE-IN;;;WI;8;24;34;1.45;2346
+MN;76;;0391;County Commissioner District 1;01;9001;Gary Hendrickx;;;NP;0;5;0;0.00;0
+MN;76;;0391;County Commissioner District 1;01;9002;John Holtz;;;NP;0;5;0;0.00;0
+MN;76;;0391;County Commissioner District 1;01;9901;WRITE-IN;;;WI;0;5;0;0.00;0
+MN;76;;0393;County Commissioner District 3;03;9001;Peter Peterson;;;NP;0;2;0;0.00;0
+MN;76;;0393;County Commissioner District 3;03;9901;WRITE-IN;;;WI;0;2;0;0.00;0
+MN;76;;0395;County Commissioner District 5;05;9001;Eric G. Rudningen;;;NP;0;7;0;0.00;0
+MN;76;;0395;County Commissioner District 5;05;9901;WRITE-IN;;;WI;0;7;0;0.00;0
+MN;76;;0431;Soil and Water Supervisor District 1;2151;9001;Scott Olson;;;NP;0;30;0;0.00;0
+MN;76;;0431;Soil and Water Supervisor District 1;2151;9901;WRITE-IN;;;WI;0;30;0;0.00;0
+MN;76;;0435;Soil and Water Supervisor District 5;2151;9001;Mark Weimerskirch;;;NP;0;30;0;0.00;0
+MN;76;;0435;Soil and Water Supervisor District 5;2151;9901;WRITE-IN;;;WI;0;30;0;0.00;0
+MN;77;;0391;County Commissioner District 1;01;9001;Barbara Becker;;;NP;0;6;0;0.00;0
+MN;77;;0391;County Commissioner District 1;01;9002;Sharon Thiel;;;NP;0;6;0;0.00;0
+MN;77;;0391;County Commissioner District 1;01;9901;WRITE-IN;;;WI;0;6;0;0.00;0
+MN;77;;0393;County Commissioner District 3;03;9001;Bob Byers;;;NP;0;3;0;0.00;0
+MN;77;;0393;County Commissioner District 3;03;9901;WRITE-IN;;;WI;0;3;0;0.00;0
+MN;77;;0395;County Commissioner District 5;05;9001;Randy Neumann;;;NP;0;9;0;0.00;0
+MN;77;;0395;County Commissioner District 5;05;9901;WRITE-IN;;;WI;0;9;0;0.00;0
+MN;77;;0432;Soil and Water Supervisor District 2;2153;9001;Wayne W. Wendel;;;NP;0;40;0;0.00;0
+MN;77;;0432;Soil and Water Supervisor District 2;2153;9901;WRITE-IN;;;WI;0;40;0;0.00;0
+MN;77;;0434;Soil and Water Supervisor District 4;2153;9001;Larry Bebus;;;NP;0;40;0;0.00;0
+MN;77;;0434;Soil and Water Supervisor District 4;2153;9901;WRITE-IN;;;WI;0;40;0;0.00;0
+MN;78;;0391;County Commissioner District 1;01;9001;Chad Edward Metz;;;NP;2;2;137;54.15;253
+MN;78;;0391;County Commissioner District 1;01;9002;Todd Johnson;;;NP;2;2;114;45.06;253
+MN;78;;0391;County Commissioner District 1;01;9901;WRITE-IN;;;WI;2;2;2;0.79;253
+MN;78;;0393;County Commissioner District 3;03;9001;Mark Gail;;;NP;1;1;140;41.92;334
+MN;78;;0393;County Commissioner District 3;03;9002;Scott Schultz;;;NP;1;1;194;58.08;334
+MN;78;;0393;County Commissioner District 3;03;9901;WRITE-IN;;;WI;1;1;0;0.00;334
+MN;78;;0395;County Commissioner District 5;05;9001;Dwight Nelson;;;NP;8;8;286;96.95;295
+MN;78;;0395;County Commissioner District 5;05;9901;WRITE-IN;;;WI;8;8;9;3.05;295
+MN;78;;0431;Soil and Water Supervisor District 1;1155;9001;Dennis Zimbrick;;;NP;20;20;1472;99.19;1484
+MN;78;;0431;Soil and Water Supervisor District 1;1155;9901;WRITE-IN;;;WI;20;20;12;0.81;1484
+MN;78;;0432;Soil and Water Supervisor District 2;1155;9001;Greg Hoppe;;;NP;20;20;1350;98.76;1367
+MN;78;;0432;Soil and Water Supervisor District 2;1155;9901;WRITE-IN;;;WI;20;20;17;1.24;1367
+MN;78;;0434;Soil and Water Supervisor District 4;1155;9001;Douglas E. Frisch;;;NP;20;20;1505;99.41;1514
+MN;78;;0434;Soil and Water Supervisor District 4;1155;9901;WRITE-IN;;;WI;20;20;9;0.59;1514
+MN;79;;0391;County Commissioner District 1;01;9001;Robert Walkes;;;NP;5;5;2046;98.79;2071
+MN;79;;0391;County Commissioner District 1;01;9901;WRITE-IN;;;WI;5;5;25;1.21;2071
+MN;79;;0393;County Commissioner District 3;03;9001;Eugene Brent McNallan;;;NP;6;8;488;36.94;1321
+MN;79;;0393;County Commissioner District 3;03;9002;Donald S springer;;;NP;6;8;826;62.53;1321
+MN;79;;0393;County Commissioner District 3;03;9901;WRITE-IN;;;WI;6;8;7;0.53;1321
+MN;79;;0432;Soil and Water Supervisor District 2;7157;9001;Sharleen Klennert;;;NP;31;33;9267;99.56;9308
+MN;79;;0432;Soil and Water Supervisor District 2;7157;9901;WRITE-IN;;;WI;31;33;41;0.44;9308
+MN;79;;0433;Soil and Water Supervisor District 3;7157;9001;Chester Ross;;;NP;31;33;9159;99.63;9193
+MN;79;;0433;Soil and Water Supervisor District 3;7157;9901;WRITE-IN;;;WI;31;33;34;0.37;9193
+MN;79;;0435;Soil and Water Supervisor District 5;7157;9001;Dag I Knudsen;;;NP;31;33;9047;99.45;9097
+MN;79;;0435;Soil and Water Supervisor District 5;7157;9901;WRITE-IN;;;WI;31;33;50;0.55;9097
+MN;80;;0392;County Commissioner District 2;02;9001;Bryan Winkels;;;NP;0;6;0;0.00;0
+MN;80;;0392;County Commissioner District 2;02;9002;Michael Weyer;;;NP;0;6;0;0.00;0
+MN;80;;0392;County Commissioner District 2;02;9901;WRITE-IN;;;WI;0;6;0;0.00;0
+MN;80;;0394;County Commissioner District 4;04;9001;Murlyn Kreklau;;;NP;0;9;0;0.00;0
+MN;80;;0394;County Commissioner District 4;04;9901;WRITE-IN;;;WI;0;9;0;0.00;0
+MN;80;;0434;Soil and Water Supervisor District 4;8159;9001;Thomas "Tom" Schulz;;;NP;0;24;0;0.00;0
+MN;80;;0434;Soil and Water Supervisor District 4;8159;9901;WRITE-IN;;;WI;0;24;0;0.00;0
+MN;80;;0435;Soil and Water Supervisor District 5;8159;9001;Bruce Juntunen;;;NP;0;24;0;0.00;0
+MN;80;;0435;Soil and Water Supervisor District 5;8159;9901;WRITE-IN;;;WI;0;24;0;0.00;0
+MN;81;;0391;County Commissioner District 1;01;9001;John Donahue;;;NP;8;8;810;42.83;1891
+MN;81;;0391;County Commissioner District 1;01;9002;Douglas Christopherson;;;NP;8;8;1078;57.01;1891
+MN;81;;0391;County Commissioner District 1;01;9901;WRITE-IN;;;WI;8;8;3;0.16;1891
+MN;81;;0392;County Commissioner District 2;02;9001;Brian W. Harguth;;;NP;3;3;1683;99.70;1688
+MN;81;;0392;County Commissioner District 2;02;9901;WRITE-IN;;;WI;3;3;5;0.30;1688
+MN;81;;0431;Soil and Water Supervisor District 1;6161;9001;Wayne Cords;;;NP;22;23;7578;99.55;7612
+MN;81;;0431;Soil and Water Supervisor District 1;6161;9901;WRITE-IN;;;WI;22;23;34;0.45;7612
+MN;81;;0435;Soil and Water Supervisor District 5;6161;9001;Dan Roemhildt;;;NP;22;23;7584;99.50;7622
+MN;81;;0435;Soil and Water Supervisor District 5;6161;9901;WRITE-IN;;;WI;22;23;38;0.50;7622
+MN;82;;0391;County Commissioner District 1;01;9001;Fran Miron;;;NP;0;18;0;0.00;0
+MN;82;;0391;County Commissioner District 1;01;9901;WRITE-IN;;;WI;0;18;0;0.00;0
+MN;82;;0393;County Commissioner District 3;03;9001;Bethany Cox;;;NP;0;20;0;0.00;0
+MN;82;;0393;County Commissioner District 3;03;9003;Mark Wiens;;;NP;0;20;0;0.00;0
+MN;82;;0393;County Commissioner District 3;03;9901;WRITE-IN;;;WI;0;20;0;0.00;0
+MN;82;;0431;Soil and Water Supervisor District 1;4163;9001;Matt Lindholm;;;NP;0;18;0;0.00;0
+MN;82;;0431;Soil and Water Supervisor District 1;4163;9002;Karen Schik;;;NP;0;18;0;0.00;0
+MN;82;;0431;Soil and Water Supervisor District 1;4163;9901;WRITE-IN;;;WI;0;18;0;0.00;0
+MN;82;;0433;Soil and Water Supervisor District 3;4165;9001;John Rheinberger;;;NP;0;20;0;0.00;0
+MN;82;;0433;Soil and Water Supervisor District 3;4165;9901;WRITE-IN;;;WI;0;20;0;0.00;0
+MN;83;;0391;County Commissioner District 1;01;9001;Jim Pettersen;;;NP;1;1;861;99.54;865
+MN;83;;0391;County Commissioner District 1;01;9901;WRITE-IN;;;WI;1;1;4;0.46;865
+MN;83;;0393;County Commissioner District 3;03;9001;Jim Branstad;;;NP;1;1;632;97.68;647
+MN;83;;0393;County Commissioner District 3;03;9901;WRITE-IN;;;WI;1;1;15;2.32;647
+MN;83;;0395;County Commissioner District 5;05;9001;Dillon Melheim;;;NP;4;9;340;98.55;345
+MN;83;;0395;County Commissioner District 5;05;9901;WRITE-IN;;;WI;4;9;5;1.45;345
+MN;83;;0433;Soil and Water Supervisor District 3;6165;9001;Matthew J. Wolle;;;NP;12;21;2158;65.02;3319
+MN;83;;0433;Soil and Water Supervisor District 3;6165;9002;Noren Durheim;;;NP;12;21;1157;34.86;3319
+MN;83;;0433;Soil and Water Supervisor District 3;6165;9901;WRITE-IN;;;WI;12;21;4;0.12;3319
+MN;83;;0434;Soil and Water Supervisor District 4;6165;9001;Jordan Bergeman;;;NP;12;21;3021;99.08;3049
+MN;83;;0434;Soil and Water Supervisor District 4;6165;9901;WRITE-IN;;;WI;12;21;28;0.92;3049
+MN;83;;0435;Soil and Water Supervisor District 5;6165;9001;Andrew Ekstrom;;;NP;12;21;2994;99.47;3010
+MN;83;;0435;Soil and Water Supervisor District 5;6165;9901;WRITE-IN;;;WI;12;21;16;0.53;3010
+MN;84;;0391;County Commissioner District 1;01;9001;Eric P. Klindt;;;NP;0;11;0;0.00;0
+MN;84;;0391;County Commissioner District 1;01;9901;WRITE-IN;;;WI;0;11;0;0.00;0
+MN;84;;0393;County Commissioner District 3;03;9001;Jon Braton Sr.;;;NP;0;11;0;0.00;0
+MN;84;;0393;County Commissioner District 3;03;9901;WRITE-IN;;;WI;0;11;0;0.00;0
+MN;84;;0395;County Commissioner District 5;05;9001;Dennis Larson;;;NP;0;1;0;0.00;0
+MN;84;;0395;County Commissioner District 5;05;9901;WRITE-IN;;;WI;0;1;0;0.00;0
+MN;84;;0431;Soil and Water Supervisor District 1;1167;9001;Ross E. Aigner;;;NP;0;32;0;0.00;0
+MN;84;;0431;Soil and Water Supervisor District 1;1167;9901;WRITE-IN;;;WI;0;32;0;0.00;0
+MN;84;;0433;Soil and Water Supervisor District 3;1167;9001;Jared Nordick;;;NP;0;32;0;0.00;0
+MN;84;;0433;Soil and Water Supervisor District 3;1167;9901;WRITE-IN;;;WI;0;32;0;0.00;0
+MN;84;;0434;Soil and Water Supervisor District 4;1167;9001;Kyle Gowin;;;NP;0;32;0;0.00;0
+MN;84;;0434;Soil and Water Supervisor District 4;1167;9901;WRITE-IN;;;WI;0;32;0;0.00;0
+MN;85;;0393;County Commissioner District 3;03;9001;Josh Elsing;;;NP;0;16;0;0.00;0
+MN;85;;0393;County Commissioner District 3;03;9901;WRITE-IN;;;WI;0;16;0;0.00;0
+MN;85;;0394;County Commissioner District 4;04;9001;Jerald Hettenbach;;;NP;0;6;0;0.00;0
+MN;85;;0394;County Commissioner District 4;04;9002;Greg (Skip) Olson;;;NP;0;6;0;0.00;0
+MN;85;;0394;County Commissioner District 4;04;9901;WRITE-IN;;;WI;0;6;0;0.00;0
+MN;85;;0421;COUNTY QUESTION 1;;9001;YES;;;NP;0;49;0;0.00;0
+MN;85;;0421;COUNTY QUESTION 1;;9002;NO;;;NP;0;49;0;0.00;0
+MN;85;;0432;Soil and Water Supervisor District 2;7169;9001;Thomas M Lindsey;;;NP;0;49;0;0.00;0
+MN;85;;0432;Soil and Water Supervisor District 2;7169;9901;WRITE-IN;;;WI;0;49;0;0.00;0
+MN;85;;0433;Soil and Water Supervisor District 3;7169;9001;Lynn Carlson;;;NP;0;49;0;0.00;0
+MN;85;;0433;Soil and Water Supervisor District 3;7169;9002;Dale Hadler;;;NP;0;49;0;0.00;0
+MN;85;;0433;Soil and Water Supervisor District 3;7169;9003;Bill Rowekamp;;;NP;0;49;0;0.00;0
+MN;85;;0433;Soil and Water Supervisor District 3;7169;9901;WRITE-IN;;;WI;0;49;0;0.00;0
+MN;85;;0435;Soil and Water Supervisor District 5;7169;9001;Andy Kronebusch;;;NP;0;49;0;0.00;0
+MN;85;;0435;Soil and Water Supervisor District 5;7169;9901;WRITE-IN;;;WI;0;49;0;0.00;0
+MN;86;;0392;County Commissioner District 2;02;9001;Darek Vetsch;;;NP;5;10;4161;99.10;4199
+MN;86;;0392;County Commissioner District 2;02;9901;WRITE-IN;;;WI;5;10;38;0.90;4199
+MN;86;;0395;County Commissioner District 5;05;9001;Bill Nibbe;;;NP;11;13;3602;42.22;8532
+MN;86;;0395;County Commissioner District 5;05;9002;Kirby Moynagh;;;NP;11;13;4829;56.60;8532
+MN;86;;0395;County Commissioner District 5;05;9901;WRITE-IN;;;WI;11;13;101;1.18;8532
+MN;86;;0432;Soil and Water Supervisor District 2;4171;9001;Kris Olson;;;NP;33;51;26575;99.23;26780
+MN;86;;0432;Soil and Water Supervisor District 2;4171;9901;WRITE-IN;;;WI;33;51;205;0.77;26780
+MN;86;;0434;Soil and Water Supervisor District 4;4171;9001;Chris Uecker;;;NP;33;51;26609;99.31;26793
+MN;86;;0434;Soil and Water Supervisor District 4;4171;9901;WRITE-IN;;;WI;33;51;184;0.69;26793
+MN;86;;0435;Soil and Water Supervisor District 5;4171;9001;Duane E Dahlman;;;NP;33;51;26530;99.28;26722
+MN;86;;0435;Soil and Water Supervisor District 5;4171;9901;WRITE-IN;;;WI;33;51;192;0.72;26722
+MN;87;;0393;County Commissioner District 3;03;9001;Troy Bruflat;;;NP;0;6;0;0.00;0
+MN;87;;0393;County Commissioner District 3;03;9002;Mitch Kling;;;NP;0;6;0;0.00;0
+MN;87;;0393;County Commissioner District 3;03;9901;WRITE-IN;;;WI;0;6;0;0.00;0
+MN;87;;0395;County Commissioner District 5;05;9001;Glen Kack;;;NP;0;3;0;0.00;0
+MN;87;;0395;County Commissioner District 5;05;9002;Richard Hemish;;;NP;0;3;0;0.00;0
+MN;87;;0395;County Commissioner District 5;05;9901;WRITE-IN;;;WI;0;3;0;0.00;0
+MN;87;;0431;Soil and Water Supervisor District 1;5173;9001;Thomas J Remmele;;;NP;0;30;0;0.00;0
+MN;87;;0431;Soil and Water Supervisor District 1;5173;9901;WRITE-IN;;;WI;0;30;0;0.00;0
+MN;87;;0432;Soil and Water Supervisor District 2;5173;9001;Jerry Nelson;;;NP;0;30;0;0.00;0
+MN;87;;0432;Soil and Water Supervisor District 2;5173;9901;WRITE-IN;;;WI;0;30;0;0.00;0
+MN;87;;0435;Soil and Water Supervisor District 5;5173;9001;DeLon Clarksean;;;NP;0;30;0;0.00;0
+MN;87;;0435;Soil and Water Supervisor District 5;5173;9901;WRITE-IN;;;WI;0;30;0;0.00;0
+
